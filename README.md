@@ -3,12 +3,19 @@
 > You can fork this repository and add your Hello World
 
 <ul>
-<p><b>A :</b></p>
+<p>A</p>
 <li>Asemply</li>
+<li>Arduino</li>
 <hr>
 <p>B</p>
+<li>Brain Fuck</li>
+<li>Bash</li>
+<li>Batch</li>
 <hr>
 <p>C</p>
+<li>C</li>
+<li>C++</li>
+<li>C#</li>
 <hr>
 <p>D</p>
 <hr>
@@ -16,15 +23,19 @@
 <hr>
 <p>F</p>
 <hr>
-<p>J</p>
+<p>G</p>
+<li>Go</li>
 <hr>
 <p>H</p>
+<li>HTML</li>
 <hr>
 <p>I</p>
 <hr>
 <p>J</p>
+<li>Java</li>
 <hr>
 <p>K</p>
+<li>Kotlin</li>
 <hr>
 <p>L</p>
 <hr>
@@ -35,14 +46,21 @@
 <p>O</p>
 <hr>
 <p>P</p>
+<li>Perl</li>
+<li>Python</li>
+<li>Php</li>
 <hr>
 <p>Q</p>
 <hr>
 <p>R</p>
+<li>Ruby</li>
+<li>Rust</li>
 <hr>
 <p>S</p>
+<li>Swift</li>
 <hr>
 <p>T</p>
+<li>Type Script</li>
 <hr>
 <p>U</p>
 <hr>
