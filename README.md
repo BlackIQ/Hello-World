@@ -4,7 +4,7 @@
 
 <ul>
 <p>A</p>
-<li>Asemply</li>
+<li>Assembly</li>
 <li>Arduino</li>
 <hr>
 <p>B</p>
