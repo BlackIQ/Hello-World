@@ -4,18 +4,18 @@
 
 <ul>
 <p>A</p>
-<li>Assembly</li>
-<li>Arduino</li>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Assembly">Assembly</a></li>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Arduino">Arduino</a></li>
 <hr>
 <p>B</p>
-<li>Brain Fuck</li>
-<li>Bash</li>
-<li>Batch</li>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Bash">Bash</a></li>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Batch">Batch</a></li>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Brainfuck">Brainfuck</a></li>
 <hr>
 <p>C</p>
-<li>C</li>
-<li>C++</li>
-<li>C#</li>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/C">C</a></li>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Cpp">C++</a></li>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Csharp">C#</a></li>
 <hr>
 <p>D</p>
 <hr>
@@ -24,18 +24,18 @@
 <p>F</p>
 <hr>
 <p>G</p>
-<li>Go</li>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Go">Go</a></li>
 <hr>
 <p>H</p>
-<li>HTML</li>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Html">Html</a></li>
 <hr>
 <p>I</p>
 <hr>
 <p>J</p>
-<li>Java</li>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Java">Java</a></li>
 <hr>
 <p>K</p>
-<li>Kotlin</li>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Kotlin">Kotlin</a></li>
 <hr>
 <p>L</p>
 <hr>
@@ -46,21 +46,21 @@
 <p>O</p>
 <hr>
 <p>P</p>
-<li>Perl</li>
-<li>Python</li>
-<li>Php</li>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Perl"></a>Perl</li>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Php"></a>Php</li>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Python"></a>Python</li>
 <hr>
 <p>Q</p>
 <hr>
 <p>R</p>
-<li>Ruby</li>
-<li>Rust</li>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Ruby">Ruby</a></li>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Rust">Rust</a></li>
 <hr>
 <p>S</p>
-<li>Swift</li>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Swift">Swift</a></li>
 <hr>
 <p>T</p>
-<li>Type Script</li>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Typescript">Typescript</a></li>
 <hr>
 <p>U</p>
 <hr>
