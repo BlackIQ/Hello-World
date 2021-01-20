@@ -42,6 +42,7 @@
 <p>J</p>
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Java">Java</a></li>
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/JavaScript">JavaScript</a></li>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Julia">Julia</a></li>
 <hr>
 <p>K</p>
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Kotlin">Kotlin</a></li>
