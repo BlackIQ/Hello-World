@@ -1,3 +1,5 @@
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/BlackIQ/Hello-World">
+
 # Hello World in different languages
 
 > You can fork this repository and add your Hello World
