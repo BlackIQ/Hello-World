@@ -56,6 +56,7 @@
 <p>O</p>
 <hr>
 <p>P</p>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Pascal">Pascal</a></li>
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Perl">Perl</a></li>
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Php">Php</a></li>
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Python">Python</a></li>
@@ -63,6 +64,7 @@
 <p>Q</p>
 <hr>
 <p>R</p>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/R">R</a></li>
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Ruby">Ruby</a></li>
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Rust">Rust</a></li>
 <hr>
