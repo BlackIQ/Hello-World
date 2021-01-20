@@ -1,4 +1,4 @@
-<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/BlackIQ/Hello-World">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/BlackIQ/Hello-World">
 
 # Hello World in different languages
 
