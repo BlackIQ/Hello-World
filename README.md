@@ -33,6 +33,7 @@
 <hr>
 <p>G</p>
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Go">Go</a></li>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Groovy">Groovy</a></li>
 <hr>
 <p>H</p>
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Html">Html</a></li>
