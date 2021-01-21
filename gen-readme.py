@@ -44,7 +44,7 @@ readme_content = '''
 '''
 
 for letter in letters:
-    readme_content += '\n# ' + letter.upper() + '\n\n---\n\n'
+    readme_content += '\n### ' + letter.upper() + '\n\n---\n\n'
     for item in letters[letter]:
         readme_content += '- [' + item + '](/' + item + ')\n'
     readme_content += '\n'
