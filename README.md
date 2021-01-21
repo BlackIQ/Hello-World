@@ -63,6 +63,7 @@
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Perl">Perl</a></li>
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Php">Php</a></li>
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Python">Python</a></li>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Pashmak">Pashmak</a></li>
 <hr>
 <p>Q</p>
 <hr>
