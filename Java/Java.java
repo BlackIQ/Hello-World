@@ -1,7 +1,12 @@
 class Java
 {
-    static void main (String[] args)
+    public static void main (String[] args)
     {
-        System.out.println ('Hello World!');
+        System.out.println ("Hello World!");
     }
 }
+
+// To run this:
+// $ javac Java.java
+// $ java Java
+// You will see "Hello World!"
