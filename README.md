@@ -18,163 +18,163 @@ If you want to contribute to this project, read [Contributing Guide](CONTRIBUTIN
 
 ---
 
-- [Arduino](/Arduino)
-- [Assembly](/Assembly)
+- [Arduino](/Arduino) - Created By [Amirhossein Mohammadi](https://github.com/BlackIQ)
+- [Assembly](/Assembly) - Created By [Taha Farahani](https://github.com/tahacodes)
 
 
 ### B
 
 ---
 
-- [Bash](/Bash)
-- [Batch](/Batch)
-- [Befunge](/Befunge)
-- [Brainfuck](/Brainfuck)
+- [Bash](/Bash) - Created By [Mohammad Reza Ebadollah](https://github.com/ebad84)
+- [Batch](/Batch) - Created By [Mohammad Reza Ebadollah](https://github.com/ebad84)
+- [Befunge](/Befunge) - Created By [Saeed Nejati](https://github.com/saeednj)
+- [Brainfuck](/Brainfuck) - Created By [Amirmahdi Tafreshi](https://github.com/mr-tafreshi)
 
 
 ### C
 
 ---
 
-- [C](/C)
-- [COBOL](/COBOL)
-- [Clojure](/Clojure)
-- [Cobra](/Cobra)
-- [CoffeScript](/CoffeScript)
-- [Cpp](/Cpp)
-- [Csharp](/Csharp)
-- [Css](/Css)
-- [Curl](/Curl)
+- [C](/C) - Created By [Mohammad Ebrahime](https://github.com/moheb2000)
+- [COBOL](/COBOL) - Created By [Parsampsh and Contributors](https://github.com/pashmaklang)
+- [Clojure](/Clojure) - Created By [Milad Ahmadi](https://github.com/Mildroid)
+- [Cobra](/Cobra) - Created By [Amirhossein Meydani](https://github.com/amireshoon)
+- [CoffeScript](/CoffeScript) - Created By [Mehen](https://github.com/mehanalavimajd)
+- [Cpp](/Cpp) - Created By [Mani Jamali](https://github.com/manijamali2003)
+- [Csharp](/Csharp) - Created By [Amirhossein Mohammadi](https://github.com/BlackIQ)
+- [Css](/Css) - Created By [Amin Ghs](https://github.com/aminghs)
+- [Curl](/Curl) - Created By [Amirhossein Meydani](https://github.com/amireshoon)
 
 
 ### D
 
 ---
 
-- [D](/D)
-- [Dart](/Dart)
-- [Django](/Django)
+- [D](/D) - Created By [Sina](https://github.com/sina-devel)
+- [Dart](/Dart) - Created By [Amir Lesani](https://github.com/xenups)
+- [Django](/Django) - Created By [shahriar](https://github.com/shahriaarrr)
 
 
 ### E
 
 ---
 
-- [Elixir](/Elixir)
-- [Erlang](/Erlang)
+- [Elixir](/Elixir) - Created By [Kourosh Alinaghi](https://github.com/KouroshAlinaghi)
+- [Erlang](/Erlang) - Created By [Amirhossein Meydani](https://github.com/amireshoon)
 
 
 ### F
 
 ---
 
-- [Flask-python-framework](/Flask-python-framework)
-- [Flutter](/Flutter)
-- [Fsharp](/Fsharp)
+- [Flask-python-framework](/Flask-python-framework) - Created By [shahriar](https://github.com/shahriaarrr)
+- [Flutter](/Flutter) - Created By [shahriar](https://github.com/shahriaarrr)
+- [Fsharp](/Fsharp) - Created By [shahriar](https://github.com/shahriaarrr)
 
 
 ### G
 
 ---
 
-- [Go](/Go)
-- [Go-Gin](/Go-Gin)
-- [Groovy](/Groovy)
+- [Go](/Go) - Created By [Sina Yeganeh Faal](https://github.com/SinaYeganeh0-0)
+- [Go-Gin](/Go-Gin) - Created By [Amirhossein Meydani](https://github.com/amireshoon)
+- [Groovy](/Groovy) - Created By [Elyas 'Eloy' Hadizadeh Tasbiti](https://github.com/elyashadizadeh)
 
 
 ### H
 
 ---
 
-- [Hack](/Hack)
-- [Hashemi](/Hashemi)
-- [Haskell](/Haskell)
-- [Html](/Html)
+- [Hack](/Hack) - Created By [Amirhossein Meydani](https://github.com/amireshoon)
+- [Hashemi](/Hashemi) - Created By [Erfan Saberi](https://github.com/erfansaberi)
+- [Haskell](/Haskell) - Created By [Javad Rajabzade](https://github.com/Ja7adR)
+- [Html](/Html) - Created By [Sina Yeganeh Faal](https://github.com/SinaYeganeh0-0)
 
 
 ### J
 
 ---
 
-- [Java](/Java)
-- [JavaScript](/JavaScript)
-- [Julia](/Julia)
+- [Java](/Java) - Created By [Mani Jamali](https://github.com/manijamali2003)
+- [JavaScript](/JavaScript) - Created By [Amin Ghs](https://github.com/aminghs)
+- [Julia](/Julia) - Created By [Ali Madihi](https://github.com/mrunderline)
 
 
 ### K
 
 ---
 
-- [Kotlin](/Kotlin)
+- [Kotlin](/Kotlin) - Created By [Amirhossein Mohammadi](https://github.com/BlackIQ)
 
 
 ### L
 
 ---
 
-- [Lua](/Lua)
+- [Lua](/Lua) - Created By [Amir Lesani](https://github.com/xenups)
 
 
 ### M
 
 ---
 
-- [Makefile](/Makefile)
-- [Matlab](/Matlab)
+- [Makefile](/Makefile) - Created By [Amirhossein Meydani](https://github.com/amireshoon)
+- [Matlab](/Matlab) - Created By [Mohammad Mirsafaei](https://github.com/MohammadMirsafaei)
 
 
 ### O
 
 ---
 
-- [OBJECTIVE-C](/OBJECTIVE-C)
-- [Octave](/Octave)
+- [OBJECTIVE-C](/OBJECTIVE-C) - Created By [shahriar](https://github.com/shahriaarrr)
+- [Octave](/Octave) - Created By [Sato](https://github.com/satocoder)
 
 
 ### P
 
 ---
 
-- [Pascal](/Pascal)
+- [Pascal](/Pascal) - Created By [Arian Ebrahimi](https://github.com/ribrea)
 - [Pashmak](/Pashmak) - Created By [Parsampsh and Contributors](https://github.com/pashmaklang)
-- [Perl](/Perl)
-- [Php](/Php)
-- [Python](/Python) - Created By Python Development Team
+- [Perl](/Perl) - Created By [Amirhossein Mohammadi](https://github.com/BlackIQ)
+- [Php](/Php) - Created By [Mohammad Reza Ebadollah](https://github.com/ebad84)
+- [Python](/Python) - Created By [rezabojnordi](https://github.com/rezabojnordi)
 
 
 ### R
 
 ---
 
-- [R](/R)
-- [Red](/Red)
-- [Ruby](/Ruby)
-- [Rust](/Rust)
+- [R](/R) - Created By [Arian Ebrahimi](https://github.com/ribrea)
+- [Red](/Red) - Created By [Parsampsh and Contributors](https://github.com/pashmaklang)
+- [Ruby](/Ruby) - Created By [Amirhossein Mohammadi](https://github.com/BlackIQ)
+- [Rust](/Rust) - Created By [Amirmahdi Tafreshi](https://github.com/mr-tafreshi)
 
 
 ### S
 
 ---
 
-- [SQL](/SQL)
-- [Scala](/Scala)
-- [Scheme](/Scheme)
-- [Scratch](/Scratch)
-- [Scss](/Scss)
-- [Swift](/Swift)
+- [SQL](/SQL) - Created By [Saeed Bayat](https://github.com/01shadowalker01)
+- [Scala](/Scala) - Created By [Elyas 'Eloy' Hadizadeh Tasbiti](https://github.com/elyashadizadeh)
+- [Scheme](/Scheme) - Created By [Parsampsh and Contributors](https://github.com/pashmaklang)
+- [Scratch](/Scratch) - Created By [shahriar](https://github.com/shahriaarrr)
+- [Scss](/Scss) - Created By [Parsampsh and Contributors](https://github.com/pashmaklang)
+- [Swift](/Swift) - Created By [Amir Lesani](https://github.com/xenups)
 
 
 ### T
 
 ---
 
-- [Tcl](/Tcl)
-- [Typescript](/Typescript)
+- [Tcl](/Tcl) - Created By [Parsampsh and Contributors](https://github.com/pashmaklang)
+- [Typescript](/Typescript) - Created By [Amirhossein Mohammadi](https://github.com/BlackIQ)
 
 
 ### V
 
 ---
 
-- [V](/V)
-- [Vala](/Vala)
+- [V](/V) - Created By [Jadi Mirmirani](https://github.com/jadijadi)
+- [Vala](/Vala) - Created By [Amirhossein Meydani](https://github.com/amireshoon)
