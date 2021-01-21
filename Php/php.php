@@ -1,4 +1,3 @@
 <?php
 // eebad84
-echo "hello wrold";
-?>
+echo "Hello World!" . PHP_EOL;
