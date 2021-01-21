@@ -1,8 +1,10 @@
+<p>
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/BlackIQ/Hello-World">
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/BlackIQ/Hello-World">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/BlackIQ/Hello-World">
 <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/BlackIQ/Hello-World">
 <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/BlackIQ/Hello-World">
+</p>
 
 # Hello World in different languages
 
