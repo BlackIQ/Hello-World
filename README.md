@@ -139,7 +139,7 @@ If you want to contribute to this project, read [Contributing Guide](CONTRIBUTIN
 - [Pashmak](/Pashmak) - Created By [Parsampsh and Contributors](https://github.com/pashmaklang)
 - [Perl](/Perl)
 - [Php](/Php)
-- [Python](/Python) - Created By Python Development Team
+- [Python](/Python) - Created By [Python Development Team](https://python.org)
 
 
 ### R
