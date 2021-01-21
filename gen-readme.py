@@ -3,6 +3,7 @@
 """ This script generates README.md automaticaly """
 
 import os
+import json
 
 project_dir = os.path.dirname(os.path.abspath(__file__))
 """ The project directory path """
@@ -46,7 +47,32 @@ readme_content = '''
 for letter in letters:
     readme_content += '\n### ' + letter.upper() + '\n\n---\n\n'
     for item in letters[letter]:
-        readme_content += '- [' + item + '](/' + item + ')\n'
+        creator_title = None
+        creator_link = None
+        if os.path.isfile(project_dir + '/' + item + '/info.json'):
+            try:
+                f = open(project_dir + '/' + item + '/info.json', 'r')
+                content = f.read()
+                f.close()
+                content = json.loads(content)
+                try:
+                    creator_title = content['creator']['title']
+                    try:
+                        creator_link = content['creator']['link']
+                    except KeyError:
+                        pass
+                except KeyError:
+                    pass
+            except:
+                print('error: invalid json data in ' + item + '/info.json. ignored...')
+
+        if creator_title != None:
+            if creator_link != None:
+                readme_content += '- [' + item + '](/' + item + ') - Created By [' + creator_title + '](' + creator_link + ')\n'
+            else:
+                readme_content += '- [' + item + '](/' + item + ') - Created By ' + creator_title + '\n'
+        else:
+            readme_content += '- [' + item + '](/' + item + ')\n'
     readme_content += '\n'
 
 # write content on readme.md
