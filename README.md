@@ -132,10 +132,10 @@
 ---
 
 - [Pascal](/Pascal)
-- [Pashmak](/Pashmak)
+- [Pashmak](/Pashmak) - Created By [Parsampsh and Contributors](https://github.com/pashmaklang)
 - [Perl](/Perl)
 - [Php](/Php)
-- [Python](/Python)
+- [Python](/Python) - Created By Python Development Team
 
 
 ### R
