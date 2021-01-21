@@ -40,7 +40,7 @@ readme_content = '''
 
 # Hello World And some Examples in different Programming Languages
 
-This repository contains a big list from programming languages and some examples for them. Also there is some descriptions about them and some tutorials. If you want to learn a programming language, decriptions, tutorials and examples in this repo maybe helpful.
+This repository contains a big list of programming languages and some examples for them. Also there are some descriptions about them and some tutorials. If you want to learn a programming language, the decriptions, tutorials and examples for that language in this repo might be helpful.
 
 > You can fork this repository and add your Hello World
 
