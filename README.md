@@ -86,6 +86,7 @@
 <li><a href="/R">R</a></li>
 <li><a href="/Ruby">Ruby</a></li>
 <li><a href="/Rust">Rust</a></li>
+<li><a href="/Red">Red</a></li>
 <hr>
 <p>S</p>
 <li><a href="/Scala">Scala</a></li>
