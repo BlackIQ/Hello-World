@@ -1,7 +1,7 @@
 # Contributing to Hello World project
 If you want to contribute to this project:
 - Fork this repo in github
-- Pull your fork
+- Clone your fork
 - Create a branch
 - Make your changes and commit
 - Push your branch to your fork
