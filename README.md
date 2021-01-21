@@ -54,6 +54,7 @@ If you want to contribute to this project, read [Contributing Guide](CONTRIBUTIN
 - [D](/D) - Created By [Sina](https://github.com/sina-devel)
 - [Dart](/Dart) - Created By [Amir Lesani](https://github.com/xenups)
 - [Django](/Django) - Created By [shahriar](https://github.com/shahriaarrr)
+- [Docker](/Docker)
 
 
 ### E
@@ -89,6 +90,7 @@ If you want to contribute to this project, read [Contributing Guide](CONTRIBUTIN
 - [Hack](/Hack) - Created By [Amirhossein Meydani](https://github.com/amireshoon)
 - [Hashemi](/Hashemi) - Created By [Erfan Saberi](https://github.com/erfansaberi)
 - [Haskell](/Haskell) - Created By [Javad Rajabzade](https://github.com/Ja7adR)
+- [Haxe](/Haxe)
 - [Html](/Html) - Created By [Sina Yeganeh Faal](https://github.com/SinaYeganeh0-0)
 
 
@@ -128,6 +130,7 @@ If you want to contribute to this project, read [Contributing Guide](CONTRIBUTIN
 ---
 
 - [OBJECTIVE-C](/OBJECTIVE-C) - Created By [shahriar](https://github.com/shahriaarrr)
+- [OCaml](/OCaml)
 - [Octave](/Octave) - Created By [Sato](https://github.com/satocoder)
 
 
@@ -139,7 +142,7 @@ If you want to contribute to this project, read [Contributing Guide](CONTRIBUTIN
 - [Pashmak](/Pashmak) - Created By [Parsampsh and Contributors](https://github.com/pashmaklang)
 - [Perl](/Perl) - Created By [Amirhossein Mohammadi](https://github.com/BlackIQ)
 - [Php](/Php) - Created By [Mohammad Reza Ebadollah](https://github.com/ebad84)
-- [Python](/Python) - Created By [rezabojnordi](https://github.com/rezabojnordi)
+- [Python](/Python) - Created By [Python Development Team](https://python.org)
 
 
 ### R
