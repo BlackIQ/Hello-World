@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+__pashmam__
+*.sqlite3
+*.sqlite
+
