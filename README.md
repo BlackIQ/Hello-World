@@ -33,6 +33,7 @@
 <hr>
 <p>E</p>
 <li><a href="/Elixir">Elixir</a></li>
+<li><a href="/Erlang">Erlang</a></li>
 <hr>
 <p>F</p>
 <li><a href="/Fsharp">F#</a></li>
