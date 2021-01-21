@@ -1,0 +1,3 @@
+printf("Hello, world!\n");
+
+disp("Hello, World!");
