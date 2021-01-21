@@ -42,7 +42,8 @@ readme_content = '''
 
 This repository contains a big list of programming languages and some examples for them. Also there are some descriptions about them and some tutorials. If you want to learn a programming language, the decriptions, tutorials and examples for that language in this repo might be helpful.
 
-> You can fork this repository and add your Hello World
+## Contributing
+If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
 '''
 
