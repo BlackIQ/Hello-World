@@ -27,6 +27,7 @@ This repository contains a big list from programming languages and some examples
 
 - [Bash](/Bash)
 - [Batch](/Batch)
+- [Befunge](/Befunge)
 - [Brainfuck](/Brainfuck)
 
 
