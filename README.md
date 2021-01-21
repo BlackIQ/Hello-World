@@ -24,10 +24,6 @@
 <li><a href="/Cpp">C++</a></li>
 <li><a href="/Csharp">C#</a></li>
 <li><a href="/Css">Css</a></li>
-<<<<<<< HEAD
-=======
-<li><a href="/CoffeScript">CoffeeScript</a></li>
->>>>>>> 19121498c9ca2684e5ded15fbf08ffb6fef49d61
 <hr>
 <p>D</p>
 <li><a href="/D">D</a></li>
