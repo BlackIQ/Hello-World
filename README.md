@@ -22,8 +22,10 @@
 <li><a href="/C">C</a></li>
 <li><a href="/CoffeScript">CoffeScript</a></li>
 <li><a href="/Cpp">C++</a></li>
+<li><a href="/Cobra">Cobra</a></li>
 <li><a href="/Csharp">C#</a></li>
 <li><a href="/Css">Css</a></li>
+<li><a href="/Curl">Curl</a></li>
 <hr>
 <p>D</p>
 <li><a href="/D">D</a></li>
@@ -31,6 +33,7 @@
 <hr>
 <p>E</p>
 <li><a href="/Elixir">Elixir</a></li>
+<li><a href="/Erlang">Erlang</a></li>
 <hr>
 <p>F</p>
 <li><a href="/Fsharp">F#</a></li>
@@ -40,6 +43,7 @@
 <li><a href="/Groovy">Groovy</a></li>
 <hr>
 <p>H</p>
+<li><a href="/Hack">Hack</a></li>
 <li><a href="/Html">Html</a></li>
 <hr>
 <p>I</p>
@@ -91,6 +95,7 @@
 <hr>
 <p>V</p>
 <li><a href="/V">V</a></li>
+<li><a href="/Vala">Vala</a></li>
 <hr>
 <p>W</p>
 <hr>
