@@ -22,6 +22,7 @@
 <li><a href="/C">C</a></li>
 <li><a href="/CoffeScript">CoffeScript</a></li>
 <li><a href="/Cpp">C++</a></li>
+<li><a href="/Cobra">Cobra</a></li>
 <li><a href="/Csharp">C#</a></li>
 <li><a href="/Css">Css</a></li>
 <hr>
