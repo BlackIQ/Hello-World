@@ -20,18 +20,20 @@
 <hr>
 <p>C</p>
 <li><a href="/C">C</a></li>
+<li><a href="/CoffeScript">CoffeScript</a></li>
 <li><a href="/Cpp">C++</a></li>
 <li><a href="/Csharp">C#</a></li>
 <li><a href="/Css">Css</a></li>
-<li><a href="/CoffeScript">CoffeScript</a></li>
 <hr>
 <p>D</p>
 <li><a href="/D">D</a></li>
+<li><a href="/Dart">Dart</a></li>
 <hr>
 <p>E</p>
 <li><a href="/Elixir">Elixir</a></li>
 <hr>
 <p>F</p>
+<li><a href="/Fsharp">F#</a></li>
 <hr>
 <p>G</p>
 <li><a href="/Go">Go</a></li>
@@ -51,15 +53,18 @@
 <li><a href="/Kotlin">Kotlin</a></li>
 <hr>
 <p>L</p>
+<li><a href="/Lua">Lua</a></li>
 <hr>
 <p>M</p>
 <hr>
 <p>N</p>
 <hr>
 <p>O</p>
+<li><a href="/OBJECTIVE-C">Objective C</a></li>
 <hr>
 <p>P</p>
 <li><a href="/Pascal">Pascal</a></li>
+<li><a href="/Pashmak">Pashmak</a></li>
 <li><a href="/Perl">Perl</a></li>
 <li><a href="/Php">Php</a></li>
 <li><a href="/Python">Python</a></li>
@@ -73,10 +78,10 @@
 <li><a href="/Rust">Rust</a></li>
 <hr>
 <p>S</p>
-<li><a href="/SQL">SQL</a></li>
 <li><a href="/Scala">Scala</a></li>
-<li><a href="/Swift">Swift</a></li>
 <li><a href="/Scss">Scss</a></li>
+<li><a href="/Swift">Swift</a></li>
+<li><a href="/SQL">SQL</a></li>
 <hr>
 <p>T</p>
 <li><a href="/Typescript">Typescript</a></li>
