@@ -1,0 +1,5 @@
+# This program asks name of user and says hello
+
+print('what is your name? ')
+$name = read()
+println('hello ' + $name)

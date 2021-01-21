@@ -1,0 +1,18 @@
+# This is a simple loop printing numbers from 1 to 99
+
+func myfunc($args)
+    $args = format_args($args)
+    $n = $args[0]
+
+    println('starting...')
+
+    $i = 1
+    while $i < $n
+        println($i)
+        $i = $i + 1
+    endwhile
+
+    println('finished')
+endfunc
+
+myfunc(100)

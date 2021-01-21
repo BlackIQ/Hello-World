@@ -1,0 +1,12 @@
+# We have a array from names. here we print them one by one
+
+# declare $names array
+$names = ['parsa', 'pashmak', 'something']
+
+# set a counter for loop
+$i = 0
+
+while $i < len($names)
+    println($names[$i])
+    $i = $i + 1
+endwhile
