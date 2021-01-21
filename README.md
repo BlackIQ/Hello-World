@@ -76,7 +76,6 @@
 <li><a href="/Perl">Perl</a></li>
 <li><a href="/Php">Php</a></li>
 <li><a href="/Python">Python</a></li>
-<li><a href="/Pashmak">Pashmak</a></li>
 <hr>
 <p>Q</p>
 <hr>
