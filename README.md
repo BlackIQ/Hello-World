@@ -65,6 +65,7 @@
 ---
 
 - [Flask((pythons framework))](/Flask((pythons framework)))
+- [Flutter](/Flutter)
 - [Fsharp](/Fsharp)
 
 
