@@ -30,6 +30,7 @@
 <p>D</p>
 <li><a href="/D">D</a></li>
 <li><a href="/Dart">Dart</a></li>
+<li><a href="/Docker">Docker</a></li>
 <hr>
 <p>E</p>
 <li><a href="/Elixir">Elixir</a></li>
