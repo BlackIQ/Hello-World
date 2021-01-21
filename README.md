@@ -45,6 +45,7 @@
 <hr>
 <p>H</p>
 <li><a href="/Hack">Hack</a></li>
+<li><a href="/Haskell">Haskell</a></li>
 <li><a href="/Html">Html</a></li>
 <hr>
 <p>I</p>
@@ -92,6 +93,7 @@
 <hr>
 <p>T</p>
 <li><a href="/Typescript">Typescript</a></li>
+<li><a href="/Tcl">Tcl</a></li>
 <hr>
 <p>U</p>
 <hr>
