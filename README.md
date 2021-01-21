@@ -69,6 +69,7 @@
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Rust">Rust</a></li>
 <hr>
 <p>S</p>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Scala">Scala</a></li>
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Swift">Swift</a></li>
 <hr>
 <p>T</p>
