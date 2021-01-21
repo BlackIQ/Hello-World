@@ -38,7 +38,9 @@ readme_content = '''
 <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/BlackIQ/Hello-World">
 </p>
 
-# Hello World in different languages
+# Hello World And some Examples in different Programming Languages
+
+This repository contains a big list from programming languages and some examples for them. Also there is some descriptions about them and some tutorials. If you want to learn a programming language, decriptions, tutorials and examples in this repo maybe helpful.
 
 > You can fork this repository and add your Hello World
 
