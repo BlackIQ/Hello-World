@@ -90,6 +90,7 @@ If you want to contribute to this project, read [Contributing Guide](CONTRIBUTIN
 - [Hashemi](/Hashemi)
 - [Haskell](/Haskell)
 - [Html](/Html)
+- [Haxe](/Haxe)
 
 
 ### J
