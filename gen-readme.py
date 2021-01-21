@@ -79,5 +79,5 @@ for letter in letters:
 
 # write content on readme.md
 f = open(project_dir + '/README.md', 'w')
-f.write(readme_content.strip())
+f.write(readme_content.strip() + '\n')
 f.close()
