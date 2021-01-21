@@ -25,6 +25,7 @@
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Css">Css</a></li>
 <hr>
 <p>D</p>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/D">D</a></li>
 <hr>
 <p>E</p>
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Elixir">Elixir</a></li>
@@ -70,6 +71,7 @@
 <hr>
 <p>S</p>
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/SQL">SQL</a></li>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Scala">Scala</a></li>
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Swift">Swift</a></li>
 <hr>
 <p>T</p>
