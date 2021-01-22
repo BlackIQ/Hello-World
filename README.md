@@ -13,7 +13,7 @@ This repository contains a big list of programming languages and some examples f
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in the Repository: 68.
+Total Languages in the Repository: 69.
 
 
 ### A
@@ -165,9 +165,9 @@ Total Languages in the Repository: 68.
 
 - [R](/R) - Added By [Arian Ebrahimi](https://github.com/ribrea)
 - [Red](/Red) - Added By [Sami Ghasemi](https://github.com/sami2020pro)
+- [Rockstar](/Rockstar)
 - [Ruby](/Ruby) - Added By [Amirhossein Mohammadi](https://github.com/BlackIQ)
 - [Rust](/Rust) - Added By [Amirmahdi Tafreshi](https://github.com/mr-tafreshi)
-- [Rockstar](/Rockstar) - Added By [Ali Arj](https://github.com/ali0gamer1)
 
 
 ### S
