@@ -62,13 +62,16 @@ for letter in letters:
                 content = f.read()
                 f.close()
                 content = json.loads(content)
-                creator_title = content['creator']['title']
-            except KeyError:
-                creator_link = content['creator']['link']
-            except KeyError:
-                pass
+                try:
+                    creator_title = content['creator']['title']
+                    try:
+                        creator_link = content['creator']['link']
+                    except KeyError:
+                        pass
+                except KeyError:
+                    pass
             except:
-                print(colored(f'Error: invalid json data in {item}/info.json. ignored...', 'red'))
+                print(f'Error: invalid json data in {item}/info.json. ignored...')
 
         if creator_title != None:
             if creator_link != None:
