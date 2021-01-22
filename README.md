@@ -13,7 +13,7 @@ This repository contains a big list of programming languages and some examples f
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in the Repository: 69.
+Total Languages in the Repository: 68.
 
 
 ### A
@@ -186,7 +186,6 @@ Total Languages in the Repository: 69.
 ---
 
 - [Tcl](/Tcl) - Added By [Javad Rajabzade](https://github.com/Ja7adR)
-- [Testdir](/Testdir)
 - [Typescript](/Typescript) - Added By [Amirhossein Mohammadi](https://github.com/BlackIQ)
 
 
