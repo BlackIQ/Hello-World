@@ -9,8 +9,7 @@ If you want to contribute to this project:
 
 Some notes:
 - if you are adding new example, surely test that code before commiting
-- run `python3 gen-readme.py` when you are adding **New language** to add that language to the readme list(don't worry, if you don't our self do this after your PR)
-- Do not change `README.md` directly
+- Do not change `README.md` directly, new languages will be added to the list automatically
 
 ### Adding new language
 If you want to add new language to this repo, You should create a directory named name of that language capitalized. for example `Python` or `Php`.
