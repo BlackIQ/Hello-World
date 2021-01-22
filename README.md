@@ -37,7 +37,7 @@ If you want to contribute to this project, read [Contributing Guide](CONTRIBUTIN
 ---
 
 - [C](/C) - Created By [Mohammad Ebrahime](https://github.com/moheb2000)
-- [COBOL](/COBOL) - Created By [Parsampsh and Contributors](https://github.com/pashmaklang)
+- [COBOL](/COBOL) - Created By [Sami Ghasemi](https://github.com/sami2020pro)
 - [Clojure](/Clojure) - Created By [Milad Ahmadi](https://github.com/Mildroid)
 - [Cobra](/Cobra) - Created By [Amirhossein Meydani](https://github.com/amireshoon)
 - [CoffeScript](/CoffeScript) - Created By [Mehen](https://github.com/mehanalavimajd)
@@ -54,7 +54,7 @@ If you want to contribute to this project, read [Contributing Guide](CONTRIBUTIN
 - [D](/D) - Created By [Sina](https://github.com/sina-devel)
 - [Dart](/Dart) - Created By [Amir Lesani](https://github.com/xenups)
 - [Django](/Django) - Created By [shahriar](https://github.com/shahriaarrr)
-- [Docker](/Docker)
+- [Docker](/Docker) - Created By [Javad Rajabzade](https://github.com/Ja7adR)
 
 
 ### E
@@ -90,7 +90,7 @@ If you want to contribute to this project, read [Contributing Guide](CONTRIBUTIN
 - [Hack](/Hack) - Created By [Amirhossein Meydani](https://github.com/amireshoon)
 - [Hashemi](/Hashemi) - Created By [Erfan Saberi](https://github.com/erfansaberi)
 - [Haskell](/Haskell) - Created By [Javad Rajabzade](https://github.com/Ja7adR)
-- [Haxe](/Haxe)
+- [Haxe](/Haxe) - Created By [Amin Asadi](https://github.com/aminasadiam)
 - [Html](/Html) - Created By [Sina Yeganeh Faal](https://github.com/SinaYeganeh0-0)
 
 
@@ -130,7 +130,7 @@ If you want to contribute to this project, read [Contributing Guide](CONTRIBUTIN
 ---
 
 - [OBJECTIVE-C](/OBJECTIVE-C) - Created By [shahriar](https://github.com/shahriaarrr)
-- [OCaml](/OCaml)
+- [OCaml](/OCaml) - Created By [Mohammad Masoudi](https://github.com/mmasoudih)
 - [Octave](/Octave) - Created By [Sato](https://github.com/satocoder)
 
 
@@ -139,7 +139,7 @@ If you want to contribute to this project, read [Contributing Guide](CONTRIBUTIN
 ---
 
 - [Pascal](/Pascal) - Created By [Arian Ebrahimi](https://github.com/ribrea)
-- [Pashmak](/Pashmak) - Created By [Parsampsh and Contributors](https://github.com/pashmaklang)
+- [Pashmak](/Pashmak) - Created By [parsa mpsh](https://github.com/pashmaklang)
 - [Perl](/Perl) - Created By [Amirhossein Mohammadi](https://github.com/BlackIQ)
 - [Php](/Php) - Created By [Mohammad Reza Ebadollah](https://github.com/ebad84)
 - [Python](/Python) - Created By [Python Development Team](https://python.org)
@@ -150,7 +150,7 @@ If you want to contribute to this project, read [Contributing Guide](CONTRIBUTIN
 ---
 
 - [R](/R) - Created By [Arian Ebrahimi](https://github.com/ribrea)
-- [Red](/Red) - Created By [Parsampsh and Contributors](https://github.com/pashmaklang)
+- [Red](/Red) - Created By [Sami Ghasemi](https://github.com/sami2020pro)
 - [Ruby](/Ruby) - Created By [Amirhossein Mohammadi](https://github.com/BlackIQ)
 - [Rust](/Rust) - Created By [Amirmahdi Tafreshi](https://github.com/mr-tafreshi)
 
@@ -161,9 +161,9 @@ If you want to contribute to this project, read [Contributing Guide](CONTRIBUTIN
 
 - [SQL](/SQL) - Created By [Saeed Bayat](https://github.com/01shadowalker01)
 - [Scala](/Scala) - Created By [Elyas 'Eloy' Hadizadeh Tasbiti](https://github.com/elyashadizadeh)
-- [Scheme](/Scheme) - Created By [Parsampsh and Contributors](https://github.com/pashmaklang)
+- [Scheme](/Scheme) - Created By [Sami Ghasemi](https://github.com/sami2020pro)
 - [Scratch](/Scratch) - Created By [shahriar](https://github.com/shahriaarrr)
-- [Scss](/Scss) - Created By [Parsampsh and Contributors](https://github.com/pashmaklang)
+- [Scss](/Scss) - Created By [AzerothA](https://github.com/AzerothA)
 - [Swift](/Swift) - Created By [Amir Lesani](https://github.com/xenups)
 
 
@@ -171,7 +171,7 @@ If you want to contribute to this project, read [Contributing Guide](CONTRIBUTIN
 
 ---
 
-- [Tcl](/Tcl) - Created By [Parsampsh and Contributors](https://github.com/pashmaklang)
+- [Tcl](/Tcl) - Created By [Javad Rajabzade](https://github.com/Ja7adR)
 - [Typescript](/Typescript) - Created By [Amirhossein Mohammadi](https://github.com/BlackIQ)
 
 
