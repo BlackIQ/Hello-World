@@ -5,7 +5,6 @@ on: [push]
 jobs:
   build:
 
-    allow-failure: true
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -21,6 +20,7 @@ jobs:
       run: |
         python gen-readme.py
     - name: Update readme
+      continue-on-error: true
       run: |
         git config --global user.name 'amireshoon'
         git config --global user.email 'abtin.yas53@gmail.com'
