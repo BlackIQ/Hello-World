@@ -54,7 +54,7 @@ Total Languages in the Repository: {count}.
 for letter in letters:
     readme_content += '\n### ' + letter.upper() + '\n\n---\n\n'
     for item in letters[letter]:
-
+        real_item = item
         if ' ' in item:
             item = item.replace(' ', "-")
 
@@ -79,11 +79,11 @@ for letter in letters:
 
         if creator_title != None:
             if creator_link != None:
-                readme_content += '- [' + item + '](/' + item + ') - Added By [' + creator_title + '](' + creator_link + ')\n'
+                readme_content += '- [' + item + '](/' + real_item + ') - Added By [' + creator_title + '](' + creator_link + ')\n'
             else:
-                readme_content += '- [' + item + '](/' + item + ') - Added By ' + creator_title + '\n'
+                readme_content += '- [' + item + '](/' + real_item + ') - Added By ' + creator_title + '\n'
         else:
-            readme_content += '- [' + item + '](/' + item + ')\n'
+            readme_content += '- [' + item + '](/' + real_item + ')\n'
     readme_content += '\n'
 
 # write content on readme.md
