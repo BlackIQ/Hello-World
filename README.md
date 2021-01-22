@@ -13,7 +13,7 @@ This repository contains a big list of programming languages and some examples f
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in the Repository: 61.
+Total Languages in the Repository: 62.
 
 
 ### A
@@ -73,6 +73,7 @@ Total Languages in the Repository: 61.
 
 - [Flask-python-framework](/Flask-python-framework) - Added By [shahriar](https://github.com/shahriaarrr)
 - [Flutter](/Flutter) - Added By [shahriar](https://github.com/shahriaarrr)
+- [Fortran](/Fortran) - Added By [Saeed Bayat](https://github.com/01shadowalker01)
 - [Fsharp](/Fsharp) - Added By [shahriar](https://github.com/shahriaarrr)
 
 
