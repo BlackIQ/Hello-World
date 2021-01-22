@@ -13,7 +13,7 @@ This repository contains a big list of programming languages and some examples f
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in the Repository: 62.
+Total Languages in the Repository: 63.
 
 
 ### A
@@ -43,6 +43,7 @@ Total Languages in the Repository: 62.
 - [Clojure](/Clojure) - Added By [Milad Ahmadi](https://github.com/Mildroid)
 - [Cobra](/Cobra) - Added By [Amirhossein Meydani](https://github.com/amireshoon)
 - [CoffeScript](/CoffeScript) - Added By [Mehen](https://github.com/mehanalavimajd)
+- [Cow](/Cow) - Added By [Saeed Bayat](https://github.com/01shadowalker01)
 - [Cpp](/Cpp) - Added By [Mani Jamali](https://github.com/manijamali2003)
 - [Csharp](/Csharp) - Added By [Amirhossein Mohammadi](https://github.com/BlackIQ)
 - [Css](/Css) - Added By [Amin Ghs](https://github.com/aminghs)
