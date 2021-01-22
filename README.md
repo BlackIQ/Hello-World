@@ -13,15 +13,14 @@ This repository contains a big list of programming languages and some examples f
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-
-Total Languages in the Repository: 67.
-
+Total Languages in the Repository: 68.
 
 
 ### A
 
 ---
 
+- [Abdal-Autoit](/Abdal-Autoit)
 - [Arduino](/Arduino) - Added By [Amirhossein Mohammadi](https://github.com/BlackIQ)
 - [Assembly](/Assembly) - Added By [Taha Farahani](https://github.com/tahacodes)
 
