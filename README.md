@@ -167,6 +167,7 @@ Total Languages in the Repository: 68.
 - [Red](/Red) - Added By [Sami Ghasemi](https://github.com/sami2020pro)
 - [Ruby](/Ruby) - Added By [Amirhossein Mohammadi](https://github.com/BlackIQ)
 - [Rust](/Rust) - Added By [Amirmahdi Tafreshi](https://github.com/mr-tafreshi)
+- [Rockstar](/Rockstar) - Added By [Ali Arj](https://github.com/ali0gamer1)
 
 
 ### S
