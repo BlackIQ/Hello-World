@@ -4,7 +4,6 @@
 
 import os
 import json
-from termcolor import colored
 
 project_dir = os.path.dirname(os.path.abspath(__file__))
 """ The project directory path """
@@ -48,7 +47,7 @@ This repository contains a big list of programming languages and some examples f
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in the Repository {count} .
+Total Languages in the Repository: {count}.
 
 '''
 
@@ -88,4 +87,4 @@ f = open(project_dir + '/README.md', 'w')
 f.write(readme_content.strip() + '\n')
 f.close()
 
-print(colored('Done !', 'green'))
+print('Done!')
