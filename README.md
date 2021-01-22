@@ -152,7 +152,7 @@ Total Languages in the Repository: 69.
 ---
 
 - [Pascal](/Pascal) - Added By <img src="https://github.com/ribrea.png?size=30" width="30" height="30" /> [Arian Ebrahimi](https://github.com/ribrea)
-- [Pashmak](/Pashmak) - Added By <img src="https://github.com/pashmaklang.png?size=30" width="30" height="30" /> [Parsa](https://github.com/pashmaklang)
+- [Pashmak](/Pashmak) - Added By <img src="https://github.com/parsampsh.png?size=30" width="30" height="30" /> [Parsa](https://github.com/parsampsh)
 - [Perl](/Perl) - Added By <img src="https://github.com/BlackIQ.png?size=30" width="30" height="30" /> [Amirhossein Mohammadi](https://github.com/BlackIQ)
 - [Php](/Php) - Added By <img src="https://github.com/ebad84.png?size=30" width="30" height="30" /> [Mohammad Reza Ebadollah](https://github.com/ebad84)
 - [Plus](/Plus) - Added By <img src="https://github.com/amireshoon.png?size=30" width="30" height="30" /> [Amirhossein Meydani](https://github.com/amireshoon)
