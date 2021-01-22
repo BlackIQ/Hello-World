@@ -1,4 +1,4 @@
-name: Python package
+name: Generate Readme
 
 on: [push]
 
@@ -16,10 +16,10 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: ${{ matrix.python-version }}
-    - name: Run gen-readme
+    - name: Run gen-readme.py
       run: |
         python gen-readme.py
-    - name: Update readme
+    - name: Commit new README
       continue-on-error: true
       run: |
         git config --global user.name 'Hello-World-Project-Bot'
