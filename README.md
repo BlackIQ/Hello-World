@@ -20,166 +20,166 @@ Total Languages in the Repository 61 .
 
 ---
 
-- [Arduino](/Arduino) - Created By [Amirhossein Mohammadi](https://github.com/BlackIQ)
-- [Assembly](/Assembly) - Created By [Taha Farahani](https://github.com/tahacodes)
+- [Arduino](/Arduino) - Added By [Amirhossein Mohammadi](https://github.com/BlackIQ)
+- [Assembly](/Assembly) - Added By [Taha Farahani](https://github.com/tahacodes)
 
 
 ### B
 
 ---
 
-- [Bash](/Bash) - Created By [Mohammad Reza Ebadollah](https://github.com/ebad84)
-- [Batch](/Batch) - Created By [Mohammad Reza Ebadollah](https://github.com/ebad84)
-- [Befunge](/Befunge) - Created By [Saeed Nejati](https://github.com/saeednj)
-- [Brainfuck](/Brainfuck) - Created By [Amirmahdi Tafreshi](https://github.com/mr-tafreshi)
+- [Bash](/Bash) - Added By [Mohammad Reza Ebadollah](https://github.com/ebad84)
+- [Batch](/Batch) - Added By [Mohammad Reza Ebadollah](https://github.com/ebad84)
+- [Befunge](/Befunge) - Added By [Saeed Nejati](https://github.com/saeednj)
+- [Brainfuck](/Brainfuck) - Added By [Amirmahdi Tafreshi](https://github.com/mr-tafreshi)
 
 
 ### C
 
 ---
 
-- [C](/C) - Created By [Mohammad Ebrahime](https://github.com/moheb2000)
-- [COBOL](/COBOL) - Created By [Sami Ghasemi](https://github.com/sami2020pro)
-- [Clojure](/Clojure) - Created By [Milad Ahmadi](https://github.com/Mildroid)
-- [Cobra](/Cobra) - Created By [Amirhossein Meydani](https://github.com/amireshoon)
-- [CoffeScript](/CoffeScript) - Created By [Mehen](https://github.com/mehanalavimajd)
-- [Cpp](/Cpp) - Created By [Mani Jamali](https://github.com/manijamali2003)
-- [Csharp](/Csharp) - Created By [Amirhossein Mohammadi](https://github.com/BlackIQ)
-- [Css](/Css) - Created By [Amin Ghs](https://github.com/aminghs)
-- [Curl](/Curl) - Created By [Amirhossein Meydani](https://github.com/amireshoon)
+- [C](/C) - Added By [Mohammad Ebrahime](https://github.com/moheb2000)
+- [COBOL](/COBOL) - Added By [Sami Ghasemi](https://github.com/sami2020pro)
+- [Clojure](/Clojure) - Added By [Milad Ahmadi](https://github.com/Mildroid)
+- [Cobra](/Cobra) - Added By [Amirhossein Meydani](https://github.com/amireshoon)
+- [CoffeScript](/CoffeScript) - Added By [Mehen](https://github.com/mehanalavimajd)
+- [Cpp](/Cpp) - Added By [Mani Jamali](https://github.com/manijamali2003)
+- [Csharp](/Csharp) - Added By [Amirhossein Mohammadi](https://github.com/BlackIQ)
+- [Css](/Css) - Added By [Amin Ghs](https://github.com/aminghs)
+- [Curl](/Curl) - Added By [Amirhossein Meydani](https://github.com/amireshoon)
 
 
 ### D
 
 ---
 
-- [D](/D) - Created By [Sina](https://github.com/sina-devel)
-- [Dart](/Dart) - Created By [Amir Lesani](https://github.com/xenups)
-- [Django](/Django) - Created By [shahriar](https://github.com/shahriaarrr)
-- [Docker](/Docker) - Created By [Javad Rajabzade](https://github.com/Ja7adR)
+- [D](/D) - Added By [Sina](https://github.com/sina-devel)
+- [Dart](/Dart) - Added By [Amir Lesani](https://github.com/xenups)
+- [Django](/Django) - Added By [shahriar](https://github.com/shahriaarrr)
+- [Docker](/Docker) - Added By [Javad Rajabzade](https://github.com/Ja7adR)
 
 
 ### E
 
 ---
 
-- [Elixir](/Elixir) - Created By [Kourosh Alinaghi](https://github.com/KouroshAlinaghi)
-- [Erlang](/Erlang) - Created By [Amirhossein Meydani](https://github.com/amireshoon)
+- [Elixir](/Elixir) - Added By [Kourosh Alinaghi](https://github.com/KouroshAlinaghi)
+- [Erlang](/Erlang) - Added By [Amirhossein Meydani](https://github.com/amireshoon)
 
 
 ### F
 
 ---
 
-- [Flask-python-framework](/Flask-python-framework) - Created By [shahriar](https://github.com/shahriaarrr)
-- [Flutter](/Flutter) - Created By [shahriar](https://github.com/shahriaarrr)
-- [Fsharp](/Fsharp) - Created By [shahriar](https://github.com/shahriaarrr)
+- [Flask-python-framework](/Flask-python-framework) - Added By [shahriar](https://github.com/shahriaarrr)
+- [Flutter](/Flutter) - Added By [shahriar](https://github.com/shahriaarrr)
+- [Fsharp](/Fsharp) - Added By [shahriar](https://github.com/shahriaarrr)
 
 
 ### G
 
 ---
 
-- [Go](/Go) - Created By [Sina Yeganeh Faal](https://github.com/SinaYeganeh0-0)
-- [Go-Gin](/Go-Gin) - Created By [Amirhossein Meydani](https://github.com/amireshoon)
-- [Groovy](/Groovy) - Created By [Elyas 'Eloy' Hadizadeh Tasbiti](https://github.com/elyashadizadeh)
+- [Go](/Go) - Added By [Sina Yeganeh Faal](https://github.com/SinaYeganeh0-0)
+- [Go-Gin](/Go-Gin) - Added By [Amirhossein Meydani](https://github.com/amireshoon)
+- [Groovy](/Groovy) - Added By [Elyas 'Eloy' Hadizadeh Tasbiti](https://github.com/elyashadizadeh)
 
 
 ### H
 
 ---
 
-- [Hack](/Hack) - Created By [Amirhossein Meydani](https://github.com/amireshoon)
-- [Hashemi](/Hashemi) - Created By [Erfan Saberi](https://github.com/erfansaberi)
-- [Haskell](/Haskell) - Created By [Javad Rajabzade](https://github.com/Ja7adR)
-- [Haxe](/Haxe) - Created By [Amin Asadi](https://github.com/aminasadiam)
-- [Html](/Html) - Created By [Sina Yeganeh Faal](https://github.com/SinaYeganeh0-0)
+- [Hack](/Hack) - Added By [Amirhossein Meydani](https://github.com/amireshoon)
+- [Hashemi](/Hashemi) - Added By [Erfan Saberi](https://github.com/erfansaberi)
+- [Haskell](/Haskell) - Added By [Javad Rajabzade](https://github.com/Ja7adR)
+- [Haxe](/Haxe) - Added By [Amin Asadi](https://github.com/aminasadiam)
+- [Html](/Html) - Added By [Sina Yeganeh Faal](https://github.com/SinaYeganeh0-0)
 
 
 ### J
 
 ---
 
-- [Java](/Java) - Created By [Mani Jamali](https://github.com/manijamali2003)
-- [JavaScript](/JavaScript) - Created By [Amin Ghs](https://github.com/aminghs)
-- [Julia](/Julia) - Created By [Ali Madihi](https://github.com/mrunderline)
+- [Java](/Java) - Added By [Mani Jamali](https://github.com/manijamali2003)
+- [JavaScript](/JavaScript) - Added By [Amin Ghs](https://github.com/aminghs)
+- [Julia](/Julia) - Added By [Ali Madihi](https://github.com/mrunderline)
 
 
 ### K
 
 ---
 
-- [Kotlin](/Kotlin) - Created By [Amirhossein Mohammadi](https://github.com/BlackIQ)
+- [Kotlin](/Kotlin) - Added By [Amirhossein Mohammadi](https://github.com/BlackIQ)
 
 
 ### L
 
 ---
 
-- [Lua](/Lua) - Created By [Amir Lesani](https://github.com/xenups)
+- [Lua](/Lua) - Added By [Amir Lesani](https://github.com/xenups)
 
 
 ### M
 
 ---
 
-- [Makefile](/Makefile) - Created By [Amirhossein Meydani](https://github.com/amireshoon)
-- [Matlab](/Matlab) - Created By [Mohammad Mirsafaei](https://github.com/MohammadMirsafaei)
+- [Makefile](/Makefile) - Added By [Amirhossein Meydani](https://github.com/amireshoon)
+- [Matlab](/Matlab) - Added By [Mohammad Mirsafaei](https://github.com/MohammadMirsafaei)
 
 
 ### O
 
 ---
 
-- [OBJECTIVE-C](/OBJECTIVE-C) - Created By [shahriar](https://github.com/shahriaarrr)
-- [OCaml](/OCaml) - Created By [Mohammad Masoudi](https://github.com/mmasoudih)
-- [Octave](/Octave) - Created By [Sato](https://github.com/satocoder)
+- [OBJECTIVE-C](/OBJECTIVE-C) - Added By [shahriar](https://github.com/shahriaarrr)
+- [OCaml](/OCaml) - Added By [Mohammad Masoudi](https://github.com/mmasoudih)
+- [Octave](/Octave) - Added By [Sato](https://github.com/satocoder)
 
 
 ### P
 
 ---
 
-- [Pascal](/Pascal) - Created By [Arian Ebrahimi](https://github.com/ribrea)
-- [Pashmak](/Pashmak) - Created By [parsa mpsh](https://github.com/pashmaklang)
-- [Perl](/Perl) - Created By [Amirhossein Mohammadi](https://github.com/BlackIQ)
-- [Php](/Php) - Created By [Mohammad Reza Ebadollah](https://github.com/ebad84)
-- [Python](/Python) - Created By [Python Development Team](https://python.org)
+- [Pascal](/Pascal) - Added By [Arian Ebrahimi](https://github.com/ribrea)
+- [Pashmak](/Pashmak) - Added By [parsa mpsh](https://github.com/pashmaklang)
+- [Perl](/Perl) - Added By [Amirhossein Mohammadi](https://github.com/BlackIQ)
+- [Php](/Php) - Added By [Mohammad Reza Ebadollah](https://github.com/ebad84)
+- [Python](/Python) - Added By [Python Development Team](https://python.org)
 
 
 ### R
 
 ---
 
-- [R](/R) - Created By [Arian Ebrahimi](https://github.com/ribrea)
-- [Red](/Red) - Created By [Sami Ghasemi](https://github.com/sami2020pro)
-- [Ruby](/Ruby) - Created By [Amirhossein Mohammadi](https://github.com/BlackIQ)
-- [Rust](/Rust) - Created By [Amirmahdi Tafreshi](https://github.com/mr-tafreshi)
+- [R](/R) - Added By [Arian Ebrahimi](https://github.com/ribrea)
+- [Red](/Red) - Added By [Sami Ghasemi](https://github.com/sami2020pro)
+- [Ruby](/Ruby) - Added By [Amirhossein Mohammadi](https://github.com/BlackIQ)
+- [Rust](/Rust) - Added By [Amirmahdi Tafreshi](https://github.com/mr-tafreshi)
 
 
 ### S
 
 ---
 
-- [SQL](/SQL) - Created By [Saeed Bayat](https://github.com/01shadowalker01)
-- [Scala](/Scala) - Created By [Elyas 'Eloy' Hadizadeh Tasbiti](https://github.com/elyashadizadeh)
-- [Scheme](/Scheme) - Created By [Sami Ghasemi](https://github.com/sami2020pro)
-- [Scratch](/Scratch) - Created By [shahriar](https://github.com/shahriaarrr)
-- [Scss](/Scss) - Created By [AzerothA](https://github.com/AzerothA)
-- [Swift](/Swift) - Created By [Amir Lesani](https://github.com/xenups)
+- [SQL](/SQL) - Added By [Saeed Bayat](https://github.com/01shadowalker01)
+- [Scala](/Scala) - Added By [Elyas 'Eloy' Hadizadeh Tasbiti](https://github.com/elyashadizadeh)
+- [Scheme](/Scheme) - Added By [Sami Ghasemi](https://github.com/sami2020pro)
+- [Scratch](/Scratch) - Added By [shahriar](https://github.com/shahriaarrr)
+- [Scss](/Scss) - Added By [AzerothA](https://github.com/AzerothA)
+- [Swift](/Swift) - Added By [Amir Lesani](https://github.com/xenups)
 
 
 ### T
 
 ---
 
-- [Tcl](/Tcl) - Created By [Javad Rajabzade](https://github.com/Ja7adR)
-- [Typescript](/Typescript) - Created By [Amirhossein Mohammadi](https://github.com/BlackIQ)
+- [Tcl](/Tcl) - Added By [Javad Rajabzade](https://github.com/Ja7adR)
+- [Typescript](/Typescript) - Added By [Amirhossein Mohammadi](https://github.com/BlackIQ)
 
 
 ### V
 
 ---
 
-- [V](/V) - Created By [Jadi Mirmirani](https://github.com/jadijadi)
-- [Vala](/Vala) - Created By [Amirhossein Meydani](https://github.com/amireshoon)
+- [V](/V) - Added By [Jadi Mirmirani](https://github.com/jadijadi)
+- [Vala](/Vala) - Added By [Amirhossein Meydani](https://github.com/amireshoon)
