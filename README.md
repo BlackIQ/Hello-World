@@ -141,7 +141,7 @@ Total Languages in the Repository 61 .
 ---
 
 - [Pascal](/Pascal) - Added By [Arian Ebrahimi](https://github.com/ribrea)
-- [Pashmak](/Pashmak) - Added By [parsa mpsh](https://github.com/pashmaklang)
+- [Pashmak](/Pashmak) - Added By [Parsa](https://github.com/pashmaklang)
 - [Perl](/Perl) - Added By [Amirhossein Mohammadi](https://github.com/BlackIQ)
 - [Php](/Php) - Added By [Mohammad Reza Ebadollah](https://github.com/ebad84)
 - [Python](/Python) - Added By [Reza Bojnordi](https://github.com/rezabojnordi)
