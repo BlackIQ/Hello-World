@@ -4,3 +4,4 @@ __pashmam__
 *.sqlite3
 *.sqlite
 /Java/*.class
+test/*
