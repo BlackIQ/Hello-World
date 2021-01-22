@@ -24,5 +24,6 @@ jobs:
       run: |
         git config --global user.name 'amireshoon'
         git config --global user.email 'abtin.yas53@gmail.com'
+        git status
         git commit -am "Auto Generate README.md"
         git push origin main
