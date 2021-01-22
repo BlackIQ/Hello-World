@@ -13,7 +13,7 @@ This repository contains a big list of programming languages and some examples f
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in the Repository: 69.
+Total Languages in the Repository: 68.
 
 
 ### A
@@ -196,10 +196,3 @@ Total Languages in the Repository: 69.
 - [V](/V) - Added By [Jadi Mirmirani](https://github.com/jadijadi)
 - [Vala](/Vala) - Added By [Amirhossein Meydani](https://github.com/amireshoon)
 - [Vim-Script](/Vim-Script) - Added By [Amirhossein Meydani](https://github.com/amireshoon)
-
-
-### T
-
----
-
-- [test-folder](/test-folder)
