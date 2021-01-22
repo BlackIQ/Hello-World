@@ -21,13 +21,13 @@ This file should contain a description about that language, a link to wikipedia,
 Don't worry, this is not required. if you don't, we do this after your PR.
 
 Also you can put a file named `info.json` in the language folder. this file lets `gen-readme.py` script to
-write name and a link about creators of that language in the `README.md` list and some other options in the future:
+write name and a link about who added that language to the list in the `README.md` list and some other options in the future:
 
 ```json
 {
 	"creator": {
-		"title": "Python Development Team",
-		"link": "https://github.com/python"
+		"title": "Your name",
+		"link": "https://github.com/your-github-username"
 	}
 }
 ```
