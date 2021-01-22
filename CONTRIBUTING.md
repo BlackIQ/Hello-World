@@ -32,7 +32,7 @@ write name and a link about creators of that language in the `README.md` list an
 }
 ```
 
-If you added this file, for add name and link of creator, you should run `python3 gen-readme.py` script.
+Do not run gen-readme.py it's automatically run by Github Actions.
 
 ### TODO
 If you haven't any idea for contributing, but you want to contribute, you can See [TODO file](/TODO.md) and [Github Issues](https://github.com/BlackIQ/Hello-World/issues). This will help you to file a task to do.
