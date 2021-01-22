@@ -13,7 +13,7 @@ This repository contains a big list of programming languages and some examples f
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in the Repository: 62.
+Total Languages in the Repository: 63.
 
 
 ### A
@@ -145,6 +145,7 @@ Total Languages in the Repository: 62.
 - [Pashmak](/Pashmak) - Added By [Parsa](https://github.com/pashmaklang)
 - [Perl](/Perl) - Added By [Amirhossein Mohammadi](https://github.com/BlackIQ)
 - [Php](/Php) - Added By [Mohammad Reza Ebadollah](https://github.com/ebad84)
+- [Plus](/Plus) - Added By [Amirhossein Meydani](https://github.com/amireshoon)
 - [Python](/Python) - Added By [Reza Bojnordi](https://github.com/rezabojnordi)
 
 
