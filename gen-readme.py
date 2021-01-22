@@ -54,6 +54,10 @@ Total Languages in the Repository: {count}.
 for letter in letters:
     readme_content += '\n### ' + letter.upper() + '\n\n---\n\n'
     for item in letters[letter]:
+
+        if (' ' in item) == True:
+            item = item.replace(' ', "-")
+        
         creator_title = None
         creator_link = None
         if os.path.isfile(project_dir + '/' + item + '/info.json'):
@@ -83,8 +87,8 @@ for letter in letters:
     readme_content += '\n'
 
 # write content on readme.md
-f = open(project_dir + '/README.md', 'w')
-f.write(readme_content.strip() + '\n')
-f.close()
+# f = open(project_dir + '/README.md', 'w')
+# f.write(readme_content.strip() + '\n')
+# f.close()
 
 print('Done!')
