@@ -1,13 +1,5 @@
-using System;
-
-namespace HelloWorld
-{
-    class Program
-    {
-        public static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World !");
-        }
-    }
-}
+using System; 
+Console.WriteLine("Hello World !");
+        
+ 
 
