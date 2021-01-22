@@ -87,8 +87,8 @@ for letter in letters:
     readme_content += '\n'
 
 # write content on readme.md
-# f = open(project_dir + '/README.md', 'w')
-# f.write(readme_content.strip() + '\n')
-# f.close()
+f = open(project_dir + '/README.md', 'w')
+f.write(readme_content.strip() + '\n')
+f.close()
 
 print('Done!')
