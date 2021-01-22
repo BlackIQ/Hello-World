@@ -4,6 +4,7 @@
 
 import os
 import json
+from termcolor import colored
 
 project_dir = os.path.dirname(os.path.abspath(__file__))
 """ The project directory path """
@@ -16,8 +17,8 @@ langs = []
 for item in items:
     if os.path.isdir(item) and item[0] != '.':
         langs.append(item)
-
 langs.sort()
+
 
 letters = {}
 
@@ -71,7 +72,7 @@ for letter in letters:
                 except KeyError:
                     pass
             except:
-                print('error: invalid json data in ' + item + '/info.json. ignored...')
+                print(colored(f'Error: invalid json data in {item}/info.json. ignored...', 'red'))
 
         if creator_title != None:
             if creator_link != None:
@@ -86,3 +87,5 @@ for letter in letters:
 f = open(project_dir + '/README.md', 'w')
 f.write(readme_content.strip() + '\n')
 f.close()
+
+print(colored('Done !', 'green'))
