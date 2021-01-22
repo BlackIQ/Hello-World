@@ -76,9 +76,9 @@ for letter in letters:
 
         if creator_title != None:
             if creator_link != None:
-                readme_content += '- [' + item + '](/' + item + ') - Created By [' + creator_title + '](' + creator_link + ')\n'
+                readme_content += '- [' + item + '](/' + item + ') - Added By [' + creator_title + '](' + creator_link + ')\n'
             else:
-                readme_content += '- [' + item + '](/' + item + ') - Created By ' + creator_title + '\n'
+                readme_content += '- [' + item + '](/' + item + ') - Added By ' + creator_title + '\n'
         else:
             readme_content += '- [' + item + '](/' + item + ')\n'
     readme_content += '\n'
