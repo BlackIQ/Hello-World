@@ -29,7 +29,9 @@ for lang in langs:
         letters[lang[0]] = []
     letters[lang[0]].append(lang)
 
-readme_content = '''
+count = len(langs)
+
+readme_content = f'''
 <p>
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/BlackIQ/Hello-World">
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/BlackIQ/Hello-World">
@@ -44,6 +46,8 @@ This repository contains a big list of programming languages and some examples f
 
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
+
+Total Languages in the Repository {count} .
 
 '''
 
