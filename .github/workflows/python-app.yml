@@ -20,8 +20,8 @@ jobs:
       run: |
         python gen-readme.py
     - name: Update readme
-            run: |
-              git config --global user.name 'amireshoon'
-              git config --global user.email 'abtin.yas53@gmail.com'
-              git commit -am "Update readme"
-              git push
+      run: |
+        git config --global user.name 'amireshoon'
+        git config --global user.email 'abtin.yas53@gmail.com'
+        git commit -am "Update readme"
+        git push
