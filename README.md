@@ -163,11 +163,11 @@ Total Languages in the Repository: 69.
 
 ---
 
-- [R](/R) - Added By <img src="https://github.com/ribrea.png?size=30" width="30" height="30" /> [Arian Ebrahimi](https://github.com/ribrea)
-- [Red](/Red) - Added By <img src="https://github.com/sami2020pro.png?size=30" width="30" height="30" /> [Sami Ghasemi](https://github.com/sami2020pro)
-- [Rockstar](/Rockstar)
-- [Ruby](/Ruby) - Added By <img src="https://github.com/BlackIQ.png?size=30" width="30" height="30" /> [Amirhossein Mohammadi](https://github.com/BlackIQ)
-- [Rust](/Rust) - Added By <img src="https://github.com/mr-tafreshi.png?size=30" width="30" height="30" /> [Amirmahdi Tafreshi](https://github.com/mr-tafreshi)
+- [R](/R) - Added By [Arian Ebrahimi](https://github.com/ribrea)
+- [Red](/Red) - Added By [Sami Ghasemi](https://github.com/sami2020pro)
+- [Rockstar](/Rockstar) - Added By [Ali Arj](https://github.com/ali0gamer1)
+- [Ruby](/Ruby) - Added By [Amirhossein Mohammadi](https://github.com/BlackIQ)
+- [Rust](/Rust) - Added By [Amirmahdi Tafreshi](https://github.com/mr-tafreshi)
 
 
 ### S
