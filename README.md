@@ -13,7 +13,7 @@ This repository contains a big list of programming languages and some examples f
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in the Repository: 70.
+Total Languages in the Repository: 73.
 
 
 ### A
@@ -32,6 +32,7 @@ Total Languages in the Repository: 70.
 - [Bash](/Bash) - Added By <img src="https://github.com/ebad84.png?size=30" width="30" height="30" /> [Mohammad Reza Ebadollah](https://github.com/ebad84)
 - [Batch](/Batch) - Added By <img src="https://github.com/ebad84.png?size=30" width="30" height="30" /> [Mohammad Reza Ebadollah](https://github.com/ebad84)
 - [Befunge](/Befunge) - Added By <img src="https://github.com/saeednj.png?size=30" width="30" height="30" /> [Saeed Nejati](https://github.com/saeednj)
+- [Binary](/Binary) - Added By <img src="https://github.com/F4R4N.png?size=30" width="30" height="30" /> [Faran Taghavi](https://github.com/F4R4N)
 - [Brainfuck](/Brainfuck) - Added By <img src="https://github.com/mr-tafreshi.png?size=30" width="30" height="30" /> [Amirmahdi Tafreshi](https://github.com/mr-tafreshi)
 
 
@@ -135,6 +136,7 @@ Total Languages in the Repository: 70.
 ---
 
 - [Neko-VM](/Neko-VM) - Added By <img src="https://github.com/amireshoon.png?size=30" width="30" height="30" /> [Amirhossein Meydani](https://github.com/amireshoon)
+- [Nim](/Nim) - Added By <img src="https://github.com/alirezaja1384.png?size=30" width="30" height="30" /> [Alireza Jafari](https://github.com/alirezaja1384)
 
 
 ### O
@@ -156,6 +158,7 @@ Total Languages in the Repository: 70.
 - [Perl](/Perl) - Added By <img src="https://github.com/BlackIQ.png?size=30" width="30" height="30" /> [Amirhossein Mohammadi](https://github.com/BlackIQ)
 - [Php](/Php) - Added By <img src="https://github.com/ebad84.png?size=30" width="30" height="30" /> [Mohammad Reza Ebadollah](https://github.com/ebad84)
 - [Plus](/Plus) - Added By <img src="https://github.com/amireshoon.png?size=30" width="30" height="30" /> [Amirhossein Meydani](https://github.com/amireshoon)
+- [PowerShell](/PowerShell) - Added By <img src="https://github.com/F4R4N.png?size=30" width="30" height="30" /> [Faran Taghavi](https://github.com/F4R4N)
 - [Python](/Python) - Added By <img src="https://github.com/rezabojnordi.png?size=30" width="30" height="30" /> [Reza Bojnordi](https://github.com/rezabojnordi)
 
 
