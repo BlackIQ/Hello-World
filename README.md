@@ -13,7 +13,7 @@ This repository contains a big list of programming languages and some examples f
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in the Repository: 73.
+Total Languages in the Repository: 76.
 
 
 ### A
@@ -21,6 +21,8 @@ Total Languages in the Repository: 73.
 ---
 
 - [Abdal-Autoit](/Abdal-Autoit)
+- [Algol](/Algol) - Added By <img src="https://github.com/F4R4N.png?size=30" width="30" height="30" /> [Faran Taghavi](https://github.com/F4R4N)
+- [AppleScript](/AppleScript) - Added By <img src="https://github.com/F4R4N.png?size=30" width="30" height="30" /> [Faran Taghavi](https://github.com/F4R4N)
 - [Arduino](/Arduino) - Added By <img src="https://github.com/BlackIQ.png?size=30" width="30" height="30" /> [Amirhossein Mohammadi](https://github.com/BlackIQ)
 - [Assembly](/Assembly) - Added By <img src="https://github.com/tahacodes.png?size=30" width="30" height="30" /> [Taha Farahani](https://github.com/tahacodes)
 
@@ -30,6 +32,7 @@ Total Languages in the Repository: 73.
 ---
 
 - [Bash](/Bash) - Added By <img src="https://github.com/ebad84.png?size=30" width="30" height="30" /> [Mohammad Reza Ebadollah](https://github.com/ebad84)
+- [Basic](/Basic) - Added By <img src="https://github.com/F4R4N.png?size=30" width="30" height="30" /> [Faran Taghavi](https://github.com/F4R4N)
 - [Batch](/Batch) - Added By <img src="https://github.com/ebad84.png?size=30" width="30" height="30" /> [Mohammad Reza Ebadollah](https://github.com/ebad84)
 - [Befunge](/Befunge) - Added By <img src="https://github.com/saeednj.png?size=30" width="30" height="30" /> [Saeed Nejati](https://github.com/saeednj)
 - [Binary](/Binary) - Added By <img src="https://github.com/F4R4N.png?size=30" width="30" height="30" /> [Faran Taghavi](https://github.com/F4R4N)
