@@ -13,7 +13,7 @@ This repository contains a big list of programming languages and some examples f
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in the Repository: 61.
+Total Languages in the Repository: 62.
 
 
 ### A
@@ -134,6 +134,7 @@ Total Languages in the Repository: 61.
 - [OBJECTIVE-C](/OBJECTIVE-C) - Added By [shahriar](https://github.com/shahriaarrr)
 - [OCaml](/OCaml) - Added By [Mohammad Masoudi](https://github.com/mmasoudih)
 - [Octave](/Octave) - Added By [Sato](https://github.com/satocoder)
+- [Opa](/Opa) - Added By [Amirhossein Meydani](https://github.com/amireshoon)
 
 
 ### P
