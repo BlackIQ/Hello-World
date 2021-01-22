@@ -55,9 +55,9 @@ for letter in letters:
     readme_content += '\n### ' + letter.upper() + '\n\n---\n\n'
     for item in letters[letter]:
 
-        if (' ' in item) == True:
+        if ' ' in item:
             item = item.replace(' ', "-")
-        
+
         creator_title = None
         creator_link = None
         if os.path.isfile(project_dir + '/' + item + '/info.json'):
