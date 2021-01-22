@@ -54,6 +54,11 @@ Total Languages in the Repository: {count}.
 for letter in letters:
     readme_content += '\n### ' + letter.upper() + '\n\n---\n\n'
     for item in letters[letter]:
+        if ' ' in item:
+            old_name = item
+            item = item.replace(' ', "-")
+            os.rename(old_name, item)
+
         creator_title = None
         creator_link = None
         if os.path.isfile(project_dir + '/' + item + '/info.json'):
