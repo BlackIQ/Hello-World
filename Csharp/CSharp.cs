@@ -11,3 +11,7 @@ namespace HelloWorld
     }
 }
 
+//C# 9
+
+Consoel.WriteLine("Hello World !");
+
