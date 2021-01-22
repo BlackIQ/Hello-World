@@ -80,7 +80,7 @@ for letter in letters:
 
         if creator_title != None:
             if creator_link != None:
-                readme_content += '- [' + item + '](/' + item + ') - Added By [' + creator_title + '](' + creator_link + ')\n'
+                readme_content += '- [' + item + '](/' + item + ') - Added By <img src="' + creator_link + '.png?size=30" width="30" height="30" /> [' + creator_title + '](' + creator_link + ')\n'
             else:
                 readme_content += '- [' + item + '](/' + item + ') - Added By ' + creator_title + '\n'
         else:
