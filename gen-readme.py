@@ -60,6 +60,13 @@ for letter in letters:
             item = item.replace(' ', "-")
             os.rename(old_name, item)
 
+        required_files = ['courses.md', 'books.md', 'README.md']
+        for required_file in required_files:
+            if not os.path.isfile(project_dir + '/' + item + '/' + required_file):
+                tmp_f = open(project_dir + '/' + item + '/' + required_file, 'w')
+                tmp_f.write('')
+                tmp_f.close()
+
         creator_title = None
         creator_link = None
         if os.path.isfile(project_dir + '/' + item + '/info.json'):
