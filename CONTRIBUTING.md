@@ -69,6 +69,8 @@ Lang-Name/
 		...
 ```
 
+Also if you don't add `courses.md` and `books.md` file in your pull request, don't worry, them will be added automatically.
+
 ### TODO
 If you haven't any idea for contributing, but you want to contribute, you can See [TODO file](/TODO.md) and [Github Issues](https://github.com/BlackIQ/Hello-World/issues). This will help you to file a task to do.
 
