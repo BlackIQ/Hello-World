@@ -53,7 +53,7 @@ Total Languages in the Repository: {count}.
 
 '''
 
-user_img_size = 30
+user_img_size = 25
 """ Width and Height of user profile img in readme """
 
 exit_code = 0
