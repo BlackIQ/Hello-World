@@ -14,7 +14,7 @@ Also there is list of useful **Courses** and **Books** about the programming lan
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in the Repository: 77.
+Total Languages in the Repository: 78.
 
 
 ### A
@@ -32,6 +32,7 @@ Total Languages in the Repository: 77.
 
 ---
 
+- [B](/B) - Added By <img src="https://github.com/parsampsh.png?size=25" width="25" height="25" /> [Parsa](https://github.com/parsampsh)
 - [Bash](/Bash) - Added By <img src="https://github.com/ebad84.png?size=25" width="25" height="25" /> [Mohammad Reza Ebadollah](https://github.com/ebad84)
 - [Basic](/Basic) - Added By <img src="https://github.com/F4R4N.png?size=25" width="25" height="25" /> [Faran Taghavi](https://github.com/F4R4N)
 - [Batch](/Batch) - Added By <img src="https://github.com/ebad84.png?size=25" width="25" height="25" /> [Mohammad Reza Ebadollah](https://github.com/ebad84)
