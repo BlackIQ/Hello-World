@@ -3,6 +3,7 @@
 """ This script generates lot of things automatically """
 
 import os
+import sys
 import json
 
 project_dir = os.path.dirname(os.path.abspath(__file__))
@@ -52,6 +53,12 @@ Total Languages in the Repository: {count}.
 
 '''
 
+user_img_size = 30
+""" Width and Height of user profile img in readme """
+
+exit_code = 0
+""" Will be changed to 1 when some of info.json files are not valid """
+
 for letter in letters:
     readme_content += '\n### ' + letter.upper() + '\n\n---\n\n'
     for item in letters[letter]:
@@ -85,10 +92,11 @@ for letter in letters:
                     pass
             except:
                 print(f'Error: invalid json data in {item}/info.json. ignored...')
+                exit_code = 1
 
         if creator_title != None:
             if creator_link != None:
-                readme_content += '- [' + item + '](/' + item + ') - Added By <img src="' + creator_link + '.png?size=30" width="30" height="30" /> [' + creator_title + '](' + creator_link + ')\n'
+                readme_content += '- [' + item + '](/' + item + ') - Added By <img src="' + creator_link + '.png?size=' + str(user_img_size) + '" width="' + str(user_img_size) + '" height="' + str(user_img_size) + '" /> [' + creator_title + '](' + creator_link + ')\n'
             else:
                 readme_content += '- [' + item + '](/' + item + ') - Added By ' + creator_title + '\n'
         else:
@@ -101,3 +109,8 @@ f.write(readme_content.strip() + '\n')
 f.close()
 
 print('Done!')
+
+if exit_code != 0:
+    print("Warning: some of info.json files are not valid. Process will be exited with 1 exit code")
+
+sys.exit(exit_code)
