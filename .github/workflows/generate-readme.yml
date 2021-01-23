@@ -23,7 +23,7 @@ jobs:
       continue-on-error: true
       run: |
         git config --global user.name 'Hello-World-Project-Bot'
-        git config --global user.email 'Hello-World@Hello-World-Bot.xyz'
+        git config --global user.email '<>'
         git status
         git commit -am "Run auto-gen.py"
         git push origin main
