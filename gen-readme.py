@@ -42,8 +42,8 @@ readme_content = f'''
 
 # Hello World And some Examples in different Programming Languages
 
-This repository contains a big list of programming languages and some examples for them. Also there are some descriptions about them and some tutorials. If you want to learn a programming language, the decriptions, tutorials and examples for that language in this repo might be helpful.
-Also there is list of useful Courses and Books about the programming languages in this repository. You can check different languages, see the examples and syntax of the language, then you can see courses list and books list of each language and starting learning one!
+This repository contains a big list of programming languages and some **examples** for them. Also there are some **descriptions** about them. If you want to learn a programming language, the decriptions and examples for that language in this repo might be helpful.
+Also there is list of useful **Courses** and **Books** about the programming languages in this repository. You can check different languages, see the examples and syntax of the language, then you can see courses list and books list of each language and starting learning one!
 
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
