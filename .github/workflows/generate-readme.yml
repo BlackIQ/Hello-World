@@ -16,9 +16,9 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: ${{ matrix.python-version }}
-    - name: Run gen-readme.py
+    - name: Run auto-gen.py
       run: |
-        python gen-readme.py
+        python auto-gen.py
     - name: Commit new README
       continue-on-error: true
       run: |

@@ -20,7 +20,7 @@ Also, add a `README.md` for that language. for example `Python/README.md`.
 This file should contain a description about that language, a link to wikipedia, etc.
 Don't worry, this is not required. if you don't, we do this after your PR.
 
-Also you can put a file named `info.json` in the language folder. this file lets `gen-readme.py` script to
+Also you can put a file named `info.json` in the language folder. this file lets `auto-gen.py` script to
 write name and a link about who added that language to the list in the `README.md` list and some other options in the future:
 
 ```json
@@ -32,7 +32,7 @@ write name and a link about who added that language to the list in the `README.m
 }
 ```
 
-Do not run gen-readme.py, it's automatically run by Github Actions.
+Do not run auto-gen.py, it's automatically run by Github Actions.
 
 ### README template
 All of languages in this list should have a `README.md` file. for example `Python/README.md`. This file should contains some introductions and descriptions for that language. structure of this file should be something like this:

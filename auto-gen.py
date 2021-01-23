@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-""" This script generates README.md automaticaly """
+""" This script generates lot of things automatically """
 
 import os
 import json
