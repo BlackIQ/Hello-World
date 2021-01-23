@@ -14,7 +14,7 @@ Also there is list of useful **Courses** and **Books** about the programming lan
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in the Repository: 77.
+Total Languages in the Repository: 78.
 
 
 ### A
@@ -195,6 +195,7 @@ Total Languages in the Repository: 77.
 ---
 
 - [Tcl](/Tcl) - Added By <img src="https://github.com/Ja7adR.png?size=25" width="25" height="25" /> [Javad Rajabzade](https://github.com/Ja7adR)
+- [Test-Lang](/Test-Lang)
 - [Typescript](/Typescript) - Added By <img src="https://github.com/BlackIQ.png?size=25" width="25" height="25" /> [Amirhossein Mohammadi](https://github.com/BlackIQ)
 
 
