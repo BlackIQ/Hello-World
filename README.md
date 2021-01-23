@@ -21,7 +21,7 @@ Total Languages in the Repository: 76.
 
 ---
 
-- [Abdal-Autoit](/Abdal-Autoit)
+- [Abdal-Autoit](/Abdal-Autoit) - Added By <img src="https://github.com/shahriaarrr.png?size=30" width="30" height="30" /> [shahriaarrr](https://github.com/shahriaarrr)
 - [Algol](/Algol) - Added By <img src="https://github.com/F4R4N.png?size=30" width="30" height="30" /> [Faran Taghavi](https://github.com/F4R4N)
 - [AppleScript](/AppleScript) - Added By <img src="https://github.com/F4R4N.png?size=30" width="30" height="30" /> [Faran Taghavi](https://github.com/F4R4N)
 - [Arduino](/Arduino) - Added By <img src="https://github.com/BlackIQ.png?size=30" width="30" height="30" /> [Amirhossein Mohammadi](https://github.com/BlackIQ)
