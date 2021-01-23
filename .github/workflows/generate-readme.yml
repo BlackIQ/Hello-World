@@ -25,5 +25,6 @@ jobs:
         git config --global user.name 'Hello-World-Project-Bot'
         git config --global user.email '<>'
         git status
-        git commit -am "Run auto-gen.py"
+        git add -A
+        git commit -m "Run auto-gen.py"
         git push origin main
