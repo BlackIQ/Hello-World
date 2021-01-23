@@ -71,7 +71,14 @@ for letter in letters:
         for required_file in required_files:
             if not os.path.isfile(project_dir + '/' + item + '/' + required_file):
                 tmp_f = open(project_dir + '/' + item + '/' + required_file, 'w')
-                tmp_f.write('')
+                content = ''
+                if required_file == 'README.md':
+                    content = '# ' + item + '\n'
+                elif required_file == 'books.md':
+                    content = '# Useful Books for ' + item + '\n'
+                elif required_file == 'courses.md':
+                    content = '# Useful Tutorial courses for ' + item + '\n'
+                tmp_f.write(content)
                 tmp_f.close()
         if not os.path.isdir(project_dir + '/' + item + '/examples'):
             os.mkdir(project_dir + '/' + item + '/examples')
