@@ -14,7 +14,7 @@ Also there is list of useful **Courses** and **Books** about the programming lan
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in the Repository: 76.
+Total Languages in the Repository: 77.
 
 
 ### A
@@ -124,6 +124,7 @@ Total Languages in the Repository: 76.
 
 ---
 
+- [LOLCODE](/LOLCODE) - Added By <img src="https://github.com/ali0gamer1.png?size=25" width="25" height="25" /> [Ali Arj](https://github.com/ali0gamer1)
 - [Lua](/Lua) - Added By <img src="https://github.com/xenups.png?size=25" width="25" height="25" /> [Amir Lesani](https://github.com/xenups)
 
 
