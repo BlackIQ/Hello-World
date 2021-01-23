@@ -1,2 +1,0 @@
-username:helloworld
-password:1234
