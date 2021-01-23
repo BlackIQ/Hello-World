@@ -73,6 +73,11 @@ for letter in letters:
                 tmp_f = open(project_dir + '/' + item + '/' + required_file, 'w')
                 tmp_f.write('')
                 tmp_f.close()
+        if not os.path.isdir(project_dir + '/' + item + '/examples'):
+            os.mkdir(project_dir + '/' + item + '/examples')
+            tmp_f = open(project_dir + '/' + item + '/examples/.gitkeep', 'w')
+            tmp_f.write('')
+            tmp_f.close()
 
         creator_title = None
         creator_link = None
