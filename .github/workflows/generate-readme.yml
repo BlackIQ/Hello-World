@@ -1,4 +1,4 @@
-name: Generate Readme
+name: Run Automation Scripts
 
 on: [push]
 
@@ -19,7 +19,7 @@ jobs:
     - name: Run auto-gen.py
       run: |
         python auto-gen.py
-    - name: Commit new README
+    - name: Commit Changes
       continue-on-error: true
       run: |
         git config --global user.name 'Hello-World-Project-Bot'
