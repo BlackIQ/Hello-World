@@ -1,6 +1,6 @@
 name: Run Automation Scripts
 
-on: [push]
+on: [push, pull_request]
 
 jobs:
   build:
@@ -27,4 +27,4 @@ jobs:
         git status
         git add -A
         git commit -m "Run auto-gen.py"
-        git push origin main
+        git push
