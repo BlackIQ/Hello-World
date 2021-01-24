@@ -67,7 +67,7 @@ for letter in letters:
             item = item.replace(' ', "-")
             os.rename(old_name, item)
 
-        required_files = ['courses.md', 'books.md', 'README.md']
+        required_files = ['courses.md', 'books.md', 'README.md', 'resources.md']
         for required_file in required_files:
             if not os.path.isfile(project_dir + '/' + item + '/' + required_file):
                 tmp_f = open(project_dir + '/' + item + '/' + required_file, 'w')
@@ -78,6 +78,8 @@ for letter in letters:
                     content = '# Useful Books for ' + item + '\n'
                 elif required_file == 'courses.md':
                     content = '# Useful Tutorial courses for ' + item + '\n'
+                elif required_file == 'resources.md':
+                    content = '# Useful Resources for ' + item + '\n'
                 tmp_f.write(content)
                 tmp_f.close()
         if not os.path.isdir(project_dir + '/' + item + '/examples'):

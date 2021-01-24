@@ -18,6 +18,7 @@ Some notes:
 - help to complete README.md file in language folder (lang-name/README.md)
 - add link of useful books to books list for languages (lang-name/books.md)
 - add link of useful courses to courses list for languages (lang-name/courses.md)
+- add link of useful resources to resources list for languages (lang-name/resources.md)
 
 ### Adding new language
 If you want to add new language to this repo, You should create a directory named name of that language capitalized. for example `Python` or `Php`.
