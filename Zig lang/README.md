@@ -1,2 +1,2 @@
 # Zig programming language
-For complete documentation see: ziglang.org
+For complete documentation see: https://ziglang.org/
