@@ -214,3 +214,9 @@ Total Languages in This Repository: 79.
 ---
 
 - [Whitespace](/Whitespace) - Added By <img src="https://github.com/ali0gamer1.png?size=25" width="25" height="25" /> [Ali Arj](https://github.com/ali0gamer1)
+
+### Y
+
+---
+
+- [Yacas](/Yacas) - Added By <img src="https://github.com/AmirJey?size=25" width="25" height="25" /> [AmirJEY](https://github.com/AmirJey)
