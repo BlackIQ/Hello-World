@@ -5,3 +5,5 @@ __pashmam__
 *.sqlite
 /Java/*.class
 test/*
+.DS_Store
+
