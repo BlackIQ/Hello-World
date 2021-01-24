@@ -189,6 +189,7 @@ Total Languages in This Repository: 79.
 - [Scheme](/Scheme) - Added By <img src="https://github.com/sami2020pro.png?size=25" width="25" height="25" /> [Sami Ghasemi](https://github.com/sami2020pro)
 - [Scratch](/Scratch) - Added By <img src="https://github.com/shahriaarrr.png?size=25" width="25" height="25" /> [shahriar](https://github.com/shahriaarrr)
 - [Scss](/Scss) - Added By <img src="https://github.com/AzerothA.png?size=25" width="25" height="25" /> [AzerothA](https://github.com/AzerothA)
+- [Solidity]()
 - [Swift](/Swift) - Added By <img src="https://github.com/xenups.png?size=25" width="25" height="25" /> [Amir Lesani](https://github.com/xenups)
 
 
