@@ -5,6 +5,7 @@
 import os
 import sys
 import json
+import platform
 
 project_dir = os.path.dirname(os.path.abspath(__file__))
 """ The project directory path """
@@ -121,6 +122,10 @@ for letter in letters:
 f = open(project_dir + '/README.md', 'w')
 f.write(readme_content.strip() + '\n')
 f.close()
+
+# autogen tree.txt
+if platform.system() != 'Windows':
+    os.system('tree > tree.txt')
 
 print('Done!')
 
