@@ -125,7 +125,8 @@ f.close()
 
 # autogen tree.txt
 if platform.system() != 'Windows':
-    os.system('tree > tree.txt')
+    if os.system('tree > /dev/null') == 0:
+        os.system('tree > tree.txt')
 
 print('Done!')
 
