@@ -3,7 +3,7 @@ name: Run Automation Scripts
 on: [push, pull_request]
 
 jobs:
-  build:
+  autogen:
 
     runs-on: ubuntu-latest
     strategy:
@@ -16,6 +16,10 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: ${{ matrix.python-version }}
+    - name: Install tree
+      run: |
+        sudo apt-get update
+        sudo apt-get install tree
     - name: Run auto-gen.py
       run: |
         python auto-gen.py
