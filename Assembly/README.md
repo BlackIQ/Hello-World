@@ -5,7 +5,7 @@ Assembly code is converted into executable machine code by a utility program ref
 
 ## Refrences
 
-Some links to wikipedia or other articles that introduces this language.
+
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
 - [techterms](https://techterms.com/definition/assembly_language)

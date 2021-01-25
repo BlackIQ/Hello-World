@@ -5,7 +5,7 @@ The scripting language in AutoIt 1 and 2 was statement-driven and designed prima
 
 ## Refrences
 
-Some links to wikipedia or other articles that introduces this language.
+
 
 
 - [Wikipedia](https://en.wikipedia.org/wiki/AutoIt)

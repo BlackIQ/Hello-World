@@ -7,6 +7,6 @@ Notable for its extreme minimalism, the language consists of only eight simple c
 The language's name is a reference to the slang term brainfuck, which refers to things so complicated or unusual that they exceed the limits of one's understanding.
 
 # Refrences
-Some links to wikipedia or other articles that introduces this language.
+
 
 [Wikipedia](https://en.wikipedia.org/wiki/Brainfuck)

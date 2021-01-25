@@ -5,7 +5,7 @@ Editors : Script editors provide a unified programing environment for AppleScrip
 
 ## Refrences
 
-Some links to wikipedia or other articles that introduces this language.
+
 
 - [Wikipedia](https://en.wikipedia.org/wiki/AppleScript)
 - [Apple](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)

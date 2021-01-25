@@ -5,7 +5,7 @@ Arduino board designs use a variety of microprocessors and controllers. The boar
 
 ## Refrences
 
-Some links to wikipedia or other articles that introduces this language.
+
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Arduino)
 - [Arduino Home](https://www.arduino.cc)

@@ -9,7 +9,7 @@ B was designed for recursive, non-numeric, machine-independent applications, suc
 As machines with ASCII processing became common, notably the DEC PDP-11 that arrived at Bell, support for character data stuffed in memory words became important. The typeless nature of the language was seen as a disadvantage, which led Thompson and Ritchie to develop an expanded version of the language supporting new internal and user-defined types, which became the C programming language.
 
 ## Refrences
-Some links to wikipedia or other articles that introduces this language.
+
 
 - [Wikipedia](https://en.wikipedia.org/wiki/B_(programming_language))
 - [Thinkage](https://www.thinkage.ca/gcos/expl/b/manu/manu.html)
