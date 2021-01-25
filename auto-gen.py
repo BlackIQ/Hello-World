@@ -126,7 +126,9 @@ f.close()
 # autogen tree.txt
 if platform.system() != 'Windows':
     if os.system('tree > /dev/null') == 0:
-        os.system('tree --dirsfirst -r > tree.txt')
+        # TODO : enable this line
+        #os.system('tree --dirsfirst -r > tree.txt')
+        pass
 
 print('Done!')
 
