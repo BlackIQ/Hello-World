@@ -127,7 +127,7 @@ f.close()
 if platform.system() != 'Windows':
     if os.system('tree > /dev/null') == 0:
         # TODO : enable this line
-        os.system('tree --dirsfirst --sort=name > tree.txt')
+        #os.system('tree --dirsfirst --sort=name > tree.txt')
         pass
 
 print('Done!')
