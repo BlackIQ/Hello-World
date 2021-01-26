@@ -163,6 +163,8 @@ def tree(dir_path: Path, level: int=-1, limit_to_directories: bool=False,
     if next(iterator, None):
         out += f'... length_limit, {length_limit}, reached, counted:' + '\n'
     out += f'\n{directories} directories' + (f', {files} files' if files else '') + '\n'
+    # replace the first line with `.`
+    out = '.\n' + out.split('\n', 1)[-1]
     f = open(project_dir + '/tree.txt', 'w')
     f.write(out)
     f.close()
