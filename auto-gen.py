@@ -6,6 +6,13 @@ import os
 import sys
 import json
 import platform
+from pathlib import Path
+from itertools import islice
+
+space =  '    '
+branch = '│   '
+tee =    '├── '
+last =   '└── '
 
 project_dir = os.path.dirname(os.path.abspath(__file__))
 """ The project directory path """
@@ -124,11 +131,43 @@ f.write(readme_content.strip() + '\n')
 f.close()
 
 # autogen tree.txt
-if platform.system() != 'Windows':
-    if os.system('tree > /dev/null') == 0:
-        # TODO : enable this line
-        #os.system('tree --dirsfirst --sort=name > tree.txt')
-        pass
+def tree(dir_path: Path, level: int=-1, limit_to_directories: bool=False,
+         length_limit: int=1000):
+    """Given a directory Path object print a visual tree structure"""
+    dir_path = Path(dir_path) # accept string coerceable to Path
+    out = ''
+    files = 0
+    directories = 0
+    def inner(dir_path: Path, prefix: str='', level=-1):
+        nonlocal files, directories
+        if not level: 
+            return # 0, stop iterating
+        if limit_to_directories:
+            contents = [d for d in dir_path.iterdir() if d.is_dir()]
+        else: 
+            contents = list(dir_path.iterdir())
+        pointers = [tee] * (len(contents) - 1) + [last]
+        for pointer, path in zip(pointers, contents):
+            if path.is_dir():
+                yield prefix + pointer + path.name
+                directories += 1
+                extension = branch if pointer == tee else space 
+                yield from inner(path, prefix=prefix+extension, level=level-1)
+            elif not limit_to_directories:
+                yield prefix + pointer + path.name
+                files += 1
+    out += dir_path.name + '\n'
+    iterator = inner(dir_path, level=level)
+    for line in islice(iterator, length_limit):
+        out += line + '\n'
+    if next(iterator, None):
+        out += f'... length_limit, {length_limit}, reached, counted:' + '\n'
+    out += f'\n{directories} directories' + (f', {files} files' if files else '') + '\n'
+    f = open(project_dir + '/tree.txt', 'w')
+    f.write(out)
+    f.close()
+
+tree(project_dir)
 
 print('Done!')
 

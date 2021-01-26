@@ -1,733 +1,789 @@
-.
-├── Abdal-Autoit
-│   ├── examples
-│   │   └── hello.au3
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Algol
-│   ├── examples
-│   │   └── Algol.alg
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── AppleScript
-│   ├── examples
-│   │   └── AppleScript.scpt
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Arduino
-│   ├── examples
-│   │   └── arduino.ino
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Assembly
-│   ├── examples
-│   │   └── x86_assembly.asm
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── B
-│   ├── examples
-│   │   └── hello.b
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Bash
-│   ├── examples
-│   │   └── bash.sh
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Basic
-│   ├── examples
-│   │   └── Basic.bas
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Batch
-│   ├── examples
-│   │   └── batch.bat
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Befunge
-│   ├── examples
-│   │   └── hello.bf
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Binary
-│   ├── examples
-│   │   └── Binary.bin
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Brainfuck
-│   ├── examples
-│   │   └── brainfuck.bf
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── C
-│   ├── examples
-│   │   └── cLang.c
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Clojure
-│   ├── examples
-│   │   └── ClojureLang.clj
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── COBOL
-│   ├── examples
-│   │   └── main.cbl
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Cobra
-│   ├── examples
-│   │   └── Cobra.cobra
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── CoffeScript
-│   ├── examples
-│   │   └── Coffe.coffe
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Cow
-│   ├── examples
-│   │   ├── Cow.cow
-│   │   └── fib.cow
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Cpp
-│   ├── examples
-│   │   └── Cplusplus.cpp
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Csharp
-│   ├── examples
-│   │   └── CSharp.cs
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Css
-│   ├── examples
-│   │   └── CSS.css
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Curl
-│   ├── examples
-│   │   └── Curl.CURL
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── D
-│   ├── examples
-│   │   └── Dlang.d
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Dart
-│   ├── examples
-│   │   └── Dart.dart
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Django
-│   ├── examples
-│   │   └── helloworld
-│   │       ├── helloworld
-│   │       │   ├── asgi.py
-│   │       │   ├── __init__.py
-│   │       │   ├── settings.py
-│   │       │   ├── urls.py
-│   │       │   └── wsgi.py
-│   │       ├── home
-│   │       │   ├── migrations
-│   │       │   │   └── __init__.py
-│   │       │   ├── apps.py
-│   │       │   ├── __init__.py
-│   │       │   ├── urls.py
-│   │       │   └── views.py
-│   │       └── manage.py
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Docker
-│   ├── examples
-│   │   └── Dockerfile
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Eiffel
-│   ├── examples
-│   │   └── Eiffelfile.e
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Elixir
-│   ├── examples
-│   │   └── elixir.ex
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Elm
-│   ├── examples
-│   │   └── Elm.elm
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Erlang
-│   ├── examples
-│   │   └── Erlang.erl
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Flask-python-framework
-│   ├── examples
-│   │   └── app.py
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Flutter
-│   ├── examples
-│   │   └── main.dart
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Fortran
-│   ├── examples
-│   │   └── Fortran.F
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Fsharp
-│   ├── examples
-│   │   └── Fsharp.fs
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Go
-│   ├── examples
-│   │   ├── fib.go
-│   │   └── GoLang.go
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Go-Gin
-│   ├── examples
-│   │   └── gin.go
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Groovy
-│   ├── examples
-│   │   ├── hello_world.groovy
-│   │   └── HelloWorld.groovy
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Hack
-│   ├── examples
-│   │   └── Hack.hh
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Hashemi
-│   ├── examples
-│   │   └── Hello_World.hashem
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Haskell
-│   ├── examples
-│   │   └── hello.hs
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Haxe
-│   ├── examples
-│   │   └── HelloWorld.hx
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Html
-│   ├── examples
-│   │   └── HTML.html
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Java
-│   ├── examples
-│   │   └── Java.java
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── JavaScript
-│   ├── examples
-│   │   ├── Javascript.js
-│   │   └── jsf.js
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Julia
-│   ├── examples
-│   │   └── julia.jl
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Kotlin
-│   ├── examples
-│   │   └── Kotlin.kt
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Lisp
-│   ├── examples
-│   │   └── Lispfile.e
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── LOLCODE
-│   ├── examples
-│   │   └── HelloWorld.lol
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Lua
-│   ├── examples
-│   │   └── Lua.lua
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Makefile
-│   ├── examples
-│   │   ├── hellofunc.c
-│   │   ├── hellomake.c
-│   │   ├── hellomake.h
-│   │   └── makefile
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Matlab
-│   ├── examples
-│   │   └── HelloWorld.m
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── MIPS
-│   ├── examples
-│   │   └── hello.s
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Neko-VM
-│   ├── examples
-│   │   └── Neko.n
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Nim
-│   ├── examples
-│   │   └── Nim.nim
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── OBJECTIVE-C
-│   ├── examples
-│   │   └── OBJECT-C.m
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
+Hello-World
+├── .git
+│   ├── refs
+│   │   ├── remotes
+│   │   │   └── origin
+│   │   │       └── HEAD
+│   │   ├── tags
+│   │   └── heads
+│   │       └── develop
+│   ├── logs
+│   │   ├── refs
+│   │   │   ├── remotes
+│   │   │   │   └── origin
+│   │   │   │       └── HEAD
+│   │   │   └── heads
+│   │   │       └── develop
+│   │   └── HEAD
+│   ├── config
+│   ├── HEAD
+│   ├── description
+│   ├── objects
+│   │   ├── pack
+│   │   │   ├── pack-704bd9fd8829b2ee7bb28d1a2efeb2badec66279.pack
+│   │   │   └── pack-704bd9fd8829b2ee7bb28d1a2efeb2badec66279.idx
+│   │   └── info
+│   ├── info
+│   │   └── exclude
+│   ├── packed-refs
+│   ├── hooks
+│   │   ├── post-update.sample
+│   │   ├── applypatch-msg.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── update.sample
+│   │   ├── pre-commit.sample
+│   │   ├── commit-msg.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-merge-commit.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   └── pre-receive.sample
+│   ├── branches
+│   └── index
 ├── OCaml
-│   ├── examples
-│   │   └── hello.ml
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Octave
-│   ├── examples
-│   │   └── hello
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Opa
-│   ├── examples
-│   │   └── Opa.opa
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Pascal
-│   ├── examples
-│   │   └── Pascal.pas
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Pashmak
-│   ├── examples
-│   │   ├── array.pashm
-│   │   ├── ask_name.pashm
-│   │   ├── fib.pashm
-│   │   ├── get_password.pashm
-│   │   ├── hello.pashm
-│   │   ├── loop.pashm
-│   │   └── square.pashm
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Perl
-│   ├── examples
-│   │   └── perl.pl
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Php
-│   ├── examples
-│   │   └── php.php
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Piet
-│   ├── examples
-│   │   └── styled_helloworld.png
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Plus
-│   ├── examples
-│   │   └── Plus.plus
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── PowerShell
-│   ├── examples
-│   │   └── powershell.ps1
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Python
-│   ├── examples
-│   │   ├── python.py
-│   │   └── variable.py
-│   ├── img
-│   │   ├── 1.png
-│   │   ├── 2.png
-│   │   ├── 3.png
-│   │   ├── 4.png
-│   │   ├── 5.png
-│   │   ├── 6.png
-│   │   └── 7.png
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── R
-│   ├── examples
-│   │   └── R.R
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Red
-│   ├── examples
-│   │   └── main.red
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Rockstar
-│   ├── examples
-│   │   └── HelloWorld.rock
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── hello.ml
+│   └── resources.md
+├── Assembly
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── x86_assembly.asm
+│   └── resources.md
+├── Java
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Java.java
+│   └── resources.md
+├── Hashemi
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Hello_World.hashem
+│   └── resources.md
+├── Erlang
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Erlang.erl
+│   └── resources.md
+├── B
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── hello.b
+│   └── resources.md
+├── Haskell
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── hello.hs
+│   └── resources.md
+├── Befunge
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── hello.bf
+│   └── resources.md
+├── LOLCODE
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── HelloWorld.lol
+│   └── resources.md
+├── Lua
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Lua.lua
+│   └── resources.md
 ├── Ruby
-│   ├── examples
-│   │   └── ruby.rb
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Rust
-│   ├── examples
-│   │   └── rust.rs
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── ruby.rb
+│   └── resources.md
 ├── Scala
-│   ├── examples
-│   │   └── Hello.scala
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Scheme
-│   ├── examples
-│   │   └── main.scm
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Scratch
-│   ├── examples
-│   │   └── SCRATCH.sb
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Scss
-│   ├── examples
-│   │   └── Scss.scss
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Solidity
-│   ├── examples
-│   │   └── Solidity.sol
-│   ├── books.md
-│   ├── courses.md
-│   ├── README.md
-│   └── resources.md
-├── SQL
-│   ├── examples
-│   │   └── SQL.sql
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Swift
-│   ├── examples
-│   │   └── swift.swift
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Tcl
-│   ├── examples
-│   │   └── hello.tcl
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Typescript
-│   ├── examples
-│   │   └── typescript.ts
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── V
-│   ├── examples
-│   │   └── hello.v
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Vala
-│   ├── examples
-│   │   └── Vala.vala
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Vim-Script
-│   ├── examples
-│   │   └── vim.vim
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Whitespace
-│   ├── examples
-│   │   ├── helloworld.ws
-│   │   └── Whitespace and C hello world
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Yacas
-│   ├── examples
-│   ├── books.md
-│   ├── courses.md
-│   ├── hello-world.yts
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── Zig-lang
-│   ├── examples
-│   │   └── helloworld.zig
-│   ├── books.md
-│   ├── courses.md
-│   ├── info.json
-│   ├── README.md
-│   └── resources.md
-├── auto-gen.py
-├── CONTRIBUTING.md
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Hello.scala
+│   └── resources.md
+├── Neko-VM
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Neko.n
+│   └── resources.md
+├── Kotlin
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Kotlin.kt
+│   └── resources.md
+├── C
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── cLang.c
+│   └── resources.md
+├── Binary
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Binary.bin
+│   └── resources.md
+├── Cpp
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Cplusplus.cpp
+│   └── resources.md
+├── Red
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── main.red
+│   └── resources.md
+├── Piet
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── styled_helloworld.png
+│   └── resources.md
+├── D
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Dlang.d
+│   └── resources.md
+├── Docker
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Dockerfile
+│   └── resources.md
+├── Php
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── php.php
+│   └── resources.md
+├── Abdal-Autoit
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── hello.au3
+│   └── resources.md
+├── Elixir
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── elixir.ex
+│   └── resources.md
+├── Python
+│   ├── courses.md
+│   ├── README.md
+│   ├── img
+│   │   ├── 1.png
+│   │   ├── 6.png
+│   │   ├── 7.png
+│   │   ├── 3.png
+│   │   ├── 4.png
+│   │   ├── 2.png
+│   │   └── 5.png
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   ├── python.py
+│   │   └── variable.py
+│   └── resources.md
 ├── LICENSE
+├── JavaScript
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   ├── Javascript.js
+│   │   └── jsf.js
+│   └── resources.md
+├── Rockstar
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── HelloWorld.rock
+│   └── resources.md
+├── Clojure
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── ClojureLang.clj
+│   └── resources.md
+├── Flask-python-framework
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── app.py
+│   └── resources.md
+├── Vim-Script
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── vim.vim
+│   └── resources.md
+├── R
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── R.R
+│   └── resources.md
+├── Brainfuck
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── brainfuck.bf
+│   └── resources.md
+├── CONTRIBUTING.md
+├── Julia
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── julia.jl
+│   └── resources.md
+├── PowerShell
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── powershell.ps1
+│   └── resources.md
+├── Algol
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Algol.alg
+│   └── resources.md
+├── Rust
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── rust.rs
+│   └── resources.md
+├── Yacas
+│   ├── courses.md
+│   ├── hello-world.yts
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── .gitkeep
+│   └── resources.md
+├── Curl
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Curl.CURL
+│   └── resources.md
+├── Scss
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Scss.scss
+│   └── resources.md
+├── Haxe
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── HelloWorld.hx
+│   └── resources.md
+├── Go-Gin
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── gin.go
+│   └── resources.md
 ├── README.md
+├── Batch
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── batch.bat
+│   └── resources.md
+├── Cow
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   ├── fib.cow
+│   │   └── Cow.cow
+│   └── resources.md
+├── Typescript
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── typescript.ts
+│   └── resources.md
+├── Basic
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Basic.bas
+│   └── resources.md
+├── Csharp
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── CSharp.cs
+│   └── resources.md
+├── CoffeScript
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Coffe.coffe
+│   └── resources.md
+├── Scratch
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── SCRATCH.sb
+│   └── resources.md
+├── V
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── hello.v
+│   └── resources.md
+├── .github
+│   └── workflows
+│       └── generate-readme.yml
+├── Dart
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Dart.dart
+│   └── resources.md
+├── Perl
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── perl.pl
+│   └── resources.md
+├── Hack
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Hack.hh
+│   └── resources.md
+├── Matlab
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── HelloWorld.m
+│   └── resources.md
+├── .gitignore
 ├── TODO.md
-└── tree.txt
+├── Vala
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Vala.vala
+│   └── resources.md
+├── Groovy
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   ├── HelloWorld.groovy
+│   │   └── hello_world.groovy
+│   └── resources.md
+├── Scheme
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── main.scm
+│   └── resources.md
+├── Cobra
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Cobra.cobra
+│   └── resources.md
+├── Eiffel
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Eiffelfile.e
+│   └── resources.md
+├── tree.txt
+├── Django
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── helloworld
+│   │       ├── manage.py
+│   │       ├── helloworld
+│   │       │   ├── __init__.py
+│   │       │   ├── asgi.py
+│   │       │   ├── settings.py
+│   │       │   ├── urls.py
+│   │       │   └── wsgi.py
+│   │       └── home
+│   │           ├── __init__.py
+│   │           ├── apps.py
+│   │           ├── views.py
+│   │           ├── urls.py
+│   │           └── migrations
+│   │               └── __init__.py
+│   └── resources.md
+├── Bash
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── bash.sh
+│   └── resources.md
+├── Html
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── HTML.html
+│   └── resources.md
+├── Arduino
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── arduino.ino
+│   └── resources.md
+├── SQL
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── SQL.sql
+│   └── resources.md
+├── Css
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── CSS.css
+│   └── resources.md
+├── Elm
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Elm.elm
+│   └── resources.md
+├── Pascal
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Pascal.pas
+│   └── resources.md
+├── auto-gen.py
+├── Jython
+│   ├── courses.md
+│   ├── README.md
+│   ├── books.md
+│   ├── examples
+│   │   └── Jython.jy
+│   └── resources.md
+├── Go
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   ├── fib.go
+│   │   └── GoLang.go
+│   └── resources.md
+├── Whitespace
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   ├── helloworld.ws
+│   │   └── Whitespace and C hello world
+│   └── resources.md
+├── COBOL
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── main.cbl
+│   └── resources.md
+├── MIPS
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── hello.s
+│   └── resources.md
+├── Solidity
+│   ├── courses.md
+│   ├── README.md
+│   ├── .gitignore
+│   ├── books.md
+│   ├── examples
+│   │   ├── .gitignore
+│   │   └── Solidity.sol
+│   └── resources.md
+├── Octave
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── hello
+│   └── resources.md
+├── Pashmak
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   ├── ask_name.pashm
+│   │   ├── loop.pashm
+│   │   ├── hello.pashm
+│   │   ├── array.pashm
+│   │   ├── square.pashm
+│   │   ├── get_password.pashm
+│   │   └── fib.pashm
+│   └── resources.md
+├── Flutter
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── main.dart
+│   └── resources.md
+├── Plus
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Plus.plus
+│   └── resources.md
+├── Fsharp
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Fsharp.fs
+│   └── resources.md
+├── Nim
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Nim.nim
+│   └── resources.md
+├── Fortran
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Fortran.F
+│   └── resources.md
+├── Opa
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Opa.opa
+│   └── resources.md
+├── OBJECTIVE-C
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── OBJECT-C.m
+│   └── resources.md
+├── Makefile
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   ├── makefile
+│   │   ├── hellomake.c
+│   │   ├── hellofunc.c
+│   │   └── hellomake.h
+│   └── resources.md
+├── Swift
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── swift.swift
+│   └── resources.md
+├── Lisp
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── Lispfile.e
+│   └── resources.md
+├── AppleScript
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── AppleScript.scpt
+│   └── resources.md
+├── Tcl
+│   ├── courses.md
+│   ├── README.md
+│   ├── info.json
+│   ├── books.md
+│   ├── examples
+│   │   └── hello.tcl
+│   └── resources.md
+└── Zig-lang
+    ├── courses.md
+    ├── README.md
+    ├── info.json
+    ├── books.md
+    ├── examples
+    │   └── helloworld.zig
+    └── resources.md
 
-177 directories, 553 files
+198 directories, 588 files
