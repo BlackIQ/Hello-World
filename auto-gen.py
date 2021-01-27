@@ -4,8 +4,9 @@
 
 import os.path
 from os import listdir, rename, mkdir
-from sys import exit
+from sys import exit as sys_exit
 from json import loads as json_loads
+from json.decoder import JSONDecodeError
 from pathlib import Path
 from itertools import islice
 
@@ -91,7 +92,7 @@ for letter in letters:
                 tmp_f.write(content)
                 tmp_f.close()
         if not os.path.isdir(project_dir + '/' + item + '/examples'):
-            os.mkdir(project_dir + '/' + item + '/examples')
+            mkdir(project_dir + '/' + item + '/examples')
             tmp_f = open(project_dir + '/' + item + '/examples/.gitkeep', 'w')
             tmp_f.write('')
             tmp_f.close()
@@ -112,15 +113,18 @@ for letter in letters:
                         pass
                 except KeyError:
                     pass
-            except:
+            except JSONDecodeError:
                 print(f'Error: invalid json data in {item}/info.json. ignored...')
                 exit_code = 1
 
-        if creator_title != None:
-            if creator_link != None:
-                readme_content += '- [' + item + '](/' + item + ') - Added By <img src="' + creator_link + '.png?size=' + str(user_img_size) + '" width="' + str(user_img_size) + '" height="' + str(user_img_size) + '" /> [' + creator_title + '](' + creator_link + ')\n'
+        if creator_title is not None:
+            if creator_link is not None:
+                readme_content += f'- [{item}](/{item}) - Added By'\
+                f' <img src="{creator_link}.png?size={str(user_img_size)}"'\
+                f' width="{str(user_img_size)}" height="{str(user_img_size)}" /> '\
+                f'[' + creator_title + '](' + creator_link + ')\n'
             else:
-                readme_content += '- [' + item + '](/' + item + ') - Added By ' + creator_title + '\n'
+                readme_content += f'- [{item}](/{item}) - Added By {creator_title}\n'
         else:
             readme_content += '- [' + item + '](/' + item + ')\n'
     readme_content += '\n'
@@ -140,21 +144,22 @@ def tree(dir_path: Path, level: int=-1, limit_to_directories: bool=False,
     directories = 0
     def inner(dir_path: Path, prefix: str='', level=-1):
         nonlocal files, directories
-        if not level: 
+        if not level:
             return # 0, stop iterating
         if limit_to_directories:
             contents = [d for d in dir_path.iterdir() if d.is_dir()]
         else:
             contents = list(dir_path.iterdir())
         # remove that items starts with `.`
-        contents = [item for item in contents if not str(item).replace('\\', '/').split('/')[-1].startswith('.')]
+        contents = [item for item in contents\
+            if not str(item).replace('\\', '/').split('/')[-1].startswith('.')]
         contents.sort()
         pointers = [tee] * (len(contents) - 1) + [last]
         for pointer, path in zip(pointers, contents):
             if path.is_dir():
                 yield prefix + pointer + path.name
                 directories += 1
-                extension = branch if pointer == tee else space 
+                extension = branch if pointer == tee else space
                 yield from inner(path, prefix=prefix+extension, level=level-1)
             elif not limit_to_directories:
                 yield prefix + pointer + path.name
@@ -168,9 +173,9 @@ def tree(dir_path: Path, level: int=-1, limit_to_directories: bool=False,
     out += f'\n{directories} directories' + (f', {files} files' if files else '') + '\n'
     # replace the first line with `.`
     out = '.\n' + out.split('\n', 1)[-1]
-    f = open(project_dir + '/tree.txt', 'w')
-    f.write(out)
-    f.close()
+    tree_f = open(project_dir + '/tree.txt', 'w')
+    tree_f.write(out)
+    tree_f.close()
 
 tree(project_dir)
 
@@ -179,4 +184,4 @@ print('Done!')
 if exit_code != 0:
     print("Warning: some of info.json files are not valid. Process will be exited with 1 exit code")
 
-exit(exit_code)
+sys_exit(exit_code)
