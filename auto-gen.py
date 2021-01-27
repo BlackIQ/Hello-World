@@ -2,10 +2,10 @@
 
 """ This script generates lot of things automatically """
 
-import os
-import sys
-import json
-import platform
+import os.path
+from os import listdir, rename, mkdir
+from sys import exit
+from json import loads as json_loads
 from pathlib import Path
 from itertools import islice
 
@@ -17,7 +17,7 @@ last =   '└── '
 project_dir = os.path.dirname(os.path.abspath(__file__))
 """ The project directory path """
 
-items = os.listdir(project_dir)
+items = listdir(project_dir)
 
 langs = []
 """ Found languages """
@@ -73,7 +73,7 @@ for letter in letters:
         if ' ' in item:
             old_name = item
             item = item.replace(' ', "-")
-            os.rename(old_name, item)
+            rename(old_name, item)
 
         required_files = ['courses.md', 'books.md', 'README.md', 'resources.md']
         for required_file in required_files:
@@ -103,7 +103,7 @@ for letter in letters:
                 f = open(project_dir + '/' + item + '/info.json', 'r')
                 content = f.read()
                 f.close()
-                content = json.loads(content)
+                content = json_loads(content)
                 try:
                     creator_title = content['creator']['title']
                     try:
@@ -179,4 +179,4 @@ print('Done!')
 if exit_code != 0:
     print("Warning: some of info.json files are not valid. Process will be exited with 1 exit code")
 
-sys.exit(exit_code)
+exit(exit_code)
