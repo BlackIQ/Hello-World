@@ -146,7 +146,8 @@ def tree(dir_path: Path, level: int=-1, limit_to_directories: bool=False,
             contents = [d for d in dir_path.iterdir() if d.is_dir()]
         else:
             contents = list(dir_path.iterdir())
-        contents = [item for item in contents if not '/.' in str(item).replace('\\', '/')]
+        # remove that items starts with `.`
+        contents = [item for item in contents if not str(item).replace('\\', '/').split('/')[-1].startswith('.')]
         contents.sort()
         pointers = [tee] * (len(contents) - 1) + [last]
         for pointer, path in zip(pointers, contents):
