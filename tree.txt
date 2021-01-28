@@ -41,7 +41,6 @@
 │   └── resources.md
 ├── Awk
 │   ├── README.md
-│   ├── book.md
 │   ├── books.md
 │   ├── courses.md
 │   ├── examples
@@ -755,4 +754,4 @@
 ├── auto-gen.py
 └── tree.txt
 
-183 directories, 572 files
+183 directories, 571 files
