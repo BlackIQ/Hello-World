@@ -14,7 +14,7 @@ Also there is list of useful **Courses** and **Books** about the programming lan
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in This Repository: 87.
+Total Languages in This Repository: 88.
 
 
 ### A
@@ -171,6 +171,7 @@ Total Languages in This Repository: 87.
 - [Piet](/Piet) - Added By <img src="https://github.com/ali0gamer1.png?size=25" width="25" height="25" /> [Ali Arj](https://github.com/ali0gamer1)
 - [Plus](/Plus) - Added By <img src="https://github.com/amireshoon.png?size=25" width="25" height="25" /> [Amirhossein Meydani](https://github.com/amireshoon)
 - [PowerShell](/PowerShell) - Added By <img src="https://github.com/F4R4N.png?size=25" width="25" height="25" /> [Faran Taghavi](https://github.com/F4R4N)
+- [Prolog](/Prolog) - Added By <img src="https://github.com/HSNHK.png?size=25" width="25" height="25" /> [Hassan Mohammadi](https://github.com/HSNHK)
 - [Python](/Python) - Added By <img src="https://github.com/rezabojnordi.png?size=25" width="25" height="25" /> [Reza Bojnordi](https://github.com/rezabojnordi)
 
 
