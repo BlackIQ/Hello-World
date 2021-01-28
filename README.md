@@ -14,7 +14,7 @@ Also there is list of useful **Courses** and **Books** about the programming lan
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in This Repository: 88.
+Total Languages in This Repository: 89.
 
 
 ### A
@@ -26,6 +26,7 @@ Total Languages in This Repository: 88.
 - [AppleScript](/AppleScript) - Added By <img src="https://github.com/F4R4N.png?size=25" width="25" height="25" /> [Faran Taghavi](https://github.com/F4R4N)
 - [Arduino](/Arduino) - Added By <img src="https://github.com/BlackIQ.png?size=25" width="25" height="25" /> [Amirhossein Mohammadi](https://github.com/BlackIQ)
 - [Assembly](/Assembly) - Added By <img src="https://github.com/tahacodes.png?size=25" width="25" height="25" /> [Taha Farahani](https://github.com/tahacodes)
+- [Awk](/Awk) - Added By <img src="https://github.com/Epic-R-R.png?size=25" width="25" height="25" /> [Sullivan(Epic-R-R)](https://github.com/Epic-R-R)
 
 
 ### B
