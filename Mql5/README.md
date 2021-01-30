@@ -6,4 +6,4 @@ The article details and full description of MQL5 can be found in MQL5 Reference,
 
 
 ## Refrences
-- [Mql5 Documation](https://www.mql5.com/en/articles/35)
+- [Mql5 Documentation](https://www.mql5.com/en/articles/35)
