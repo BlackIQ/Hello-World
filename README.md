@@ -14,7 +14,7 @@ Also there is list of useful **Courses** and **Books** about the programming lan
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in This Repository: 89.
+Total Languages in This Repository: 90.
 
 
 ### A
@@ -123,8 +123,7 @@ Total Languages in This Repository: 89.
 ---
 
 - [Kotlin](/Kotlin) - Added By <img src="https://github.com/BlackIQ.png?size=25" width="25" height="25" /> [Amirhossein Mohammadi](https://github.com/BlackIQ)
-
-- [Ktor](/Ktor) - Added By <img src="https://github.com/alirezabashi98.png?size=25" width="25" height="25" /> [Alireza Bashi](https://github.com/alirezabashi98)
+- [Ktor](/Ktor) - Added By <img src="https://github.com/alirezabashi98.png?size=25" width="25" height="25" /> [AlirezabBashi98](https://github.com/alirezabashi98)
 
 
 ### L
