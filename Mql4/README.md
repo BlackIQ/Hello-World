@@ -6,5 +6,5 @@ MQL4 is based on the concept of the popular programming language C++. The langua
 MetaTrader 4, also known as MT4, is an electronic trading platform widely used by online retail foreign exchange speculative traders. It was developed by MetaQuotes Software and released in 2005. The software is licensed to foreign exchange brokers who provide the software to their clients. The software consists of both a client and server component. The server component is run by the broker and the client software is provided to the broker’s customers, who use it to see live streaming prices and charts, to place orders, and to manage their accounts.
 
 ## Refrences
-- [Mql4 Documation](https://docs.mql4.com/basis)
+- [Mql4 Documentation](https://docs.mql4.com/basis)
 - [Wikipedia](https://en.wikipedia.org/wiki/MetaTrader_4)
