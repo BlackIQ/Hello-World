@@ -62,6 +62,9 @@ Total Languages in This Repository: {count}.
 
 '''
 
+for letter in letters:
+    readme_content += '- [' + letter + '](#' + letter + ')\n'
+
 user_img_size = 25
 """ Width and Height of user profile img in readme """
 
