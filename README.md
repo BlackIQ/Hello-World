@@ -16,29 +16,7 @@ If you want to contribute to this project, read [Contributing Guide](CONTRIBUTIN
 
 Total Languages in This Repository: 93.
 
-- [A](#A)
-- [B](#B)
-- [C](#C)
-- [D](#D)
-- [E](#E)
-- [F](#F)
-- [G](#G)
-- [H](#H)
-- [J](#J)
-- [K](#K)
-- [L](#L)
-- [M](#M)
-- [N](#N)
-- [O](#O)
-- [P](#P)
-- [R](#R)
-- [S](#S)
-- [T](#T)
-- [V](#V)
-- [W](#W)
-- [Y](#Y)
-- [Z](#Z)
-
+ [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [R](#R) [S](#S) [T](#T) [V](#V) [W](#W) [Y](#Y) [Z](#Z)
 ### A
 
 ---
