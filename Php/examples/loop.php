@@ -8,8 +8,7 @@ for ($i = 1; $i <= 8; $i++) {
     echo "\n";
 }
 
-
-// output:
+// Output:
 // *
 // **
 // ***
@@ -18,3 +17,28 @@ for ($i = 1; $i <= 8; $i++) {
 // ******
 // *******
 // ********
+
+
+$fruits = ['banana', 'kiwi', 'strawberry', 'pineapple'];
+
+echo 'My favorite fruits are: ';
+foreach ($fruits as $fruit) {
+    echo $fruit . " ";
+}
+
+// Output:
+// My favorite fruits are: banana kiwi strawberry pineapple
+
+
+$number = 1;
+
+while ($number <= 10) {
+    if ($number % 2 == 0) {
+        echo $number . " ";
+    }
+
+    $number++;
+}
+
+// Output:
+// 2 4 6 8 10
