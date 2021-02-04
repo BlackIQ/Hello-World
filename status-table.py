@@ -3,11 +3,14 @@
 """
 This script generates a table from languages and progress status of them.
 We can see that in this table with languages READNE, books, resources and courses list are completed.
+And writes generated table to the todo.md file
 """
 
 import os
 
 output = """
+## Current status of languages
+
 | Language | Readme Completed | Books (minimal 2 items) | Courses (minimal 2 items) | Resources (minimal 2 items) |
 |----------|------------------|-------------------------|---------------------------|-----------------------------|
 """
@@ -47,5 +50,15 @@ for item in items:
         output += '<ul><li>' + ('[x] Done!' if resources_completed else '[ ] [Add one!](/' + item + '/resources.md)') + ' </li></ul>|'
         output += '\n'
 
-# print the generated table
-print(output)
+# write generated table
+spliter = '---'
+todo = open('TODO.md', 'r')
+current_todo = todo.read()
+todo.close()
+current_todo = current_todo.strip().split(spliter, 1)[0].strip()
+new_todo = current_todo + '\n\n---\n\n' + output
+todo = open('TODO.md', 'w')
+todo.write(new_todo)
+todo.close()
+
+print('TODO generated!')
