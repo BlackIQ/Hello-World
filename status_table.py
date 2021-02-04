@@ -73,11 +73,11 @@ def main(project_dir=None):
 
     # generate output from loaded list
     for item in real_list:
-        output += "| [ 🌐" + item['name'] + "](/" + item['name'] + ") |"
-        output += ('✅Done!' if item['readme'] else '[ℹ️Edit it!](/' + item['name'] + '/README.md)') + ' | '
-        output += ('✅Done!' if item['books'] else '[ℹ️Add one!](/' + item['name'] + '/books.md)') + ' | '
-        output += ('✅Done!' if item['courses'] else '[ℹ️Add one!](/' + item['name'] + '/courses.md)') + ' | '
-        output += ('✅Done!' if item['resources'] else '[ℹ️Add one!](/' + item['name'] + '/resources.md)') + ' | '
+        output += "| [ 🌐 " + item['name'] + "](/" + item['name'] + ") |"
+        output += ('✅ Done!' if item['readme'] else '[ℹ️ Edit it!](/' + item['name'] + '/README.md)') + ' | '
+        output += ('✅ Done!' if item['books'] else '[ℹ️ Add one!](/' + item['name'] + '/books.md)') + ' | '
+        output += ('✅ Done!' if item['courses'] else '[ℹ️ Add one!](/' + item['name'] + '/courses.md)') + ' | '
+        output += ('✅ Done!' if item['resources'] else '[ℹ️ Add one!](/' + item['name'] + '/resources.md)') + ' | '
         output += '\n'
 
     # write generated table
