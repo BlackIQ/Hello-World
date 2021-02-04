@@ -9,7 +9,7 @@ import os
 
 output = """
 | Language | Readme | Books (minimal 2 items) | Courses (minimal 2 items) | Resources (minimal 2 items) |
-|----------|--------|-------|---------|-----------|
+|----------|--------|-------------------------|---------------------------|-----------------------------|
 """
 
 # load list of languages
