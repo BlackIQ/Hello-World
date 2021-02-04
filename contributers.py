@@ -33,9 +33,14 @@ def main(project_dir = None):
                 with open(project_dir + '/' + item + '/info.json') as json_file:
                     contributer = json.load(json_file)
                     
-                    
+                    contributers.append(contributer['creator']['title'])
+                    badge = "🏅" if contributers.count(contributer['creator']['title']) > 5 else ""
+                    output += "| [" + contributer['creator']['title'] + badge + "](" + contributer['creator']['link'] + ')|'  + str(contributers.count(contributer['creator']['title'])) +"|"
+                    output += '\n'
             except:
-                # file not founded or info.js has't valid data
-    
+                print("file not founded or info.js has't valid data")
+    ct = open(project_dir + "/CONTRIBUTERS.md", 'w')
+    ct.write(output)
+    ct.close()
 if __name__ == '__main__':
     main()
