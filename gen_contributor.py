@@ -27,22 +27,34 @@ def main(project_dir = None):
     items = os.listdir(project_dir)
     items.sort()
 
-    contributors = []
+    contributors = {}
     
     for item in items:
         if item[0] not in ['.','_'] and os.path.isdir(project_dir + '/' + item):
             try:
                 with open(project_dir + '/' + item + '/info.json') as json_file:
                     contributor = json.load(json_file)
-                    
-                    contributors.append(contributor['creator']['title'])
-                    badge = "🏅" if contributors.count(contributor['creator']['title']) > 5 else ""
-                    output += "| [" + contributor['creator']['title'] + badge + "](" + contributor['creator']['link'] + ')|'  + str(contributors.count(contributor['creator']['title'])) +"|"
-                    output += '\n'
+
+                    try:
+                        contributors[contributor['creator']['link']]
+                    except KeyError:
+                        contributors[contributor['creator']['link']] = contributor['creator']
+                        contributors[contributor['creator']['link']]['count'] = 0
+                    contributors[contributor['creator']['link']]['count'] += 1
             except:
                 print("file not founded or info.js has't valid data")
+
+    # generate table of loaded contributors
+    for k in contributors:
+        contributor = contributors[k]
+        badge = "🏅" if contributor['count'] > 5 else ""
+        output += "| [" + contributor['title'] + badge + "](" + contributor['link'] + ')|'  + str(contributor['count']) +"|"
+        output += '\n'
+
     ct = open(project_dir + "/CONTRIBUTORS.md", 'w')
     ct.write(output)
     ct.close()
+
+    print('Contributors table generated!')
 if __name__ == '__main__':
     main()
