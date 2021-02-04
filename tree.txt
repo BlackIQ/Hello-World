@@ -119,9 +119,9 @@
 │   │   └── main.cbl
 │   ├── info.json
 │   └── resources.md
-├── CONTRIBUTERS.md
 ├── CONTRIBUTING.md
 ├── CONTRIBUTOR.md
+├── CONTRIBUTORS.md
 ├── Clojure
 │   ├── README.md
 │   ├── books.md

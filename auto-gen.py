@@ -10,7 +10,7 @@ from json.decoder import JSONDecodeError
 from pathlib import Path
 from itertools import islice
 from status_table import main as generate_status_table
-from gen_contributor import main as generate_contributers_table
+from gen_contributor import main as generate_contributors_table
 
 space =  '    '
 branch = '│   '
@@ -188,7 +188,7 @@ tree(project_dir)
 print('Done!')
 
 generate_status_table(project_dir)
-generate_contributers_table(project_dir)
+generate_contributors_table(project_dir)
 
 if exit_code != 0:
     print("Warning: some of info.json files are not valid. Process will be exited with 1 exit code")

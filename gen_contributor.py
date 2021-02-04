@@ -27,21 +27,21 @@ def main(project_dir = None):
     items = os.listdir(project_dir)
     items.sort()
 
-    contributers = []
+    contributors = []
     
     for item in items:
         if item[0] not in ['.','_'] and os.path.isdir(project_dir + '/' + item):
             try:
                 with open(project_dir + '/' + item + '/info.json') as json_file:
-                    contributer = json.load(json_file)
+                    contributor = json.load(json_file)
                     
-                    contributers.append(contributer['creator']['title'])
-                    badge = "🏅" if contributers.count(contributer['creator']['title']) > 5 else ""
-                    output += "| [" + contributer['creator']['title'] + badge + "](" + contributer['creator']['link'] + ')|'  + str(contributers.count(contributer['creator']['title'])) +"|"
+                    contributors.append(contributor['creator']['title'])
+                    badge = "🏅" if contributors.count(contributor['creator']['title']) > 5 else ""
+                    output += "| [" + contributor['creator']['title'] + badge + "](" + contributor['creator']['link'] + ')|'  + str(contributors.count(contributor['creator']['title'])) +"|"
                     output += '\n'
             except:
                 print("file not founded or info.js has't valid data")
-    ct = open(project_dir + "/CONTRIBUTERS.md", 'w')
+    ct = open(project_dir + "/CONTRIBUTORS.md", 'w')
     ct.write(output)
     ct.close()
 if __name__ == '__main__':
