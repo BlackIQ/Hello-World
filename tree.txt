@@ -208,16 +208,13 @@
 │   ├── examples
 │   │   └── helloworld
 │   │       ├── helloworld
-│   │       │   ├── __init__.py
 │   │       │   ├── asgi.py
 │   │       │   ├── settings.py
 │   │       │   ├── urls.py
 │   │       │   └── wsgi.py
 │   │       ├── home
-│   │       │   ├── __init__.py
 │   │       │   ├── apps.py
 │   │       │   ├── migrations
-│   │       │   │   └── __init__.py
 │   │       │   ├── urls.py
 │   │       │   └── views.py
 │   │       └── manage.py
@@ -786,6 +783,7 @@
 │   ├── info.json
 │   └── resources.md
 ├── auto-gen.py
+├── status_table.py
 └── tree.txt
 
-191 directories, 597 files
+191 directories, 595 files
