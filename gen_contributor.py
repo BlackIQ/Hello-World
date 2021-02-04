@@ -51,7 +51,7 @@ def main(project_dir = None):
         output += "| [" + contributor['title'] + badge + "](" + contributor['link'] + ')|'  + str(contributor['count']) +"|"
         output += '\n'
 
-    ct = open(project_dir + "/CONTRIBUTORS.md", 'w')
+    ct = open(project_dir + "/CONTRIBUTORS_LIST.md", 'w')
     ct.write(output)
     ct.close()
 
