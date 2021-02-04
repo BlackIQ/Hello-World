@@ -664,7 +664,6 @@
 │   │   └── SQL.sql
 │   ├── info.json
 │   └── resources.md
-├── STATUS.md
 ├── Scala
 │   ├── README.md
 │   ├── books.md
@@ -790,4 +789,4 @@
 ├── status-table.py
 └── tree.txt
 
-191 directories, 599 files
+191 directories, 598 files
