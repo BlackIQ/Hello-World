@@ -120,6 +120,7 @@
 │   ├── info.json
 │   └── resources.md
 ├── CONTRIBUTING.md
+├── CONTRIBUTORS.md
 ├── CONTRIBUTORS_LIST.md
 ├── Clojure
 │   ├── README.md
@@ -788,4 +789,4 @@
 ├── status_table.py
 └── tree.txt
 
-191 directories, 597 files
+191 directories, 598 files
