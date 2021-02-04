@@ -1,8 +1,8 @@
 """
 This script create a table from people who contribute and added Hello World language
-for this repository. Which first column is name and second one is how may language
-contributer added to this repo and also if contributer added more than 5 language
-contrubuter will receive a badge after his name
+for this repository. Which the first column is the name and the second one is how many language
+contributor added to this repo and also if a contributor added more than 5 language
+contributor will receive a badge after his name
 """
 
 import os
