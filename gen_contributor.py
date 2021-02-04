@@ -42,7 +42,7 @@ def main(project_dir = None):
                         contributors[contributor['creator']['link']]['count'] = 0
                     contributors[contributor['creator']['link']]['count'] += 1
             except:
-                print("file not founded or info.js has't valid data")
+                print(item + ": file not found or info.js has not valid syntax")
 
     # generate table of loaded contributors
     for k in contributors:
