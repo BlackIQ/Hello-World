@@ -9,10 +9,10 @@ And writes generated table to the todo.md file
 import os
 
 output = """
-## Current status of languages
+## Current status of added languages
 
-| Language | Readme Completed | Books (minimal 2 items) | Courses (minimal 2 items) | Resources (minimal 2 items) |
-|----------|------------------|-------------------------|---------------------------|-----------------------------|
+| Language | Readme | Books (at least 2 items) | Courses (at least 2 items) | Resources (at least 2 items) |
+|----------|--------|--------------------------|----------------------------|------------------------------|
 """
 
 def main(project_dir=None):
@@ -73,11 +73,11 @@ def main(project_dir=None):
 
     # generate output from loaded list
     for item in real_list:
-        output += "| [" + item['name'] + "](/" + item['name'] + ") |"
-        output += ('Done!' if item['readme'] else '[Edit it!](/' + item['name'] + '/README.md)') + ' | '
-        output += ('Done!' if item['books'] else '[Add one!](/' + item['name'] + '/books.md)') + ' | '
-        output += ('Done!' if item['courses'] else '[Add one!](/' + item['name'] + '/courses.md)') + ' | '
-        output += ('Done!' if item['resources'] else '[Add one!](/' + item['name'] + '/resources.md)') + ' | '
+        output += "| [ 🌐" + item['name'] + "](/" + item['name'] + ") |"
+        output += ('✅Done!' if item['readme'] else '[ℹ️Edit it!](/' + item['name'] + '/README.md)') + ' | '
+        output += ('✅Done!' if item['books'] else '[ℹ️Add one!](/' + item['name'] + '/books.md)') + ' | '
+        output += ('✅Done!' if item['courses'] else '[ℹ️Add one!](/' + item['name'] + '/courses.md)') + ' | '
+        output += ('✅Done!' if item['resources'] else '[ℹ️Add one!](/' + item['name'] + '/resources.md)') + ' | '
         output += '\n'
 
     # write generated table
