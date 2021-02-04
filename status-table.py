@@ -15,50 +15,58 @@ output = """
 |----------|------------------|-------------------------|---------------------------|-----------------------------|
 """
 
-# load list of languages
-items = os.listdir()
-items.sort()
+def main(project_dir=None):
+    if project_dir == None:
+        project_dir = os.path.dirname(os.path.abspath(__file__))
 
-for item in items:
-    if item[0] != '.' and os.path.isdir(item):
-        # check which items completed
+    # load list of languages
+    global output
+    items = os.listdir(project_dir)
+    items.sort()
 
-        readme = open(item + '/README.md', 'r')
-        readme_completed = '\n' in readme.read().strip()
-        readme.close()
+    for item in items:
+        if item[0] != '.' and os.path.isdir(project_dir + '/' + item):
+            # check which items completed
 
-        books = open(item + '/books.md', 'r')
-        books_completed = books.read().strip().split('\n')
-        books_completed = len([line for line in books_completed if line.strip().startswith('- [')]) >= 2
-        books.close()
+            readme = open(project_dir + '/' + item + '/README.md', 'r')
+            readme_completed = '\n' in readme.read().strip()
+            readme.close()
 
-        courses = open(item + '/courses.md', 'r')
-        courses_completed = courses.read().strip().split('\n')
-        courses_completed = len([line for line in courses_completed if line.strip().startswith('- [')]) >= 2
-        courses.close()
+            books = open(project_dir + '/' + item + '/books.md', 'r')
+            books_completed = books.read().strip().split('\n')
+            books_completed = len([line for line in books_completed if line.strip().startswith('- [')]) >= 2
+            books.close()
 
-        resources = open(item + '/resources.md', 'r')
-        resources_completed = resources.read().strip().split('\n')
-        resources_completed = len([line for line in resources_completed if line.strip().startswith('- [')]) >= 2
-        resources.close()
+            courses = open(project_dir + '/' + item + '/courses.md', 'r')
+            courses_completed = courses.read().strip().split('\n')
+            courses_completed = len([line for line in courses_completed if line.strip().startswith('- [')]) >= 2
+            courses.close()
 
-        # add item to the table
-        output += "| [" + item + "](/" + item + ") |"
-        output += '<ul><li>' + ('[x] Done!' if readme_completed else '[ ] [Edit it!](/' + item + '/README.md)') + ' </li></ul>|'
-        output += '<ul><li>' + ('[x] Done!' if books_completed else '[ ] [Add one!](/' + item + '/books.md)') + ' </li></ul>|'
-        output += '<ul><li>' + ('[x] Done!' if courses_completed else '[ ] [Add one!](/' + item + '/courses.md)') + ' </li></ul>|'
-        output += '<ul><li>' + ('[x] Done!' if resources_completed else '[ ] [Add one!](/' + item + '/resources.md)') + ' </li></ul>|'
-        output += '\n'
+            resources = open(project_dir + '/' + item + '/resources.md', 'r')
+            resources_completed = resources.read().strip().split('\n')
+            resources_completed = len([line for line in resources_completed if line.strip().startswith('- [')]) >= 2
+            resources.close()
 
-# write generated table
-spliter = '---'
-todo = open('TODO.md', 'r')
-current_todo = todo.read()
-todo.close()
-current_todo = current_todo.strip().split(spliter, 1)[0].strip()
-new_todo = current_todo + '\n\n---\n\n' + output
-todo = open('TODO.md', 'w')
-todo.write(new_todo)
-todo.close()
+            # add item to the table
+            output += "| [" + item + "](/" + item + ") |"
+            output += '<ul><li>' + ('[x] Done!' if readme_completed else '[ ] [Edit it!](/' + item + '/README.md)') + ' </li></ul>|'
+            output += '<ul><li>' + ('[x] Done!' if books_completed else '[ ] [Add one!](/' + item + '/books.md)') + ' </li></ul>|'
+            output += '<ul><li>' + ('[x] Done!' if courses_completed else '[ ] [Add one!](/' + item + '/courses.md)') + ' </li></ul>|'
+            output += '<ul><li>' + ('[x] Done!' if resources_completed else '[ ] [Add one!](/' + item + '/resources.md)') + ' </li></ul>|'
+            output += '\n'
 
-print('TODO generated!')
+    # write generated table
+    spliter = '---'
+    todo = open(project_dir + '/TODO.md', 'r')
+    current_todo = todo.read()
+    todo.close()
+    current_todo = current_todo.strip().split(spliter, 1)[0].strip()
+    new_todo = current_todo + '\n\n---\n\n' + output
+    todo = open(project_dir + '/TODO.md', 'w')
+    todo.write(new_todo)
+    todo.close()
+
+    print('TODO generated!')
+
+if __name__ == '__main__':
+    main()
