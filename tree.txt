@@ -785,8 +785,6 @@
 │   ├── info.json
 │   └── resources.md
 ├── auto-gen.py
-├── gen_contributor.py
-├── status_table.py
 └── tree.txt
 
-191 directories, 598 files
+191 directories, 596 files
