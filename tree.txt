@@ -120,7 +120,7 @@
 │   ├── info.json
 │   └── resources.md
 ├── CONTRIBUTING.md
-├── CONTRIBUTORS.md
+├── CONTRIBUTORS_LIST.md
 ├── Clojure
 │   ├── README.md
 │   ├── books.md
