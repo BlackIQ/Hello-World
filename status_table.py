@@ -24,6 +24,8 @@ def main(project_dir=None):
     items = os.listdir(project_dir)
     items.sort()
 
+    real_list = []
+
     for item in items:
         if item[0] not in ['.', '_'] and os.path.isdir(project_dir + '/' + item):
             # check which items completed
@@ -47,13 +49,23 @@ def main(project_dir=None):
             resources_completed = len([line for line in resources_completed if line.strip().startswith('- [')]) >= 2
             resources.close()
 
-            # add item to the table
-            output += "| [" + item + "](/" + item + ") |"
-            output += '<ul><li>' + ('[x] Done!' if readme_completed else '[ ] [Edit it!](/' + item + '/README.md)') + ' </li></ul>|'
-            output += '<ul><li>' + ('[x] Done!' if books_completed else '[ ] [Add one!](/' + item + '/books.md)') + ' </li></ul>|'
-            output += '<ul><li>' + ('[x] Done!' if courses_completed else '[ ] [Add one!](/' + item + '/courses.md)') + ' </li></ul>|'
-            output += '<ul><li>' + ('[x] Done!' if resources_completed else '[ ] [Add one!](/' + item + '/resources.md)') + ' </li></ul>|'
-            output += '\n'
+            # add item to the list
+            real_list.append({
+                'readme': readme_completed,
+                'books': books_completed,
+                'courses': courses_completed,
+                'resources': resources_completed,
+                'name': item,
+            })
+
+    # generate output from loaded list
+    for item in real_list:
+        output += "| [" + item['name'] + "](/" + item['name'] + ") |"
+        output += '<ul><li>' + ('[x] Done!' if item['readme'] else '[ ] [Edit it!](/' + item['name'] + '/README.md)') + ' </li></ul>|'
+        output += '<ul><li>' + ('[x] Done!' if item['books'] else '[ ] [Add one!](/' + item['name'] + '/books.md)') + ' </li></ul>|'
+        output += '<ul><li>' + ('[x] Done!' if item['courses'] else '[ ] [Add one!](/' + item['name'] + '/courses.md)') + ' </li></ul>|'
+        output += '<ul><li>' + ('[x] Done!' if item['resources'] else '[ ] [Add one!](/' + item['name'] + '/resources.md)') + ' </li></ul>|'
+        output += '\n'
 
     # write generated table
     spliter = '\n---\n'
