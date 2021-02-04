@@ -40,11 +40,11 @@ for item in items:
         resources.close()
 
         # add item to the table
-        output += "|"+item+"|"
-        output += '<ul><li>' + ('[x] Done!' if readme_completed else '[ ]') + ' </li></ul>|'
-        output += '<ul><li>' + ('[x] Done!' if books_completed else '[ ]') + ' </li></ul>|'
-        output += '<ul><li>' + ('[x] Done!' if courses_completed else '[ ]') + ' </li></ul>|'
-        output += '<ul><li>' + ('[x] Done!' if resources_completed else '[ ]') + ' </li></ul>|'
+        output += "| [" + item + "](/" + item + ") |"
+        output += '<ul><li>' + ('[x] Done!' if readme_completed else '[ ] [Edit it!](/' + item + '/README.md)') + ' </li></ul>|'
+        output += '<ul><li>' + ('[x] Done!' if books_completed else '[ ] [Add one!][/' + item + '/books.md]') + ' </li></ul>|'
+        output += '<ul><li>' + ('[x] Done!' if courses_completed else '[ ] [Add one!][/' + item + '/courses.md]') + ' </li></ul>|'
+        output += '<ul><li>' + ('[x] Done!' if resources_completed else '[ ] [Add one!][/' + item + '/resources.md]') + ' </li></ul>|'
         output += '\n'
 
 # print the generated table
