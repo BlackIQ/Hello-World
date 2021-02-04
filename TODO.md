@@ -8,96 +8,96 @@
 
 | Language | Readme Completed | Books (minimal 2 items) | Courses (minimal 2 items) | Resources (minimal 2 items) |
 |----------|------------------|-------------------------|---------------------------|-----------------------------|
-| [Php](/Php) |<ul><li>[x] Done! </li></ul>|<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/Php/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Php/resources.md) </li></ul>|
-| [Zig-lang](/Zig-lang) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/Zig-lang/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Zig-lang/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Zig-lang/resources.md) </li></ul>|
-| [Whitespace](/Whitespace) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/Whitespace/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Whitespace/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Whitespace/resources.md) </li></ul>|
-| [Rockstar](/Rockstar) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/Rockstar/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Rockstar/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Rockstar/resources.md) </li></ul>|
-| [Python](/Python) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/Python/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Python/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Python/resources.md) </li></ul>|
-| [Piet](/Piet) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/Piet/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Piet/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Piet/resources.md) </li></ul>|
-| [Pashmak](/Pashmak) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/Pashmak/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Pashmak/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Pashmak/resources.md) </li></ul>|
-| [Mql5](/Mql5) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/Mql5/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Mql5/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Mql5/resources.md) </li></ul>|
-| [Mql4](/Mql4) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/Mql4/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Mql4/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Mql4/resources.md) </li></ul>|
-| [LOLCODE](/LOLCODE) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/LOLCODE/books.md) </li></ul>|<ul><li>[ ] [Add one!](/LOLCODE/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/LOLCODE/resources.md) </li></ul>|
-| [Ktor](/Ktor) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/Ktor/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Ktor/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Ktor/resources.md) </li></ul>|
-| [Go](/Go) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/Go/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Go/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Go/resources.md) </li></ul>|
-| [Clojure](/Clojure) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/Clojure/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Clojure/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Clojure/resources.md) </li></ul>|
-| [COBOL](/COBOL) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/COBOL/books.md) </li></ul>|<ul><li>[ ] [Add one!](/COBOL/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/COBOL/resources.md) </li></ul>|
-| [C](/C) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/C/books.md) </li></ul>|<ul><li>[ ] [Add one!](/C/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/C/resources.md) </li></ul>|
-| [Brainfuck](/Brainfuck) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/Brainfuck/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Brainfuck/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Brainfuck/resources.md) </li></ul>|
-| [Binary](/Binary) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/Binary/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Binary/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Binary/resources.md) </li></ul>|
-| [Befunge](/Befunge) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/Befunge/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Befunge/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Befunge/resources.md) </li></ul>|
-| [Batch](/Batch) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/Batch/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Batch/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Batch/resources.md) </li></ul>|
-| [Basic](/Basic) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/Basic/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Basic/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Basic/resources.md) </li></ul>|
-| [Bash](/Bash) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/Bash/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Bash/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Bash/resources.md) </li></ul>|
-| [B](/B) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/B/books.md) </li></ul>|<ul><li>[ ] [Add one!](/B/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/B/resources.md) </li></ul>|
-| [Awk](/Awk) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/Awk/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Awk/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Awk/resources.md) </li></ul>|
-| [Assembly](/Assembly) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/Assembly/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Assembly/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Assembly/resources.md) </li></ul>|
-| [Arduino](/Arduino) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/Arduino/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Arduino/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Arduino/resources.md) </li></ul>|
-| [AppleScript](/AppleScript) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/AppleScript/books.md) </li></ul>|<ul><li>[ ] [Add one!](/AppleScript/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/AppleScript/resources.md) </li></ul>|
-| [Algol](/Algol) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/Algol/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Algol/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Algol/resources.md) </li></ul>|
-| [Abdal-Autoit](/Abdal-Autoit) |<ul><li>[x] Done! </li></ul>|<ul><li>[ ] [Add one!](/Abdal-Autoit/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Abdal-Autoit/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Abdal-Autoit/resources.md) </li></ul>|
-| [Yacas](/Yacas) |<ul><li>[ ] [Edit it!](/Yacas/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Yacas/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Yacas/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Yacas/resources.md) </li></ul>|
-| [Vim-Script](/Vim-Script) |<ul><li>[ ] [Edit it!](/Vim-Script/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Vim-Script/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Vim-Script/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Vim-Script/resources.md) </li></ul>|
-| [Vala](/Vala) |<ul><li>[ ] [Edit it!](/Vala/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Vala/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Vala/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Vala/resources.md) </li></ul>|
-| [VB](/VB) |<ul><li>[ ] [Edit it!](/VB/README.md) </li></ul>|<ul><li>[ ] [Add one!](/VB/books.md) </li></ul>|<ul><li>[ ] [Add one!](/VB/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/VB/resources.md) </li></ul>|
-| [V](/V) |<ul><li>[ ] [Edit it!](/V/README.md) </li></ul>|<ul><li>[ ] [Add one!](/V/books.md) </li></ul>|<ul><li>[ ] [Add one!](/V/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/V/resources.md) </li></ul>|
-| [Typescript](/Typescript) |<ul><li>[ ] [Edit it!](/Typescript/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Typescript/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Typescript/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Typescript/resources.md) </li></ul>|
-| [Tcl](/Tcl) |<ul><li>[ ] [Edit it!](/Tcl/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Tcl/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Tcl/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Tcl/resources.md) </li></ul>|
-| [Swift](/Swift) |<ul><li>[ ] [Edit it!](/Swift/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Swift/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Swift/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Swift/resources.md) </li></ul>|
-| [Solidity](/Solidity) |<ul><li>[ ] [Edit it!](/Solidity/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Solidity/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Solidity/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Solidity/resources.md) </li></ul>|
-| [Scss](/Scss) |<ul><li>[ ] [Edit it!](/Scss/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Scss/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Scss/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Scss/resources.md) </li></ul>|
-| [Scratch](/Scratch) |<ul><li>[ ] [Edit it!](/Scratch/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Scratch/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Scratch/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Scratch/resources.md) </li></ul>|
-| [Scheme](/Scheme) |<ul><li>[ ] [Edit it!](/Scheme/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Scheme/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Scheme/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Scheme/resources.md) </li></ul>|
-| [Scala](/Scala) |<ul><li>[ ] [Edit it!](/Scala/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Scala/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Scala/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Scala/resources.md) </li></ul>|
-| [SQL](/SQL) |<ul><li>[ ] [Edit it!](/SQL/README.md) </li></ul>|<ul><li>[ ] [Add one!](/SQL/books.md) </li></ul>|<ul><li>[ ] [Add one!](/SQL/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/SQL/resources.md) </li></ul>|
-| [Rust](/Rust) |<ul><li>[ ] [Edit it!](/Rust/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Rust/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Rust/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Rust/resources.md) </li></ul>|
-| [Ruby](/Ruby) |<ul><li>[ ] [Edit it!](/Ruby/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Ruby/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Ruby/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Ruby/resources.md) </li></ul>|
-| [Red](/Red) |<ul><li>[ ] [Edit it!](/Red/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Red/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Red/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Red/resources.md) </li></ul>|
-| [R](/R) |<ul><li>[ ] [Edit it!](/R/README.md) </li></ul>|<ul><li>[ ] [Add one!](/R/books.md) </li></ul>|<ul><li>[ ] [Add one!](/R/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/R/resources.md) </li></ul>|
-| [Prolog](/Prolog) |<ul><li>[ ] [Edit it!](/Prolog/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Prolog/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Prolog/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Prolog/resources.md) </li></ul>|
-| [PowerShell](/PowerShell) |<ul><li>[ ] [Edit it!](/PowerShell/README.md) </li></ul>|<ul><li>[ ] [Add one!](/PowerShell/books.md) </li></ul>|<ul><li>[ ] [Add one!](/PowerShell/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/PowerShell/resources.md) </li></ul>|
-| [Plus](/Plus) |<ul><li>[ ] [Edit it!](/Plus/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Plus/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Plus/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Plus/resources.md) </li></ul>|
-| [Perl](/Perl) |<ul><li>[ ] [Edit it!](/Perl/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Perl/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Perl/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Perl/resources.md) </li></ul>|
-| [Pascal](/Pascal) |<ul><li>[ ] [Edit it!](/Pascal/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Pascal/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Pascal/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Pascal/resources.md) </li></ul>|
-| [Opa](/Opa) |<ul><li>[ ] [Edit it!](/Opa/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Opa/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Opa/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Opa/resources.md) </li></ul>|
-| [Octave](/Octave) |<ul><li>[ ] [Edit it!](/Octave/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Octave/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Octave/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Octave/resources.md) </li></ul>|
-| [OCaml](/OCaml) |<ul><li>[ ] [Edit it!](/OCaml/README.md) </li></ul>|<ul><li>[ ] [Add one!](/OCaml/books.md) </li></ul>|<ul><li>[ ] [Add one!](/OCaml/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/OCaml/resources.md) </li></ul>|
-| [OBJECTIVE-C](/OBJECTIVE-C) |<ul><li>[ ] [Edit it!](/OBJECTIVE-C/README.md) </li></ul>|<ul><li>[ ] [Add one!](/OBJECTIVE-C/books.md) </li></ul>|<ul><li>[ ] [Add one!](/OBJECTIVE-C/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/OBJECTIVE-C/resources.md) </li></ul>|
-| [Nim](/Nim) |<ul><li>[ ] [Edit it!](/Nim/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Nim/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Nim/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Nim/resources.md) </li></ul>|
-| [Neko-VM](/Neko-VM) |<ul><li>[ ] [Edit it!](/Neko-VM/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Neko-VM/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Neko-VM/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Neko-VM/resources.md) </li></ul>|
-| [Matlab](/Matlab) |<ul><li>[ ] [Edit it!](/Matlab/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Matlab/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Matlab/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Matlab/resources.md) </li></ul>|
-| [Makefile](/Makefile) |<ul><li>[ ] [Edit it!](/Makefile/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Makefile/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Makefile/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Makefile/resources.md) </li></ul>|
-| [MIPS](/MIPS) |<ul><li>[ ] [Edit it!](/MIPS/README.md) </li></ul>|<ul><li>[ ] [Add one!](/MIPS/books.md) </li></ul>|<ul><li>[ ] [Add one!](/MIPS/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/MIPS/resources.md) </li></ul>|
-| [Lua](/Lua) |<ul><li>[ ] [Edit it!](/Lua/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Lua/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Lua/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Lua/resources.md) </li></ul>|
-| [Lisp](/Lisp) |<ul><li>[ ] [Edit it!](/Lisp/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Lisp/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Lisp/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Lisp/resources.md) </li></ul>|
-| [Kotlin](/Kotlin) |<ul><li>[ ] [Edit it!](/Kotlin/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Kotlin/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Kotlin/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Kotlin/resources.md) </li></ul>|
-| [Jython](/Jython) |<ul><li>[ ] [Edit it!](/Jython/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Jython/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Jython/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Jython/resources.md) </li></ul>|
-| [Julia](/Julia) |<ul><li>[ ] [Edit it!](/Julia/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Julia/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Julia/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Julia/resources.md) </li></ul>|
-| [JavaScript](/JavaScript) |<ul><li>[ ] [Edit it!](/JavaScript/README.md) </li></ul>|<ul><li>[ ] [Add one!](/JavaScript/books.md) </li></ul>|<ul><li>[ ] [Add one!](/JavaScript/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/JavaScript/resources.md) </li></ul>|
-| [Java](/Java) |<ul><li>[ ] [Edit it!](/Java/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Java/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Java/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Java/resources.md) </li></ul>|
-| [Html](/Html) |<ul><li>[ ] [Edit it!](/Html/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Html/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Html/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Html/resources.md) </li></ul>|
-| [Haxe](/Haxe) |<ul><li>[ ] [Edit it!](/Haxe/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Haxe/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Haxe/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Haxe/resources.md) </li></ul>|
-| [Haskell](/Haskell) |<ul><li>[ ] [Edit it!](/Haskell/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Haskell/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Haskell/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Haskell/resources.md) </li></ul>|
-| [Hashemi](/Hashemi) |<ul><li>[ ] [Edit it!](/Hashemi/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Hashemi/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Hashemi/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Hashemi/resources.md) </li></ul>|
-| [Hack](/Hack) |<ul><li>[ ] [Edit it!](/Hack/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Hack/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Hack/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Hack/resources.md) </li></ul>|
-| [Groovy](/Groovy) |<ul><li>[ ] [Edit it!](/Groovy/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Groovy/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Groovy/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Groovy/resources.md) </li></ul>|
-| [Go-Gin](/Go-Gin) |<ul><li>[ ] [Edit it!](/Go-Gin/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Go-Gin/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Go-Gin/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Go-Gin/resources.md) </li></ul>|
-| [Fsharp](/Fsharp) |<ul><li>[ ] [Edit it!](/Fsharp/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Fsharp/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Fsharp/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Fsharp/resources.md) </li></ul>|
-| [Fortran](/Fortran) |<ul><li>[ ] [Edit it!](/Fortran/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Fortran/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Fortran/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Fortran/resources.md) </li></ul>|
-| [Flutter](/Flutter) |<ul><li>[ ] [Edit it!](/Flutter/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Flutter/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Flutter/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Flutter/resources.md) </li></ul>|
-| [Flask-python-framework](/Flask-python-framework) |<ul><li>[ ] [Edit it!](/Flask-python-framework/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Flask-python-framework/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Flask-python-framework/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Flask-python-framework/resources.md) </li></ul>|
-| [Erlang](/Erlang) |<ul><li>[ ] [Edit it!](/Erlang/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Erlang/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Erlang/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Erlang/resources.md) </li></ul>|
-| [Elm](/Elm) |<ul><li>[ ] [Edit it!](/Elm/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Elm/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Elm/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Elm/resources.md) </li></ul>|
-| [Elixir](/Elixir) |<ul><li>[ ] [Edit it!](/Elixir/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Elixir/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Elixir/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Elixir/resources.md) </li></ul>|
-| [Eiffel](/Eiffel) |<ul><li>[ ] [Edit it!](/Eiffel/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Eiffel/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Eiffel/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Eiffel/resources.md) </li></ul>|
-| [Docker](/Docker) |<ul><li>[ ] [Edit it!](/Docker/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Docker/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Docker/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Docker/resources.md) </li></ul>|
-| [Django](/Django) |<ul><li>[ ] [Edit it!](/Django/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Django/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Django/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Django/resources.md) </li></ul>|
-| [Dart](/Dart) |<ul><li>[ ] [Edit it!](/Dart/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Dart/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Dart/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Dart/resources.md) </li></ul>|
-| [D](/D) |<ul><li>[ ] [Edit it!](/D/README.md) </li></ul>|<ul><li>[ ] [Add one!](/D/books.md) </li></ul>|<ul><li>[ ] [Add one!](/D/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/D/resources.md) </li></ul>|
-| [Curl](/Curl) |<ul><li>[ ] [Edit it!](/Curl/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Curl/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Curl/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Curl/resources.md) </li></ul>|
-| [Css](/Css) |<ul><li>[ ] [Edit it!](/Css/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Css/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Css/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Css/resources.md) </li></ul>|
-| [Csharp](/Csharp) |<ul><li>[ ] [Edit it!](/Csharp/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Csharp/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Csharp/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Csharp/resources.md) </li></ul>|
-| [Cpp](/Cpp) |<ul><li>[ ] [Edit it!](/Cpp/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Cpp/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Cpp/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Cpp/resources.md) </li></ul>|
-| [Cow](/Cow) |<ul><li>[ ] [Edit it!](/Cow/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Cow/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Cow/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Cow/resources.md) </li></ul>|
-| [CoffeScript](/CoffeScript) |<ul><li>[ ] [Edit it!](/CoffeScript/README.md) </li></ul>|<ul><li>[ ] [Add one!](/CoffeScript/books.md) </li></ul>|<ul><li>[ ] [Add one!](/CoffeScript/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/CoffeScript/resources.md) </li></ul>|
-| [Cobra](/Cobra) |<ul><li>[ ] [Edit it!](/Cobra/README.md) </li></ul>|<ul><li>[ ] [Add one!](/Cobra/books.md) </li></ul>|<ul><li>[ ] [Add one!](/Cobra/courses.md) </li></ul>|<ul><li>[ ] [Add one!](/Cobra/resources.md) </li></ul>|
+| [Php](/Php) |Done! | Done! | [Add one!](/Php/courses.md) | [Add one!](/Php/resources.md) | 
+| [Zig-lang](/Zig-lang) |Done! | [Add one!](/Zig-lang/books.md) | [Add one!](/Zig-lang/courses.md) | [Add one!](/Zig-lang/resources.md) | 
+| [Whitespace](/Whitespace) |Done! | [Add one!](/Whitespace/books.md) | [Add one!](/Whitespace/courses.md) | [Add one!](/Whitespace/resources.md) | 
+| [Rockstar](/Rockstar) |Done! | [Add one!](/Rockstar/books.md) | [Add one!](/Rockstar/courses.md) | [Add one!](/Rockstar/resources.md) | 
+| [Python](/Python) |Done! | [Add one!](/Python/books.md) | [Add one!](/Python/courses.md) | [Add one!](/Python/resources.md) | 
+| [Piet](/Piet) |Done! | [Add one!](/Piet/books.md) | [Add one!](/Piet/courses.md) | [Add one!](/Piet/resources.md) | 
+| [Pashmak](/Pashmak) |Done! | [Add one!](/Pashmak/books.md) | [Add one!](/Pashmak/courses.md) | [Add one!](/Pashmak/resources.md) | 
+| [Mql5](/Mql5) |Done! | [Add one!](/Mql5/books.md) | [Add one!](/Mql5/courses.md) | [Add one!](/Mql5/resources.md) | 
+| [Mql4](/Mql4) |Done! | [Add one!](/Mql4/books.md) | [Add one!](/Mql4/courses.md) | [Add one!](/Mql4/resources.md) | 
+| [LOLCODE](/LOLCODE) |Done! | [Add one!](/LOLCODE/books.md) | [Add one!](/LOLCODE/courses.md) | [Add one!](/LOLCODE/resources.md) | 
+| [Ktor](/Ktor) |Done! | [Add one!](/Ktor/books.md) | [Add one!](/Ktor/courses.md) | [Add one!](/Ktor/resources.md) | 
+| [Go](/Go) |Done! | [Add one!](/Go/books.md) | [Add one!](/Go/courses.md) | [Add one!](/Go/resources.md) | 
+| [Clojure](/Clojure) |Done! | [Add one!](/Clojure/books.md) | [Add one!](/Clojure/courses.md) | [Add one!](/Clojure/resources.md) | 
+| [COBOL](/COBOL) |Done! | [Add one!](/COBOL/books.md) | [Add one!](/COBOL/courses.md) | [Add one!](/COBOL/resources.md) | 
+| [C](/C) |Done! | [Add one!](/C/books.md) | [Add one!](/C/courses.md) | [Add one!](/C/resources.md) | 
+| [Brainfuck](/Brainfuck) |Done! | [Add one!](/Brainfuck/books.md) | [Add one!](/Brainfuck/courses.md) | [Add one!](/Brainfuck/resources.md) | 
+| [Binary](/Binary) |Done! | [Add one!](/Binary/books.md) | [Add one!](/Binary/courses.md) | [Add one!](/Binary/resources.md) | 
+| [Befunge](/Befunge) |Done! | [Add one!](/Befunge/books.md) | [Add one!](/Befunge/courses.md) | [Add one!](/Befunge/resources.md) | 
+| [Batch](/Batch) |Done! | [Add one!](/Batch/books.md) | [Add one!](/Batch/courses.md) | [Add one!](/Batch/resources.md) | 
+| [Basic](/Basic) |Done! | [Add one!](/Basic/books.md) | [Add one!](/Basic/courses.md) | [Add one!](/Basic/resources.md) | 
+| [Bash](/Bash) |Done! | [Add one!](/Bash/books.md) | [Add one!](/Bash/courses.md) | [Add one!](/Bash/resources.md) | 
+| [B](/B) |Done! | [Add one!](/B/books.md) | [Add one!](/B/courses.md) | [Add one!](/B/resources.md) | 
+| [Awk](/Awk) |Done! | [Add one!](/Awk/books.md) | [Add one!](/Awk/courses.md) | [Add one!](/Awk/resources.md) | 
+| [Assembly](/Assembly) |Done! | [Add one!](/Assembly/books.md) | [Add one!](/Assembly/courses.md) | [Add one!](/Assembly/resources.md) | 
+| [Arduino](/Arduino) |Done! | [Add one!](/Arduino/books.md) | [Add one!](/Arduino/courses.md) | [Add one!](/Arduino/resources.md) | 
+| [AppleScript](/AppleScript) |Done! | [Add one!](/AppleScript/books.md) | [Add one!](/AppleScript/courses.md) | [Add one!](/AppleScript/resources.md) | 
+| [Algol](/Algol) |Done! | [Add one!](/Algol/books.md) | [Add one!](/Algol/courses.md) | [Add one!](/Algol/resources.md) | 
+| [Abdal-Autoit](/Abdal-Autoit) |Done! | [Add one!](/Abdal-Autoit/books.md) | [Add one!](/Abdal-Autoit/courses.md) | [Add one!](/Abdal-Autoit/resources.md) | 
+| [Yacas](/Yacas) |[Edit it!](/Yacas/README.md) | [Add one!](/Yacas/books.md) | [Add one!](/Yacas/courses.md) | [Add one!](/Yacas/resources.md) | 
+| [Vim-Script](/Vim-Script) |[Edit it!](/Vim-Script/README.md) | [Add one!](/Vim-Script/books.md) | [Add one!](/Vim-Script/courses.md) | [Add one!](/Vim-Script/resources.md) | 
+| [Vala](/Vala) |[Edit it!](/Vala/README.md) | [Add one!](/Vala/books.md) | [Add one!](/Vala/courses.md) | [Add one!](/Vala/resources.md) | 
+| [VB](/VB) |[Edit it!](/VB/README.md) | [Add one!](/VB/books.md) | [Add one!](/VB/courses.md) | [Add one!](/VB/resources.md) | 
+| [V](/V) |[Edit it!](/V/README.md) | [Add one!](/V/books.md) | [Add one!](/V/courses.md) | [Add one!](/V/resources.md) | 
+| [Typescript](/Typescript) |[Edit it!](/Typescript/README.md) | [Add one!](/Typescript/books.md) | [Add one!](/Typescript/courses.md) | [Add one!](/Typescript/resources.md) | 
+| [Tcl](/Tcl) |[Edit it!](/Tcl/README.md) | [Add one!](/Tcl/books.md) | [Add one!](/Tcl/courses.md) | [Add one!](/Tcl/resources.md) | 
+| [Swift](/Swift) |[Edit it!](/Swift/README.md) | [Add one!](/Swift/books.md) | [Add one!](/Swift/courses.md) | [Add one!](/Swift/resources.md) | 
+| [Solidity](/Solidity) |[Edit it!](/Solidity/README.md) | [Add one!](/Solidity/books.md) | [Add one!](/Solidity/courses.md) | [Add one!](/Solidity/resources.md) | 
+| [Scss](/Scss) |[Edit it!](/Scss/README.md) | [Add one!](/Scss/books.md) | [Add one!](/Scss/courses.md) | [Add one!](/Scss/resources.md) | 
+| [Scratch](/Scratch) |[Edit it!](/Scratch/README.md) | [Add one!](/Scratch/books.md) | [Add one!](/Scratch/courses.md) | [Add one!](/Scratch/resources.md) | 
+| [Scheme](/Scheme) |[Edit it!](/Scheme/README.md) | [Add one!](/Scheme/books.md) | [Add one!](/Scheme/courses.md) | [Add one!](/Scheme/resources.md) | 
+| [Scala](/Scala) |[Edit it!](/Scala/README.md) | [Add one!](/Scala/books.md) | [Add one!](/Scala/courses.md) | [Add one!](/Scala/resources.md) | 
+| [SQL](/SQL) |[Edit it!](/SQL/README.md) | [Add one!](/SQL/books.md) | [Add one!](/SQL/courses.md) | [Add one!](/SQL/resources.md) | 
+| [Rust](/Rust) |[Edit it!](/Rust/README.md) | [Add one!](/Rust/books.md) | [Add one!](/Rust/courses.md) | [Add one!](/Rust/resources.md) | 
+| [Ruby](/Ruby) |[Edit it!](/Ruby/README.md) | [Add one!](/Ruby/books.md) | [Add one!](/Ruby/courses.md) | [Add one!](/Ruby/resources.md) | 
+| [Red](/Red) |[Edit it!](/Red/README.md) | [Add one!](/Red/books.md) | [Add one!](/Red/courses.md) | [Add one!](/Red/resources.md) | 
+| [R](/R) |[Edit it!](/R/README.md) | [Add one!](/R/books.md) | [Add one!](/R/courses.md) | [Add one!](/R/resources.md) | 
+| [Prolog](/Prolog) |[Edit it!](/Prolog/README.md) | [Add one!](/Prolog/books.md) | [Add one!](/Prolog/courses.md) | [Add one!](/Prolog/resources.md) | 
+| [PowerShell](/PowerShell) |[Edit it!](/PowerShell/README.md) | [Add one!](/PowerShell/books.md) | [Add one!](/PowerShell/courses.md) | [Add one!](/PowerShell/resources.md) | 
+| [Plus](/Plus) |[Edit it!](/Plus/README.md) | [Add one!](/Plus/books.md) | [Add one!](/Plus/courses.md) | [Add one!](/Plus/resources.md) | 
+| [Perl](/Perl) |[Edit it!](/Perl/README.md) | [Add one!](/Perl/books.md) | [Add one!](/Perl/courses.md) | [Add one!](/Perl/resources.md) | 
+| [Pascal](/Pascal) |[Edit it!](/Pascal/README.md) | [Add one!](/Pascal/books.md) | [Add one!](/Pascal/courses.md) | [Add one!](/Pascal/resources.md) | 
+| [Opa](/Opa) |[Edit it!](/Opa/README.md) | [Add one!](/Opa/books.md) | [Add one!](/Opa/courses.md) | [Add one!](/Opa/resources.md) | 
+| [Octave](/Octave) |[Edit it!](/Octave/README.md) | [Add one!](/Octave/books.md) | [Add one!](/Octave/courses.md) | [Add one!](/Octave/resources.md) | 
+| [OCaml](/OCaml) |[Edit it!](/OCaml/README.md) | [Add one!](/OCaml/books.md) | [Add one!](/OCaml/courses.md) | [Add one!](/OCaml/resources.md) | 
+| [OBJECTIVE-C](/OBJECTIVE-C) |[Edit it!](/OBJECTIVE-C/README.md) | [Add one!](/OBJECTIVE-C/books.md) | [Add one!](/OBJECTIVE-C/courses.md) | [Add one!](/OBJECTIVE-C/resources.md) | 
+| [Nim](/Nim) |[Edit it!](/Nim/README.md) | [Add one!](/Nim/books.md) | [Add one!](/Nim/courses.md) | [Add one!](/Nim/resources.md) | 
+| [Neko-VM](/Neko-VM) |[Edit it!](/Neko-VM/README.md) | [Add one!](/Neko-VM/books.md) | [Add one!](/Neko-VM/courses.md) | [Add one!](/Neko-VM/resources.md) | 
+| [Matlab](/Matlab) |[Edit it!](/Matlab/README.md) | [Add one!](/Matlab/books.md) | [Add one!](/Matlab/courses.md) | [Add one!](/Matlab/resources.md) | 
+| [Makefile](/Makefile) |[Edit it!](/Makefile/README.md) | [Add one!](/Makefile/books.md) | [Add one!](/Makefile/courses.md) | [Add one!](/Makefile/resources.md) | 
+| [MIPS](/MIPS) |[Edit it!](/MIPS/README.md) | [Add one!](/MIPS/books.md) | [Add one!](/MIPS/courses.md) | [Add one!](/MIPS/resources.md) | 
+| [Lua](/Lua) |[Edit it!](/Lua/README.md) | [Add one!](/Lua/books.md) | [Add one!](/Lua/courses.md) | [Add one!](/Lua/resources.md) | 
+| [Lisp](/Lisp) |[Edit it!](/Lisp/README.md) | [Add one!](/Lisp/books.md) | [Add one!](/Lisp/courses.md) | [Add one!](/Lisp/resources.md) | 
+| [Kotlin](/Kotlin) |[Edit it!](/Kotlin/README.md) | [Add one!](/Kotlin/books.md) | [Add one!](/Kotlin/courses.md) | [Add one!](/Kotlin/resources.md) | 
+| [Jython](/Jython) |[Edit it!](/Jython/README.md) | [Add one!](/Jython/books.md) | [Add one!](/Jython/courses.md) | [Add one!](/Jython/resources.md) | 
+| [Julia](/Julia) |[Edit it!](/Julia/README.md) | [Add one!](/Julia/books.md) | [Add one!](/Julia/courses.md) | [Add one!](/Julia/resources.md) | 
+| [JavaScript](/JavaScript) |[Edit it!](/JavaScript/README.md) | [Add one!](/JavaScript/books.md) | [Add one!](/JavaScript/courses.md) | [Add one!](/JavaScript/resources.md) | 
+| [Java](/Java) |[Edit it!](/Java/README.md) | [Add one!](/Java/books.md) | [Add one!](/Java/courses.md) | [Add one!](/Java/resources.md) | 
+| [Html](/Html) |[Edit it!](/Html/README.md) | [Add one!](/Html/books.md) | [Add one!](/Html/courses.md) | [Add one!](/Html/resources.md) | 
+| [Haxe](/Haxe) |[Edit it!](/Haxe/README.md) | [Add one!](/Haxe/books.md) | [Add one!](/Haxe/courses.md) | [Add one!](/Haxe/resources.md) | 
+| [Haskell](/Haskell) |[Edit it!](/Haskell/README.md) | [Add one!](/Haskell/books.md) | [Add one!](/Haskell/courses.md) | [Add one!](/Haskell/resources.md) | 
+| [Hashemi](/Hashemi) |[Edit it!](/Hashemi/README.md) | [Add one!](/Hashemi/books.md) | [Add one!](/Hashemi/courses.md) | [Add one!](/Hashemi/resources.md) | 
+| [Hack](/Hack) |[Edit it!](/Hack/README.md) | [Add one!](/Hack/books.md) | [Add one!](/Hack/courses.md) | [Add one!](/Hack/resources.md) | 
+| [Groovy](/Groovy) |[Edit it!](/Groovy/README.md) | [Add one!](/Groovy/books.md) | [Add one!](/Groovy/courses.md) | [Add one!](/Groovy/resources.md) | 
+| [Go-Gin](/Go-Gin) |[Edit it!](/Go-Gin/README.md) | [Add one!](/Go-Gin/books.md) | [Add one!](/Go-Gin/courses.md) | [Add one!](/Go-Gin/resources.md) | 
+| [Fsharp](/Fsharp) |[Edit it!](/Fsharp/README.md) | [Add one!](/Fsharp/books.md) | [Add one!](/Fsharp/courses.md) | [Add one!](/Fsharp/resources.md) | 
+| [Fortran](/Fortran) |[Edit it!](/Fortran/README.md) | [Add one!](/Fortran/books.md) | [Add one!](/Fortran/courses.md) | [Add one!](/Fortran/resources.md) | 
+| [Flutter](/Flutter) |[Edit it!](/Flutter/README.md) | [Add one!](/Flutter/books.md) | [Add one!](/Flutter/courses.md) | [Add one!](/Flutter/resources.md) | 
+| [Flask-python-framework](/Flask-python-framework) |[Edit it!](/Flask-python-framework/README.md) | [Add one!](/Flask-python-framework/books.md) | [Add one!](/Flask-python-framework/courses.md) | [Add one!](/Flask-python-framework/resources.md) | 
+| [Erlang](/Erlang) |[Edit it!](/Erlang/README.md) | [Add one!](/Erlang/books.md) | [Add one!](/Erlang/courses.md) | [Add one!](/Erlang/resources.md) | 
+| [Elm](/Elm) |[Edit it!](/Elm/README.md) | [Add one!](/Elm/books.md) | [Add one!](/Elm/courses.md) | [Add one!](/Elm/resources.md) | 
+| [Elixir](/Elixir) |[Edit it!](/Elixir/README.md) | [Add one!](/Elixir/books.md) | [Add one!](/Elixir/courses.md) | [Add one!](/Elixir/resources.md) | 
+| [Eiffel](/Eiffel) |[Edit it!](/Eiffel/README.md) | [Add one!](/Eiffel/books.md) | [Add one!](/Eiffel/courses.md) | [Add one!](/Eiffel/resources.md) | 
+| [Docker](/Docker) |[Edit it!](/Docker/README.md) | [Add one!](/Docker/books.md) | [Add one!](/Docker/courses.md) | [Add one!](/Docker/resources.md) | 
+| [Django](/Django) |[Edit it!](/Django/README.md) | [Add one!](/Django/books.md) | [Add one!](/Django/courses.md) | [Add one!](/Django/resources.md) | 
+| [Dart](/Dart) |[Edit it!](/Dart/README.md) | [Add one!](/Dart/books.md) | [Add one!](/Dart/courses.md) | [Add one!](/Dart/resources.md) | 
+| [D](/D) |[Edit it!](/D/README.md) | [Add one!](/D/books.md) | [Add one!](/D/courses.md) | [Add one!](/D/resources.md) | 
+| [Curl](/Curl) |[Edit it!](/Curl/README.md) | [Add one!](/Curl/books.md) | [Add one!](/Curl/courses.md) | [Add one!](/Curl/resources.md) | 
+| [Css](/Css) |[Edit it!](/Css/README.md) | [Add one!](/Css/books.md) | [Add one!](/Css/courses.md) | [Add one!](/Css/resources.md) | 
+| [Csharp](/Csharp) |[Edit it!](/Csharp/README.md) | [Add one!](/Csharp/books.md) | [Add one!](/Csharp/courses.md) | [Add one!](/Csharp/resources.md) | 
+| [Cpp](/Cpp) |[Edit it!](/Cpp/README.md) | [Add one!](/Cpp/books.md) | [Add one!](/Cpp/courses.md) | [Add one!](/Cpp/resources.md) | 
+| [Cow](/Cow) |[Edit it!](/Cow/README.md) | [Add one!](/Cow/books.md) | [Add one!](/Cow/courses.md) | [Add one!](/Cow/resources.md) | 
+| [CoffeScript](/CoffeScript) |[Edit it!](/CoffeScript/README.md) | [Add one!](/CoffeScript/books.md) | [Add one!](/CoffeScript/courses.md) | [Add one!](/CoffeScript/resources.md) | 
+| [Cobra](/Cobra) |[Edit it!](/Cobra/README.md) | [Add one!](/Cobra/books.md) | [Add one!](/Cobra/courses.md) | [Add one!](/Cobra/resources.md) | 

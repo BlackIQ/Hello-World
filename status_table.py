@@ -74,10 +74,10 @@ def main(project_dir=None):
     # generate output from loaded list
     for item in real_list:
         output += "| [" + item['name'] + "](/" + item['name'] + ") |"
-        output += '<ul><li>' + ('[x] Done!' if item['readme'] else '[ ] [Edit it!](/' + item['name'] + '/README.md)') + ' </li></ul>|'
-        output += '<ul><li>' + ('[x] Done!' if item['books'] else '[ ] [Add one!](/' + item['name'] + '/books.md)') + ' </li></ul>|'
-        output += '<ul><li>' + ('[x] Done!' if item['courses'] else '[ ] [Add one!](/' + item['name'] + '/courses.md)') + ' </li></ul>|'
-        output += '<ul><li>' + ('[x] Done!' if item['resources'] else '[ ] [Add one!](/' + item['name'] + '/resources.md)') + ' </li></ul>|'
+        output += ('Done!' if item['readme'] else '[Edit it!](/' + item['name'] + '/README.md)') + ' | '
+        output += ('Done!' if item['books'] else '[Add one!](/' + item['name'] + '/books.md)') + ' | '
+        output += ('Done!' if item['courses'] else '[Add one!](/' + item['name'] + '/courses.md)') + ' | '
+        output += ('Done!' if item['resources'] else '[Add one!](/' + item['name'] + '/resources.md)') + ' | '
         output += '\n'
 
     # write generated table
