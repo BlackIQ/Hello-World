@@ -68,7 +68,7 @@ def main(project_dir=None):
     new_list = []
     for k in keys:
         new_list.append(tmp_list[k])
-    real_list = new_list
+    real_list = list(reversed(new_list))
 
     # generate output from loaded list
     for item in real_list:
