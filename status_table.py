@@ -85,7 +85,7 @@ def main(project_dir=None):
     todo = open(project_dir + '/TODO.md', 'r')
     current_todo = todo.read()
     todo.close()
-    current_todo = current_todo.strip().split(spliter, 1)[0].strip()
+    current_todo = '\n' + current_todo.split(spliter, 1)[0].strip()
     new_todo = current_todo + '\n\n---\n' + output
     todo = open(project_dir + '/TODO.md', 'w')
     todo.write(new_todo)
