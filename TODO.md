@@ -1,7 +1,6 @@
 # TODO
 
-- [ ] Complate `README.md` of languages
-- [ ] Add minimum 2 courses, books and resources for all languages
+> Nothing todo for now, see the table below.
 
 ---
 
