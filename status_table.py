@@ -73,7 +73,7 @@ def main(project_dir=None):
 
     # generate output from loaded list
     for item in real_list:
-        output += "| [ 🌐" + item['name'] + "](/" + item['name'] + ") |"
+        output += "| [🌐" + item['name'] + "](/" + item['name'] + ") |"
         output += ('✅Done!' if item['readme'] else '[ℹ️Edit it!](/' + item['name'] + '/README.md)') + ' | '
         output += ('✅Done!' if item['books'] else '[ℹ️Add one!](/' + item['name'] + '/books.md)') + ' | '
         output += ('✅Done!' if item['courses'] else '[ℹ️Add one!](/' + item['name'] + '/courses.md)') + ' | '
