@@ -14,7 +14,7 @@ import re
 output = """
 ## List of people who contribute on this repository
 
-| Name | Added languegse |
+| Name | Added languages |
 |------|-----------------|
 """
 

@@ -1,7 +1,7 @@
 
 ## List of people who contribute on this repository
 
-| Name | Added languegse |
+| Name | Added languages |
 |------|-----------------|
 | [shahriaarrr🏅](https://github.com/shahriaarrr)|7|
 | [Faran Taghavi](https://github.com/F4R4N)|5|
