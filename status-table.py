@@ -33,10 +33,10 @@ for item in items:
 
 
         output += "|"+item+"|"
-        output += '[' + ('x' if readme_completed else ' ') + ']|'
-        output += '[' + ('x' if books_completed else ' ') + ']|'
-        output += '[' + ('x' if courses_completed else ' ') + ']|'
-        output += '[' + ('x' if resources_completed else ' ') + ']'
+        output += '<ul><li>[' + ('x' if readme_completed else ' ') + ']</ul></li>|'
+        output += '<ul><li>[' + ('x' if books_completed else ' ') + ']</ul></li>|'
+        output += '<ul><li>[' + ('x' if courses_completed else ' ') + ']</ul></li>|'
+        output += '<ul><li>[' + ('x' if resources_completed else ' ') + ']</ul></li>|'
 
         output += '\n'
 
