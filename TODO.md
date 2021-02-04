@@ -5,7 +5,6 @@
 
 ---
 
-
 ## Current status of languages
 
 | Language | Readme Completed | Books (minimal 2 items) | Courses (minimal 2 items) | Resources (minimal 2 items) |

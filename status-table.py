@@ -56,12 +56,12 @@ def main(project_dir=None):
             output += '\n'
 
     # write generated table
-    spliter = '---'
+    spliter = '\n---\n'
     todo = open(project_dir + '/TODO.md', 'r')
     current_todo = todo.read()
     todo.close()
     current_todo = current_todo.strip().split(spliter, 1)[0].strip()
-    new_todo = current_todo + '\n\n---\n\n' + output
+    new_todo = current_todo + '\n\n---\n' + output
     todo = open(project_dir + '/TODO.md', 'w')
     todo.write(new_todo)
     todo.close()
