@@ -44,9 +44,22 @@ def main(project_dir = None):
             except:
                 print(item + ": file not found or info.js has not valid syntax")
 
+    # sort the loaded list
+    counts = [contributors[c]['count'] for c in contributors]
+    counts.sort()
+    new_list = []
+    added_items = []
+    while len(counts) > 0:
+        for k in contributors:
+            if contributors[k]['count'] >= counts[-1]:
+                if k not in added_items:
+                    new_list.append(contributors[k])
+                    added_items.append(k)
+        counts.remove(counts[-1])
+    contributors = new_list
+
     # generate table of loaded contributors
-    for k in contributors:
-        contributor = contributors[k]
+    for contributor in contributors:
         badge = "🏅" if contributor['count'] > 5 else ""
         output += "| [" + contributor['title'] + badge + "](" + contributor['link'] + ')|'  + str(contributor['count']) +"|"
         output += '\n'
