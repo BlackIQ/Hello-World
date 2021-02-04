@@ -58,6 +58,18 @@ def main(project_dir=None):
                 'name': item,
             })
 
+    # sort the loaded list
+    tmp_list = {}
+    for item in real_list:
+        done_count = item['readme'] + item['books'] + item['courses'] + item['resources']
+        tmp_list[str(done_count) + '-' + item['name']] = item
+    keys = list(tmp_list.keys())
+    keys.sort()
+    new_list = []
+    for k in keys:
+        new_list.append(tmp_list[k])
+    real_list = new_list
+
     # generate output from loaded list
     for item in real_list:
         output += "| [" + item['name'] + "](/" + item['name'] + ") |"
