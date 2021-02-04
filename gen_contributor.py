@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """
 This script create a table from people who contribute and added Hello World language
 for this repository. Which the first column is the name and the second one is how many language

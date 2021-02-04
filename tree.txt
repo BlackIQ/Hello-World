@@ -785,7 +785,7 @@
 │   ├── info.json
 │   └── resources.md
 ├── auto-gen.py
-├── contributor.py
+├── gen_contributor.py
 ├── status_table.py
 └── tree.txt
 
