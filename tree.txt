@@ -119,6 +119,7 @@
 │   │   └── main.cbl
 │   ├── info.json
 │   └── resources.md
+├── CONTRIBUTERS.md
 ├── CONTRIBUTING.md
 ├── CONTRIBUTOR.md
 ├── Clojure
@@ -784,8 +785,8 @@
 │   ├── info.json
 │   └── resources.md
 ├── auto-gen.py
-├── contributers.py
+├── contributor.py
 ├── status_table.py
 └── tree.txt
 
-191 directories, 597 files
+191 directories, 598 files
