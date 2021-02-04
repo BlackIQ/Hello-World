@@ -8,7 +8,7 @@ We can see that in this table with languages READNE, books, resources and course
 import os
 
 output = """
-| Language | Readme | Books | Courses | Resources |
+| Language | Readme | Books (minimal 2 items) | Courses (minimal 2 items) | Resources (minimal 2 items) |
 |----------|--------|-------|---------|-----------|
 """
 
