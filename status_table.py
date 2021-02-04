@@ -62,7 +62,8 @@ def main(project_dir=None):
     tmp_list = {}
     for item in real_list:
         done_count = item['readme'] + item['books'] + item['courses'] + item['resources']
-        tmp_list[str(done_count) + '-' + item['name']] = item
+        if done_count < 4:
+            tmp_list[str(done_count) + '-' + item['name']] = item
     keys = list(tmp_list.keys())
     keys.sort()
     new_list = []
