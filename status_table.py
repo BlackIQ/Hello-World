@@ -25,7 +25,7 @@ def main(project_dir=None):
     items.sort()
 
     for item in items:
-        if item[0] != '.' and os.path.isdir(project_dir + '/' + item):
+        if item[0] not in ['.', '_'] and os.path.isdir(project_dir + '/' + item):
             # check which items completed
 
             readme = open(project_dir + '/' + item + '/README.md', 'r')

@@ -9,6 +9,7 @@ from json import loads as json_loads
 from json.decoder import JSONDecodeError
 from pathlib import Path
 from itertools import islice
+from status_table import main as generate_status_table
 
 space =  '    '
 branch = '│   '
@@ -24,10 +25,9 @@ langs = []
 """ Found languages """
 
 for item in items:
-    if os.path.isdir(item) and item[0] != '.':
+    if os.path.isdir(item) and item[0] not in ['.', '_']:
         langs.append(item)
 langs.sort()
-
 
 letters = {}
 
@@ -157,7 +157,7 @@ def tree(dir_path: Path, level: int=-1, limit_to_directories: bool=False,
             contents = list(dir_path.iterdir())
         # remove that items starts with `.`
         contents = [item for item in contents\
-            if not str(item).replace('\\', '/').split('/')[-1].startswith('.')]
+            if not str(item).replace('\\', '/').split('/')[-1][0] in ['.', '_']]
         contents.sort()
         pointers = [tee] * (len(contents) - 1) + [last]
         for pointer, path in zip(pointers, contents):
@@ -185,6 +185,8 @@ def tree(dir_path: Path, level: int=-1, limit_to_directories: bool=False,
 tree(project_dir)
 
 print('Done!')
+
+generate_status_table(project_dir)
 
 if exit_code != 0:
     print("Warning: some of info.json files are not valid. Process will be exited with 1 exit code")
