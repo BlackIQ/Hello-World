@@ -19,3 +19,23 @@ output = """
 def main(project_dir = None):
     if project_dir == None:
         project_dir = os.path.dirname(os.path.abspath(__file__))
+
+    # loading list of languages
+    global output
+    items = os.listdir(project_dir)
+    items.sort()
+
+    contributers = []
+    
+    for item in items:
+        if item[0] not in ['.','_'] and os.path.isdir(project_dir + '/' + item):
+            try:
+                with open(project_dir + '/' + item + '/info.json') as json_file:
+                    contributer = json.load(json_file)
+                    
+                    
+            except:
+                # file not founded or info.js has't valid data
+    
+if __name__ == '__main__':
+    main()
