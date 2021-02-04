@@ -10,7 +10,7 @@ from json.decoder import JSONDecodeError
 from pathlib import Path
 from itertools import islice
 from status_table import main as generate_status_table
-from contributers import main as generate_contributers_table
+from contributor import main as generate_contributers_table
 
 space =  '    '
 branch = '│   '
