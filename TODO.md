@@ -7,7 +7,7 @@
 
 | Language | Readme | Books (at least 2 items) | Courses (at least 2 items) | Resources (at least 2 items) |
 |----------|--------|--------------------------|----------------------------|------------------------------|
-| [🌐 Php](/Php) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Php/courses.md) | [ℹ️ Add one!](/Php/resources.md) | 
+| [🌐 Php](/Php) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Php/courses.md) | ✅ Done! | 
 | [🌐 Zig-lang](/Zig-lang) |✅ Done! | [ℹ️ Add one!](/Zig-lang/books.md) | [ℹ️ Add one!](/Zig-lang/courses.md) | [ℹ️ Add one!](/Zig-lang/resources.md) | 
 | [🌐 Whitespace](/Whitespace) |✅ Done! | [ℹ️ Add one!](/Whitespace/books.md) | [ℹ️ Add one!](/Whitespace/courses.md) | [ℹ️ Add one!](/Whitespace/resources.md) | 
 | [🌐 Rockstar](/Rockstar) |✅ Done! | [ℹ️ Add one!](/Rockstar/books.md) | [ℹ️ Add one!](/Rockstar/courses.md) | [ℹ️ Add one!](/Rockstar/resources.md) | 
