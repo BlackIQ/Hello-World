@@ -34,7 +34,7 @@ write name and a link about who added that language to the list in the `README.m
 
 ```json
 {
-	"creator": {
+	"creators": {
 		"title": "Your name",
 		"link": "https://github.com/your-github-username"
 	}

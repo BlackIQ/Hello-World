@@ -128,11 +128,11 @@ def generate_contributors_table(project_dir = None):
                     contributor = json_load(json_file)
 
                     try:
-                        contributors[contributor['creator']['link']]
+                        contributors[contributor['creators']['link']]
                     except KeyError:
-                        contributors[contributor['creator']['link']] = contributor['creator']
-                        contributors[contributor['creator']['link']]['count'] = 0
-                    contributors[contributor['creator']['link']]['count'] += 1
+                        contributors[contributor['creators']['link']] = contributor['creators']
+                        contributors[contributor['creators']['link']]['count'] = 0
+                    contributors[contributor['creators']['link']]['count'] += 1
             except:
                 print(item + ": file not found or info.js has not valid syntax")
 
@@ -262,9 +262,9 @@ for letter in letters:
                 f.close()
                 content = json_loads(content)
                 try:
-                    creator_title = content['creator']['title']
+                    creator_title = content['creators']['title']
                     try:
-                        creator_link = content['creator']['link']
+                        creator_link = content['creators']['link']
                     except KeyError:
                         pass
                 except KeyError:
