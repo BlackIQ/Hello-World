@@ -1,6 +1,12 @@
 {
-    "creators": {
-        "title": "Amirhossein Mohammadi",
-        "link": "https://github.com/BlackIQ"
-    }
+    "creators": [
+	{
+            "title": "Morteza Heydari",
+            "link": "https://github.com/MortezaHeydari97"
+	},
+        {
+            "title": "Amirhossein Mohammadi",
+            "link": "https://github.com/BlackIQ"
+	}
+    ]
 }
