@@ -6,9 +6,171 @@ import os.path
 from os import listdir, rename, mkdir
 from sys import exit as sys_exit
 from json import loads as json_loads
+from json import load as json_load
 from json.decoder import JSONDecodeError
 from pathlib import Path
 from itertools import islice
+
+"""
+This script generates a table from languages and progress status of them.
+We can see that in this table with languages READNE, books, resources and courses list are completed.
+And writes generated table to the todo.md file
+"""
+def generate_status_table(project_dir=None):
+    if project_dir == None:
+        project_dir = os.path.dirname(os.path.abspath(__file__))
+
+    # load list of languages
+    output = """
+## Current status of added languages
+
+| Language | Readme | Books (at least 2 items) | Courses (at least 2 items) | Resources (at least 2 items) |
+|----------|--------|--------------------------|----------------------------|------------------------------|
+"""
+    items = os.listdir(project_dir)
+    items.sort()
+
+    real_list = []
+
+    for item in items:
+        if item[0] not in ['.', '_'] and os.path.isdir(project_dir + '/' + item):
+            # check which items completed
+
+            readme = open(project_dir + '/' + item + '/README.md', 'r')
+            readme_completed = '\n' in readme.read().strip()
+            readme.close()
+
+            books = open(project_dir + '/' + item + '/books.md', 'r')
+            books_completed = books.read().strip().split('\n')
+            books_completed = len([line for line in books_completed if line.strip().startswith('- [')]) >= 2
+            books.close()
+
+            courses = open(project_dir + '/' + item + '/courses.md', 'r')
+            courses_completed = courses.read().strip().split('\n')
+            courses_completed = len([line for line in courses_completed if line.strip().startswith('- [')]) >= 2
+            courses.close()
+
+            resources = open(project_dir + '/' + item + '/resources.md', 'r')
+            resources_completed = resources.read().strip().split('\n')
+            resources_completed = len([line for line in resources_completed if line.strip().startswith('- [')]) >= 2
+            resources.close()
+
+            # add item to the list
+            real_list.append({
+                'readme': readme_completed,
+                'books': books_completed,
+                'courses': courses_completed,
+                'resources': resources_completed,
+                'name': item,
+            })
+
+    # sort the loaded list
+    tmp_list = {}
+    for item in real_list:
+        done_count = item['readme'] + item['books'] + item['courses'] + item['resources']
+        if done_count < 4:
+            tmp_list[str(done_count) + '-' + item['name']] = item
+    keys = list(tmp_list.keys())
+    keys.sort()
+    new_list = []
+    for k in keys:
+        new_list.append(tmp_list[k])
+    real_list = list(reversed(new_list))
+
+    # generate output from loaded list
+    for item in real_list:
+        output += "| [🌐 " + item['name'] + "](/" + item['name'] + ") |"
+        output += ('✅ Done!' if item['readme'] else '[ℹ️ Edit it!](/' + item['name'] + '/README.md)') + ' | '
+        output += ('✅ Done!' if item['books'] else '[ℹ️ Add one!](/' + item['name'] + '/books.md)') + ' | '
+        output += ('✅ Done!' if item['courses'] else '[ℹ️ Add one!](/' + item['name'] + '/courses.md)') + ' | '
+        output += ('✅ Done!' if item['resources'] else '[ℹ️ Add one!](/' + item['name'] + '/resources.md)') + ' | '
+        output += '\n'
+
+    # write generated table
+    spliter = '\n---\n'
+    todo = open(project_dir + '/TODO.md', 'r')
+    current_todo = todo.read()
+    todo.close()
+    current_todo = '\n' + current_todo.split(spliter, 1)[0].strip()
+    new_todo = current_todo + '\n\n---\n' + output
+    todo = open(project_dir + '/TODO.md', 'w')
+    todo.write(new_todo)
+    todo.close()
+
+    print('TODO generated!')
+
+"""
+This script create a table from people who contribute and added Hello World language
+for this repository. Which the first column is the name and the second one is how many language
+contributor added to this repo and also if a contributor added more than 5 language
+contributor will receive a badge after his name
+"""
+def generate_contributors_table(project_dir = None):
+    if project_dir == None:
+        project_dir = os.path.dirname(os.path.abspath(__file__))
+
+    # loading list of languages
+    output = """
+## List of people who contribute on this repository
+
+| Name | Added languages |
+|------|-----------------|
+"""
+    items = os.listdir(project_dir)
+    items.sort()
+
+    contributors = {}
+    
+    for item in items:
+        if item[0] not in ['.','_'] and os.path.isdir(project_dir + '/' + item):
+            try:
+                with open(project_dir + '/' + item + '/info.json') as json_file:
+                    contributor = json_load(json_file)
+
+                    creators = []
+
+                    try:
+                        creators = contributor['creators']
+                        if type(creators) == dict:
+                            creators = [creators]
+                    except KeyError:
+                        creators = []
+
+                    for creator in creators:
+                        try:
+                            contributors[creator['link']]
+                        except KeyError:
+                            contributors[creator['link']] = creator
+                            contributors[creator['link']]['count'] = 0
+                        contributors[creator['link']]['count'] += 1
+            except:
+                print(item + ": file not found or info.js has not valid syntax")
+
+    # sort the loaded list
+    counts = [contributors[c]['count'] for c in contributors]
+    counts.sort()
+    new_list = []
+    added_items = []
+    while len(counts) > 0:
+        for k in contributors:
+            if contributors[k]['count'] >= counts[-1]:
+                if k not in added_items:
+                    new_list.append(contributors[k])
+                    added_items.append(k)
+        counts.remove(counts[-1])
+    contributors = new_list
+
+    # generate table of loaded contributors
+    for contributor in contributors:
+        badge = "🏅" if contributor['count'] > 5 else ""
+        output += "| [" + contributor['title'] + badge + "](" + contributor['link'] + ')|'  + str(contributor['count']) +"|"
+        output += '\n'
+
+    ct = open(project_dir + "/CONTRIBUTORS_LIST.md", 'w')
+    ct.write(output)
+    ct.close()
+
+    print('Contributors table generated!')
 
 space =  '    '
 branch = '│   '
@@ -24,10 +186,9 @@ langs = []
 """ Found languages """
 
 for item in items:
-    if os.path.isdir(item) and item[0] != '.':
+    if os.path.isdir(item) and item[0] not in ['.', '_']:
         langs.append(item)
 langs.sort()
-
 
 letters = {}
 
@@ -60,7 +221,12 @@ If you want to contribute to this project, read [Contributing Guide](CONTRIBUTIN
 
 Total Languages in This Repository: {count}.
 
+Special Thanks from [Parsa](https://github.com/parsampsh) & [Amirhossein](https://github.com/amireshoon)
+
 '''
+
+for letter in letters:
+    readme_content += '[' + letter + '](#' + letter + ') '
 
 user_img_size = 25
 """ Width and Height of user profile img in readme """
@@ -97,8 +263,7 @@ for letter in letters:
             tmp_f.write('')
             tmp_f.close()
 
-        creator_title = None
-        creator_link = None
+        creators = None
         if os.path.isfile(project_dir + '/' + item + '/info.json'):
             try:
                 f = open(project_dir + '/' + item + '/info.json', 'r')
@@ -106,27 +271,45 @@ for letter in letters:
                 f.close()
                 content = json_loads(content)
                 try:
-                    creator_title = content['creator']['title']
-                    try:
-                        creator_link = content['creator']['link']
-                    except KeyError:
-                        pass
+                    if type(content['creators']) == dict:
+                        creators = [content['creators']]
+                    elif type(content['creators']) == list:
+                        creators = content['creators']
                 except KeyError:
                     pass
             except JSONDecodeError:
                 print(f'Error: invalid json data in {item}/info.json. ignored...')
                 exit_code = 1
 
-        if creator_title is not None:
-            if creator_link is not None:
-                readme_content += f'- [{item}](/{item}) - Added By'\
-                f' <img src="{creator_link}.png?size={str(user_img_size)}"'\
-                f' width="{str(user_img_size)}" height="{str(user_img_size)}" /> '\
-                f'[' + creator_title + '](' + creator_link + ')\n'
-            else:
-                readme_content += f'- [{item}](/{item}) - Added By {creator_title}\n'
-        else:
-            readme_content += '- [' + item + '](/' + item + ')\n'
+        readme_content += f'- [{item}](/{item})'
+
+        if creators:
+            readme_content += ' - Added By'
+
+        if creators is not None:
+            counter = 0
+            for creator in creators:
+                try:
+                    creator_title = creator['title']
+                except KeyError:
+                    creator_title = None
+                try:
+                    creator_link = creator['link']
+                except KeyError:
+                    creator_link = None
+
+                if creator_title is not None:
+                    if creator_link is not None:
+                        readme_content += f' <img src="{creator_link}.png?size={str(user_img_size)}"'\
+                        f' width="{str(user_img_size)}" height="{str(user_img_size)}" /> '\
+                        f'[' + creator_title + '](' + creator_link + ')'
+                    else:
+                        readme_content += creator_title
+                    if counter < len(creators)-1:
+                        readme_content += ', '
+                counter += 1
+
+        readme_content += '\n'
     readme_content += '\n'
 
 # write content on readme.md
@@ -152,7 +335,7 @@ def tree(dir_path: Path, level: int=-1, limit_to_directories: bool=False,
             contents = list(dir_path.iterdir())
         # remove that items starts with `.`
         contents = [item for item in contents\
-            if not str(item).replace('\\', '/').split('/')[-1].startswith('.')]
+            if not str(item).replace('\\', '/').split('/')[-1][0] in ['.', '_']]
         contents.sort()
         pointers = [tee] * (len(contents) - 1) + [last]
         for pointer, path in zip(pointers, contents):
@@ -180,6 +363,9 @@ def tree(dir_path: Path, level: int=-1, limit_to_directories: bool=False,
 tree(project_dir)
 
 print('Done!')
+
+generate_status_table(project_dir)
+generate_contributors_table(project_dir)
 
 if exit_code != 0:
     print("Warning: some of info.json files are not valid. Process will be exited with 1 exit code")

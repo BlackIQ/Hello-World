@@ -120,6 +120,7 @@
 │   ├── info.json
 │   └── resources.md
 ├── CONTRIBUTING.md
+├── CONTRIBUTORS_LIST.md
 ├── Clojure
 │   ├── README.md
 │   ├── books.md
@@ -208,16 +209,13 @@
 │   ├── examples
 │   │   └── helloworld
 │   │       ├── helloworld
-│   │       │   ├── __init__.py
 │   │       │   ├── asgi.py
 │   │       │   ├── settings.py
 │   │       │   ├── urls.py
 │   │       │   └── wsgi.py
 │   │       ├── home
-│   │       │   ├── __init__.py
 │   │       │   ├── apps.py
 │   │       │   ├── migrations
-│   │       │   │   └── __init__.py
 │   │       │   ├── urls.py
 │   │       │   └── views.py
 │   │       └── manage.py
@@ -228,7 +226,8 @@
 │   ├── books.md
 │   ├── courses.md
 │   ├── examples
-│   │   └── Dockerfile
+│   │   ├── Dockerfile
+│   │   └── official.sh
 │   ├── info.json
 │   └── resources.md
 ├── Eiffel
@@ -402,6 +401,14 @@
 │   │   └── Kotlin.kt
 │   ├── info.json
 │   └── resources.md
+├── Ktor
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── Ktor.kt
+│   ├── info.json
+│   └── resources.md
 ├── LICENSE
 ├── LOLCODE
 │   ├── README.md
@@ -452,6 +459,22 @@
 │   ├── courses.md
 │   ├── examples
 │   │   └── HelloWorld.m
+│   ├── info.json
+│   └── resources.md
+├── Mql4
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── hello.mq4
+│   ├── info.json
+│   └── resources.md
+├── Mql5
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── hello.mq5
 │   ├── info.json
 │   └── resources.md
 ├── Neko-VM
@@ -537,6 +560,7 @@
 │   ├── books.md
 │   ├── courses.md
 │   ├── examples
+│   │   ├── loop.php
 │   │   └── php.php
 │   ├── info.json
 │   └── resources.md
@@ -676,6 +700,7 @@
 │   ├── courses.md
 │   ├── examples
 │   │   └── Solidity.sol
+│   ├── info.json
 │   └── resources.md
 ├── Swift
 │   ├── README.md
@@ -699,6 +724,7 @@
 │   ├── books.md
 │   ├── courses.md
 │   ├── examples
+│   │   ├── dataTypes.ts
 │   │   └── typescript.ts
 │   ├── info.json
 │   └── resources.md
@@ -708,6 +734,14 @@
 │   ├── courses.md
 │   ├── examples
 │   │   └── hello.v
+│   ├── info.json
+│   └── resources.md
+├── VB
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── main.vb
 │   ├── info.json
 │   └── resources.md
 ├── Vala
@@ -754,4 +788,4 @@
 ├── auto-gen.py
 └── tree.txt
 
-183 directories, 571 files
+191 directories, 597 files
