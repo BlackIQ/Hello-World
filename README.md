@@ -210,7 +210,7 @@ Special Thanks from [Parsa](https://github.com/parsampsh) & [Amirhossein](https:
 ---
 
 - [Tcl](/Tcl) - Added By <img src="https://github.com/Ja7adR.png?size=25" width="25" height="25" /> [Javad Rajabzade](https://github.com/Ja7adR)
-- [Typescript](/Typescript) - Added By <img src="https://github.com/BlackIQ.png?size=25" width="25" height="25" /> [Amirhossein Mohammadi](https://github.com/BlackIQ)
+- [Typescript](/Typescript) - Added By <img src="https://github.com/MortezaHeydari97.png?size=25" width="25" height="25" /> [Morteza Heydari](https://github.com/MortezaHeydari97),  <img src="https://github.com/BlackIQ.png?size=25" width="25" height="25" /> [Amirhossein Mohammadi](https://github.com/BlackIQ)
 
 
 ### V
