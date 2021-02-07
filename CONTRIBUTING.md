@@ -34,10 +34,27 @@ write name and a link about who added that language to the list in the `README.m
 
 ```json
 {
-	"creator": {
+	"creators": {
 		"title": "Your name",
 		"link": "https://github.com/your-github-username"
 	}
+}
+```
+
+Also you can add multiple creators:
+
+```json
+{
+	"creators": [
+		{
+			"title": "First",
+			"link": "https://github.com/your-github-username"
+		},
+		{
+			"title": "Second",
+			"link": "https://github.com/your-github-username"
+		},
+	]
 }
 ```
 
