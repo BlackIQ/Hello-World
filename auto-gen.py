@@ -127,12 +127,22 @@ def generate_contributors_table(project_dir = None):
                 with open(project_dir + '/' + item + '/info.json') as json_file:
                     contributor = json_load(json_file)
 
+                    creators = []
+
                     try:
-                        contributors[contributor['creators']['link']]
+                        creators = contributor['creators']
+                        if type(creators) == dict:
+                            creators = [creators]
                     except KeyError:
-                        contributors[contributor['creators']['link']] = contributor['creators']
-                        contributors[contributor['creators']['link']]['count'] = 0
-                    contributors[contributor['creators']['link']]['count'] += 1
+                        creators = []
+
+                    for creator in creators:
+                        try:
+                            contributors[creator['link']]
+                        except KeyError:
+                            contributors[creator['link']] = creator
+                            contributors[creator['link']]['count'] = 0
+                        contributors[creator['link']]['count'] += 1
             except:
                 print(item + ": file not found or info.js has not valid syntax")
 
@@ -253,8 +263,7 @@ for letter in letters:
             tmp_f.write('')
             tmp_f.close()
 
-        creator_title = None
-        creator_link = None
+        creators = None
         if os.path.isfile(project_dir + '/' + item + '/info.json'):
             try:
                 f = open(project_dir + '/' + item + '/info.json', 'r')
@@ -262,27 +271,45 @@ for letter in letters:
                 f.close()
                 content = json_loads(content)
                 try:
-                    creator_title = content['creators']['title']
-                    try:
-                        creator_link = content['creators']['link']
-                    except KeyError:
-                        pass
+                    if type(content['creators']) == dict:
+                        creators = [content['creators']]
+                    elif type(content['creators']) == list:
+                        creators = content['creators']
                 except KeyError:
                     pass
             except JSONDecodeError:
                 print(f'Error: invalid json data in {item}/info.json. ignored...')
                 exit_code = 1
 
-        if creator_title is not None:
-            if creator_link is not None:
-                readme_content += f'- [{item}](/{item}) - Added By'\
-                f' <img src="{creator_link}.png?size={str(user_img_size)}"'\
-                f' width="{str(user_img_size)}" height="{str(user_img_size)}" /> '\
-                f'[' + creator_title + '](' + creator_link + ')\n'
-            else:
-                readme_content += f'- [{item}](/{item}) - Added By {creator_title}\n'
-        else:
-            readme_content += '- [' + item + '](/' + item + ')\n'
+        readme_content += f'- [{item}](/{item})'
+
+        if creators:
+            readme_content += ' - Added By'
+
+        if creators is not None:
+            counter = 0
+            for creator in creators:
+                try:
+                    creator_title = creator['title']
+                except KeyError:
+                    creator_title = None
+                try:
+                    creator_link = creator['link']
+                except KeyError:
+                    creator_link = None
+
+                if creator_title is not None:
+                    if creator_link is not None:
+                        readme_content += f' <img src="{creator_link}.png?size={str(user_img_size)}"'\
+                        f' width="{str(user_img_size)}" height="{str(user_img_size)}" /> '\
+                        f'[' + creator_title + '](' + creator_link + ')'
+                    else:
+                        readme_content += creator_title
+                    if counter < len(creators)-1:
+                        readme_content += ', '
+                counter += 1
+
+        readme_content += '\n'
     readme_content += '\n'
 
 # write content on readme.md

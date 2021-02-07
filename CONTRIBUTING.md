@@ -41,6 +41,23 @@ write name and a link about who added that language to the list in the `README.m
 }
 ```
 
+Also you can add multiple creators:
+
+```json
+{
+	"creators": [
+		{
+			"title": "First",
+			"link": "https://github.com/your-github-username"
+		},
+		{
+			"title": "Second",
+			"link": "https://github.com/your-github-username"
+		},
+	]
+}
+```
+
 Do not run auto-gen.py, it's automatically run by Github Actions.
 
 ### README template
