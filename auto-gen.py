@@ -221,7 +221,7 @@ If you want to contribute to this project, read [Contributing Guide](CONTRIBUTIN
 
 Total Languages in This Repository: {count}.
 
-Special Thanks from [Parsa](https://github.com/parsampsh) & [Amirhossein](https://github.com/amireshoon)
+Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://github.com/amireshoon)
 
 '''
 
