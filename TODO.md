@@ -19,6 +19,7 @@
 | [🌐 LOLCODE](/LOLCODE) |✅ Done! | [ℹ️ Add one!](/LOLCODE/books.md) | [ℹ️ Add one!](/LOLCODE/courses.md) | [ℹ️ Add one!](/LOLCODE/resources.md) | 
 | [🌐 Ktor](/Ktor) |✅ Done! | [ℹ️ Add one!](/Ktor/books.md) | [ℹ️ Add one!](/Ktor/courses.md) | [ℹ️ Add one!](/Ktor/resources.md) | 
 | [🌐 Go](/Go) |✅ Done! | [ℹ️ Add one!](/Go/books.md) | [ℹ️ Add one!](/Go/courses.md) | [ℹ️ Add one!](/Go/resources.md) | 
+| [🌐 Django](/Django) |✅ Done! | [ℹ️ Add one!](/Django/books.md) | [ℹ️ Add one!](/Django/courses.md) | [ℹ️ Add one!](/Django/resources.md) | 
 | [🌐 Clojure](/Clojure) |✅ Done! | [ℹ️ Add one!](/Clojure/books.md) | [ℹ️ Add one!](/Clojure/courses.md) | [ℹ️ Add one!](/Clojure/resources.md) | 
 | [🌐 COBOL](/COBOL) |✅ Done! | [ℹ️ Add one!](/COBOL/books.md) | [ℹ️ Add one!](/COBOL/courses.md) | [ℹ️ Add one!](/COBOL/resources.md) | 
 | [🌐 C](/C) |✅ Done! | [ℹ️ Add one!](/C/books.md) | [ℹ️ Add one!](/C/courses.md) | [ℹ️ Add one!](/C/resources.md) | 
@@ -90,7 +91,6 @@
 | [🌐 Elixir](/Elixir) |[ℹ️ Edit it!](/Elixir/README.md) | [ℹ️ Add one!](/Elixir/books.md) | [ℹ️ Add one!](/Elixir/courses.md) | [ℹ️ Add one!](/Elixir/resources.md) | 
 | [🌐 Eiffel](/Eiffel) |[ℹ️ Edit it!](/Eiffel/README.md) | [ℹ️ Add one!](/Eiffel/books.md) | [ℹ️ Add one!](/Eiffel/courses.md) | [ℹ️ Add one!](/Eiffel/resources.md) | 
 | [🌐 Docker](/Docker) |[ℹ️ Edit it!](/Docker/README.md) | [ℹ️ Add one!](/Docker/books.md) | [ℹ️ Add one!](/Docker/courses.md) | [ℹ️ Add one!](/Docker/resources.md) | 
-| [🌐 Django](/Django) |[ℹ️ Edit it!](/Django/README.md) | [ℹ️ Add one!](/Django/books.md) | [ℹ️ Add one!](/Django/courses.md) | [ℹ️ Add one!](/Django/resources.md) | 
 | [🌐 Dart](/Dart) |[ℹ️ Edit it!](/Dart/README.md) | [ℹ️ Add one!](/Dart/books.md) | [ℹ️ Add one!](/Dart/courses.md) | [ℹ️ Add one!](/Dart/resources.md) | 
 | [🌐 D](/D) |[ℹ️ Edit it!](/D/README.md) | [ℹ️ Add one!](/D/books.md) | [ℹ️ Add one!](/D/courses.md) | [ℹ️ Add one!](/D/resources.md) | 
 | [🌐 Curl](/Curl) |[ℹ️ Edit it!](/Curl/README.md) | [ℹ️ Add one!](/Curl/books.md) | [ℹ️ Add one!](/Curl/courses.md) | [ℹ️ Add one!](/Curl/resources.md) | 
