@@ -314,6 +314,8 @@ for letter in letters:
 
 # write content on readme.md
 f = open(project_dir + '/README.md', 'w')
+readme_content += '## Thanks to everyone who helped this repo❤ :) \n\n'
+readme_content += f'<a href="https://github.com/BlackIQ/Hello-World/graphs/contributors"><img src="https://contrib.rocks/image?repo=BlackIQ/Hello-World" /></a>'
 f.write(readme_content.strip() + '\n')
 f.close()
 
