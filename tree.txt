@@ -725,6 +725,7 @@
 │   ├── courses.md
 │   ├── examples
 │   │   ├── dataTypes.ts
+│   │   ├── interfaces.ts
 │   │   └── typescript.ts
 │   ├── info.json
 │   └── resources.md
@@ -788,4 +789,4 @@
 ├── auto-gen.py
 └── tree.txt
 
-191 directories, 597 files
+191 directories, 598 files
