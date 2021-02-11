@@ -218,6 +218,8 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 ---
 
 - [V](/V) - Added By <img src="https://github.com/jadijadi.png?size=25" width="25" height="25" /> [Jadi Mirmirani](https://github.com/jadijadi)
+- [Visual-Basic](/Visual-Basic) - Added By <img src="https://github.com/khodekhadem.png?size=25" width="25" height="25" /> [Khadem al Mahdi](https://github.com/khodekhadem)
+
 - [VB](/VB) - Added By <img src="https://github.com/khod-naderi.png?size=25" width="25" height="25" /> [Ali Naderi](https://github.com/khod-naderi)
 - [Vala](/Vala) - Added By <img src="https://github.com/amireshoon.png?size=25" width="25" height="25" /> [Amirhossein Meydani](https://github.com/amireshoon)
 - [Vim-Script](/Vim-Script) - Added By <img src="https://github.com/amireshoon.png?size=25" width="25" height="25" /> [Amirhossein Meydani](https://github.com/amireshoon)
