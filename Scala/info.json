@@ -1,6 +1,12 @@
 {
-    "creators": {
-        "title": "Elyas 'Eloy' Hadizadeh Tasbiti",
-        "link": "https://github.com/elyashadizadeh"
+  "creators": [
+    {
+      "title": "Elyas 'Eloy' Hadizadeh Tasbiti",
+      "link": "https://github.com/elyashadizadeh"
+    },
+    {
+      "title": "Meysam P. Ganji",
+      "link": "https://github.com/meysampg"
     }
+  ]
 }
