@@ -13,6 +13,7 @@
 | [🌐 Whitespace](/Whitespace) |✅ Done! | [ℹ️ Add one!](/Whitespace/books.md) | [ℹ️ Add one!](/Whitespace/courses.md) | [ℹ️ Add one!](/Whitespace/resources.md) | 
 | [🌐 Vala](/Vala) |✅ Done! | [ℹ️ Add one!](/Vala/books.md) | [ℹ️ Add one!](/Vala/courses.md) | [ℹ️ Add one!](/Vala/resources.md) | 
 | [🌐 VB](/VB) |✅ Done! | [ℹ️ Add one!](/VB/books.md) | [ℹ️ Add one!](/VB/courses.md) | [ℹ️ Add one!](/VB/resources.md) | 
+| [🌐 V](/V) |✅ Done! | [ℹ️ Add one!](/V/books.md) | [ℹ️ Add one!](/V/courses.md) | [ℹ️ Add one!](/V/resources.md) | 
 | [🌐 Rockstar](/Rockstar) |✅ Done! | [ℹ️ Add one!](/Rockstar/books.md) | [ℹ️ Add one!](/Rockstar/courses.md) | [ℹ️ Add one!](/Rockstar/resources.md) | 
 | [🌐 Python](/Python) |✅ Done! | [ℹ️ Add one!](/Python/books.md) | [ℹ️ Add one!](/Python/courses.md) | [ℹ️ Add one!](/Python/resources.md) | 
 | [🌐 Piet](/Piet) |✅ Done! | [ℹ️ Add one!](/Piet/books.md) | [ℹ️ Add one!](/Piet/courses.md) | [ℹ️ Add one!](/Piet/resources.md) | 
@@ -40,7 +41,6 @@
 | [🌐 Algol](/Algol) |✅ Done! | [ℹ️ Add one!](/Algol/books.md) | [ℹ️ Add one!](/Algol/courses.md) | [ℹ️ Add one!](/Algol/resources.md) | 
 | [🌐 Abdal-Autoit](/Abdal-Autoit) |✅ Done! | [ℹ️ Add one!](/Abdal-Autoit/books.md) | [ℹ️ Add one!](/Abdal-Autoit/courses.md) | [ℹ️ Add one!](/Abdal-Autoit/resources.md) | 
 | [🌐 Vim-Script](/Vim-Script) |[ℹ️ Edit it!](/Vim-Script/README.md) | [ℹ️ Add one!](/Vim-Script/books.md) | [ℹ️ Add one!](/Vim-Script/courses.md) | [ℹ️ Add one!](/Vim-Script/resources.md) | 
-| [🌐 V](/V) |[ℹ️ Edit it!](/V/README.md) | [ℹ️ Add one!](/V/books.md) | [ℹ️ Add one!](/V/courses.md) | [ℹ️ Add one!](/V/resources.md) | 
 | [🌐 Typescript](/Typescript) |[ℹ️ Edit it!](/Typescript/README.md) | [ℹ️ Add one!](/Typescript/books.md) | [ℹ️ Add one!](/Typescript/courses.md) | [ℹ️ Add one!](/Typescript/resources.md) | 
 | [🌐 Tcl](/Tcl) |[ℹ️ Edit it!](/Tcl/README.md) | [ℹ️ Add one!](/Tcl/books.md) | [ℹ️ Add one!](/Tcl/courses.md) | [ℹ️ Add one!](/Tcl/resources.md) | 
 | [🌐 Swift](/Swift) |[ℹ️ Edit it!](/Swift/README.md) | [ℹ️ Add one!](/Swift/books.md) | [ℹ️ Add one!](/Swift/courses.md) | [ℹ️ Add one!](/Swift/resources.md) | 
