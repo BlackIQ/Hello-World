@@ -6,3 +6,9 @@
 object Hello extends App {
   println("Hello, World!")
 }
+
+/**
+ *  To run:
+ *    1. Compile the file: `scalac Hello.scala`
+ *    2. Execute it: `scala Hello`
+ */
