@@ -48,7 +48,6 @@
 | [🌐 Scss](/Scss) |[ℹ️ Edit it!](/Scss/README.md) | [ℹ️ Add one!](/Scss/books.md) | [ℹ️ Add one!](/Scss/courses.md) | [ℹ️ Add one!](/Scss/resources.md) | 
 | [🌐 Scratch](/Scratch) |[ℹ️ Edit it!](/Scratch/README.md) | [ℹ️ Add one!](/Scratch/books.md) | [ℹ️ Add one!](/Scratch/courses.md) | [ℹ️ Add one!](/Scratch/resources.md) | 
 | [🌐 Scheme](/Scheme) |[ℹ️ Edit it!](/Scheme/README.md) | [ℹ️ Add one!](/Scheme/books.md) | [ℹ️ Add one!](/Scheme/courses.md) | [ℹ️ Add one!](/Scheme/resources.md) | 
-| [🌐 Scala](/Scala) |[ℹ️ Edit it!](/Scala/README.md) | [ℹ️ Add one!](/Scala/books.md) | [ℹ️ Add one!](/Scala/courses.md) | [ℹ️ Add one!](/Scala/resources.md) | 
 | [🌐 SQL](/SQL) |[ℹ️ Edit it!](/SQL/README.md) | [ℹ️ Add one!](/SQL/books.md) | [ℹ️ Add one!](/SQL/courses.md) | [ℹ️ Add one!](/SQL/resources.md) | 
 | [🌐 Rust](/Rust) |[ℹ️ Edit it!](/Rust/README.md) | [ℹ️ Add one!](/Rust/books.md) | [ℹ️ Add one!](/Rust/courses.md) | [ℹ️ Add one!](/Rust/resources.md) | 
 | [🌐 Ruby](/Ruby) |[ℹ️ Edit it!](/Ruby/README.md) | [ℹ️ Add one!](/Ruby/books.md) | [ℹ️ Add one!](/Ruby/courses.md) | [ℹ️ Add one!](/Ruby/resources.md) | 
