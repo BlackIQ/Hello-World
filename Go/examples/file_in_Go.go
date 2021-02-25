@@ -1,6 +1,3 @@
-// Learn here about "File in Go" -> https://vrgl.ir/Csdnc
-// I wrote it :)
-// GitHub account -> Mr-SinaYeganeh 
 package main
 
 import (
@@ -14,21 +11,23 @@ func main() {
     ReadFile()
 }
 
+// ReadFile used to readfiles from disk
 func ReadFile() {
-    output, err := ioutil.ReadFile("file-to-read.txt")
+    output, err := ioutil.ReadFile("myfile.txt")
     
     if err != nil {
-        log.Println("you have an error:", err)
+        log.Println("error in reading file:", err)
     }
     result := string(output)
-    fmt.Println("file text:\n", result)
+    fmt.Println(result)
 }
 
+// CreateFile used to create file and store in disk
 func CreatFile() {
     info := []byte("Hello! you can learn about Go lang!!!")
-    err := ioutil.WriteFile("file-to-read.txt", info, 0777)
+    err := ioutil.WriteFile("myfile.txt", info, 0777)
     
     if err != nil {
-        log.Println("you have an error:", err)
+        log.Println("error in writing file:", err)
     }
 }
