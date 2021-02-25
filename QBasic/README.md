@@ -8,5 +8,5 @@ For its time, QBasic provided a state-of-the-art IDE, including a debugger with 
 
 ## Refrences
 
-- [https://en.wikipedia.org/wiki/QBasic](Wikipedia)
-- [www.mysundial.ca/tsp/qbasic.html](Read For Fun)
+- [Wkipedia](https://en.wikipedia.org/wiki/QBasic)
+- [Read for fun](https://mysundial.ca/tsp/qbasic.html)
