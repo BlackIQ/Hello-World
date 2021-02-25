@@ -14,11 +14,11 @@ Also there is list of useful **Courses** and **Books** about the programming lan
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in This Repository: 93.
+Total Languages in This Repository: 94.
 
 Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://github.com/amireshoon)
 
-[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [R](#R) [S](#S) [T](#T) [V](#V) [W](#W) [Y](#Y) [Z](#Z) 
+[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [V](#V) [W](#W) [Y](#Y) [Z](#Z) 
 ### A
 
 ---
@@ -179,6 +179,13 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 - [PowerShell](/PowerShell) - Added By <img src="https://github.com/F4R4N.png?size=25" width="25" height="25" /> [Faran Taghavi](https://github.com/F4R4N)
 - [Prolog](/Prolog) - Added By <img src="https://github.com/HSNHK.png?size=25" width="25" height="25" /> [Hassan Mohammadi](https://github.com/HSNHK)
 - [Python](/Python) - Added By <img src="https://github.com/rezabojnordi.png?size=25" width="25" height="25" /> [Reza Bojnordi](https://github.com/rezabojnordi)
+
+
+### Q
+
+---
+
+- [QBasic](/QBasic) - Added By <img src="https://github.com/Annahita2004.png?size=25" width="25" height="25" /> [Annahita Mirhosseini](https://github.com/Annahita2004)
 
 
 ### R
