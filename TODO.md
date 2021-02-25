@@ -9,6 +9,7 @@
 |----------|--------|--------------------------|----------------------------|------------------------------|
 | [🌐 Php](/Php) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Php/courses.md) | ✅ Done! | 
 | [🌐 Zig-lang](/Zig-lang) |✅ Done! | [ℹ️ Add one!](/Zig-lang/books.md) | [ℹ️ Add one!](/Zig-lang/courses.md) | [ℹ️ Add one!](/Zig-lang/resources.md) | 
+| [🌐 Yo](/Yo) |✅ Done! | [ℹ️ Add one!](/Yo/books.md) | [ℹ️ Add one!](/Yo/courses.md) | [ℹ️ Add one!](/Yo/resources.md) | 
 | [🌐 Yacas](/Yacas) |✅ Done! | [ℹ️ Add one!](/Yacas/books.md) | [ℹ️ Add one!](/Yacas/courses.md) | [ℹ️ Add one!](/Yacas/resources.md) | 
 | [🌐 Whitespace](/Whitespace) |✅ Done! | [ℹ️ Add one!](/Whitespace/books.md) | [ℹ️ Add one!](/Whitespace/courses.md) | [ℹ️ Add one!](/Whitespace/resources.md) | 
 | [🌐 Vala](/Vala) |✅ Done! | [ℹ️ Add one!](/Vala/books.md) | [ℹ️ Add one!](/Vala/courses.md) | [ℹ️ Add one!](/Vala/resources.md) | 
