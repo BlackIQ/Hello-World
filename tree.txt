@@ -603,6 +603,7 @@
 │   ├── courses.md
 │   ├── examples
 │   │   ├── file.py
+│   │   ├── http_requests.py
 │   │   ├── python.py
 │   │   └── variable.py
 │   ├── img
@@ -614,7 +615,8 @@
 │   │   ├── 6.png
 │   │   └── 7.png
 │   ├── info.json
-│   └── resources.md
+│   ├── resources.md
+│   └── try_except.py
 ├── QBasic
 │   ├── README.md
 │   ├── books.md
@@ -807,4 +809,4 @@
 ├── auto-gen.py
 └── tree.txt
 
-195 directories, 612 files
+195 directories, 614 files
