@@ -1,10 +1,11 @@
-# It's good for handeling error
-try: # use "try" and "except" keyword
-  # your code to handel
-except Exception as err: # you can see your error in Exception but we creat a variabel as "err"
+# It's good for handling errors
+try: # use "try" and "except" keywords
+  # your code to be handled
+  pass
+except Exception as err: # you can see your error as Exception object and we put it in a variable named `err`
   print("You have an error:", err) # print error
-  
-# this exampel for installing library:
+
+# this example for importing a module:
 try:
   import os
   import requests
@@ -15,5 +16,5 @@ except Exception as err:
   if user_answer == "n" or "N":
     print("so, install that!")
   else:
-    print("Installing Linrary . . .")
+    print("Installing Library . . .")
     os.system("pip3 install reqests")
