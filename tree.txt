@@ -605,6 +605,7 @@
 │   │   ├── file.py
 │   │   ├── http_requests.py
 │   │   ├── python.py
+│   │   ├── try_except.py
 │   │   └── variable.py
 │   ├── img
 │   │   ├── 1.png
@@ -615,8 +616,7 @@
 │   │   ├── 6.png
 │   │   └── 7.png
 │   ├── info.json
-│   ├── resources.md
-│   └── try_except.py
+│   └── resources.md
 ├── QBasic
 │   ├── README.md
 │   ├── books.md
