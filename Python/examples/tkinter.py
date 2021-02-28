@@ -1,7 +1,7 @@
 from tkinter import *
 
 root = Tk()
-root.title("My Programme")
+root.title("My Program")
 root.geometry('200x300')
 
 def function():
