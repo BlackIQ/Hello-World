@@ -1,4 +1,5 @@
 import os
 
-# just use system method 
+# example of `system` function
 os.system("clear")
+os.system("ls -ltrh")
