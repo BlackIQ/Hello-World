@@ -784,20 +784,24 @@
 │   │   └── helloworld.ws
 │   ├── info.json
 │   └── resources.md
+├── YO
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   ├── labra.yoda
+│   ├── resources.md
+│   ├── src
+│   │   └── main.yo
+│   └── target
+│       └── release
+│           └── YO.exe
 ├── Yacas
 │   ├── README.md
 │   ├── books.md
 │   ├── courses.md
 │   ├── examples
 │   │   └── hello-world.yts
-│   ├── info.json
-│   └── resources.md
-├── Yo
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   │   └── Yo.yo
 │   ├── info.json
 │   └── resources.md
 ├── Zig-lang
@@ -811,4 +815,4 @@
 ├── auto-gen.py
 └── tree.txt
 
-195 directories, 616 files
+198 directories, 617 files

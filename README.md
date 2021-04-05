@@ -238,11 +238,11 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 
 
 ### Y
-- [YO](https://github.com/shahriaarrr/Hello-World/tree/main/YO)
+
 ---
 
+- [YO](/YO)
 - [Yacas](/Yacas) - Added By <img src="https://github.com/AmirJey.png?size=25" width="25" height="25" /> [AmirJEY](https://github.com/AmirJey)
-- [Yo](/Yo) - Added By <img src="https://github.com/Kamandlou.png?size=25" width="25" height="25" /> [Amir Hossein Kamandlou](https://github.com/Kamandlou)
 
 
 ### Z
