@@ -243,14 +243,6 @@
 │   │   └── Erlang.erl
 │   ├── info.json
 │   └── resources.md
-├── Flask-python-framework
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   │   └── app.py
-│   ├── info.json
-│   └── resources.md
 ├── Flutter
 │   ├── README.md
 │   ├── books.md
@@ -796,4 +788,4 @@
 ├── auto-gen.py
 └── tree.txt
 
-192 directories, 604 files
+190 directories, 598 files

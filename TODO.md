@@ -85,7 +85,6 @@
 | [🌐 Fsharp](/Fsharp) |[ℹ️ Edit it!](/Fsharp/README.md) | [ℹ️ Add one!](/Fsharp/books.md) | [ℹ️ Add one!](/Fsharp/courses.md) | [ℹ️ Add one!](/Fsharp/resources.md) | 
 | [🌐 Fortran](/Fortran) |[ℹ️ Edit it!](/Fortran/README.md) | [ℹ️ Add one!](/Fortran/books.md) | [ℹ️ Add one!](/Fortran/courses.md) | [ℹ️ Add one!](/Fortran/resources.md) | 
 | [🌐 Flutter](/Flutter) |[ℹ️ Edit it!](/Flutter/README.md) | [ℹ️ Add one!](/Flutter/books.md) | [ℹ️ Add one!](/Flutter/courses.md) | [ℹ️ Add one!](/Flutter/resources.md) | 
-| [🌐 Flask-python-framework](/Flask-python-framework) |[ℹ️ Edit it!](/Flask-python-framework/README.md) | [ℹ️ Add one!](/Flask-python-framework/books.md) | [ℹ️ Add one!](/Flask-python-framework/courses.md) | [ℹ️ Add one!](/Flask-python-framework/resources.md) | 
 | [🌐 Erlang](/Erlang) |[ℹ️ Edit it!](/Erlang/README.md) | [ℹ️ Add one!](/Erlang/books.md) | [ℹ️ Add one!](/Erlang/courses.md) | [ℹ️ Add one!](/Erlang/resources.md) | 
 | [🌐 Elm](/Elm) |[ℹ️ Edit it!](/Elm/README.md) | [ℹ️ Add one!](/Elm/books.md) | [ℹ️ Add one!](/Elm/courses.md) | [ℹ️ Add one!](/Elm/resources.md) | 
 | [🌐 Elixir](/Elixir) |[ℹ️ Edit it!](/Elixir/README.md) | [ℹ️ Add one!](/Elixir/books.md) | [ℹ️ Add one!](/Elixir/courses.md) | [ℹ️ Add one!](/Elixir/resources.md) | 
