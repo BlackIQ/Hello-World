@@ -202,25 +202,6 @@
 │   │   └── Dart.dart
 │   ├── info.json
 │   └── resources.md
-├── Django
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   │   └── helloworld
-│   │       ├── helloworld
-│   │       │   ├── asgi.py
-│   │       │   ├── settings.py
-│   │       │   ├── urls.py
-│   │       │   └── wsgi.py
-│   │       ├── home
-│   │       │   ├── apps.py
-│   │       │   ├── migrations
-│   │       │   ├── urls.py
-│   │       │   └── views.py
-│   │       └── manage.py
-│   ├── info.json
-│   └── resources.md
 ├── Docker
 │   ├── README.md
 │   ├── books.md
@@ -815,4 +796,4 @@
 ├── auto-gen.py
 └── tree.txt
 
-198 directories, 617 files
+192 directories, 604 files
