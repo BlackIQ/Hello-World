@@ -18,6 +18,7 @@
 | [🌐 Rockstar](/Rockstar) |✅ Done! | [ℹ️ Add one!](/Rockstar/books.md) | [ℹ️ Add one!](/Rockstar/courses.md) | [ℹ️ Add one!](/Rockstar/resources.md) | 
 | [🌐 QBasic](/QBasic) |✅ Done! | [ℹ️ Add one!](/QBasic/books.md) | [ℹ️ Add one!](/QBasic/courses.md) | [ℹ️ Add one!](/QBasic/resources.md) | 
 | [🌐 Python](/Python) |✅ Done! | [ℹ️ Add one!](/Python/books.md) | [ℹ️ Add one!](/Python/courses.md) | [ℹ️ Add one!](/Python/resources.md) | 
+| [🌐 Pony](/Pony) |✅ Done! | [ℹ️ Add one!](/Pony/books.md) | [ℹ️ Add one!](/Pony/courses.md) | [ℹ️ Add one!](/Pony/resources.md) | 
 | [🌐 Piet](/Piet) |✅ Done! | [ℹ️ Add one!](/Piet/books.md) | [ℹ️ Add one!](/Piet/courses.md) | [ℹ️ Add one!](/Piet/resources.md) | 
 | [🌐 Pashmak](/Pashmak) |✅ Done! | [ℹ️ Add one!](/Pashmak/books.md) | [ℹ️ Add one!](/Pashmak/courses.md) | [ℹ️ Add one!](/Pashmak/resources.md) | 
 | [🌐 Mql5](/Mql5) |✅ Done! | [ℹ️ Add one!](/Mql5/books.md) | [ℹ️ Add one!](/Mql5/courses.md) | [ℹ️ Add one!](/Mql5/resources.md) | 
