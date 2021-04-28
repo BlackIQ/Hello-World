@@ -12,5 +12,5 @@ When we say Pony is **capabilities-secure**, we mean a few things:
 
 # Refrences
 
-- [Pony Lang Official Site](ponylang.io/)
+- [Pony Lang Official Site](https://ponylang.io/)
 - [github](https://github.com/ponylang/ponyc)
