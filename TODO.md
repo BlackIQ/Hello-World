@@ -21,6 +21,7 @@
 | [🌐 Pony](/Pony) |✅ Done! | [ℹ️ Add one!](/Pony/books.md) | [ℹ️ Add one!](/Pony/courses.md) | [ℹ️ Add one!](/Pony/resources.md) | 
 | [🌐 Piet](/Piet) |✅ Done! | [ℹ️ Add one!](/Piet/books.md) | [ℹ️ Add one!](/Piet/courses.md) | [ℹ️ Add one!](/Piet/resources.md) | 
 | [🌐 Pashmak](/Pashmak) |✅ Done! | [ℹ️ Add one!](/Pashmak/books.md) | [ℹ️ Add one!](/Pashmak/courses.md) | [ℹ️ Add one!](/Pashmak/resources.md) | 
+| [🌐 Not-English](/Not-English) |✅ Done! | [ℹ️ Add one!](/Not-English/books.md) | [ℹ️ Add one!](/Not-English/courses.md) | [ℹ️ Add one!](/Not-English/resources.md) | 
 | [🌐 Mql5](/Mql5) |✅ Done! | [ℹ️ Add one!](/Mql5/books.md) | [ℹ️ Add one!](/Mql5/courses.md) | [ℹ️ Add one!](/Mql5/resources.md) | 
 | [🌐 Mql4](/Mql4) |✅ Done! | [ℹ️ Add one!](/Mql4/books.md) | [ℹ️ Add one!](/Mql4/courses.md) | [ℹ️ Add one!](/Mql4/resources.md) | 
 | [🌐 LOLCODE](/LOLCODE) |✅ Done! | [ℹ️ Add one!](/LOLCODE/books.md) | [ℹ️ Add one!](/LOLCODE/courses.md) | [ℹ️ Add one!](/LOLCODE/resources.md) | 

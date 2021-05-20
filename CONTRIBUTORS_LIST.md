@@ -17,6 +17,7 @@
 | [Amirmahdi Tafreshi](https://github.com/mr-tafreshi)|2|
 | [Mani Jamali](https://github.com/manijamali2003)|2|
 | [Amin Ghs](https://github.com/aminghs)|2|
+| [Peyman Majidi Moein](https://github.com/peymanmajidi)|2|
 | [Fahime Zivdar](https://github.com/Fahime-zv)|2|
 | [Sina Yeganeh Faal](https://github.com/SinaYeganeh0-0)|2|
 | [Elyas 'Eloy' Hadizadeh Tasbiti](https://github.com/elyashadizadeh)|2|
@@ -29,7 +30,6 @@
 | [Milad Ahmadi](https://github.com/Mildroid)|1|
 | [Mehen](https://github.com/mehanalavimajd)|1|
 | [Sina](https://github.com/sina-devel)|1|
-| [Peyman Majidi Moein](https://github.com/peymanmajidi)|1|
 | [Kourosh Alinaghi](https://github.com/KouroshAlinaghi)|1|
 | [Erfan Saberi](https://github.com/erfansaberi)|1|
 | [Amin Asadi](https://github.com/aminasadiam)|1|
