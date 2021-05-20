@@ -14,7 +14,7 @@ Also there is list of useful **Courses** and **Books** about the programming lan
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in This Repository: 94.
+Total Languages in This Repository: 95.
 
 Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://github.com/amireshoon)
 
@@ -66,6 +66,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 
 - [D](/D) - Added By <img src="https://github.com/sina-devel.png?size=25" width="25" height="25" /> [Sina](https://github.com/sina-devel)
 - [Dart](/Dart) - Added By <img src="https://github.com/xenups.png?size=25" width="25" height="25" /> [Amir Lesani](https://github.com/xenups)
+- [Delphi](/Delphi) - Added By <img src="https://github.com/peymanmajidi.png?size=25" width="25" height="25" /> [Peyman Majidi Moein](https://github.com/peymanmajidi)
 - [Docker](/Docker) - Added By <img src="https://github.com/Ja7adR.png?size=25" width="25" height="25" /> [Javad Rajabzade](https://github.com/Ja7adR)
 
 

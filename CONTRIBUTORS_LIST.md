@@ -29,6 +29,7 @@
 | [Milad Ahmadi](https://github.com/Mildroid)|1|
 | [Mehen](https://github.com/mehanalavimajd)|1|
 | [Sina](https://github.com/sina-devel)|1|
+| [Peyman Majidi Moein](https://github.com/peymanmajidi)|1|
 | [Kourosh Alinaghi](https://github.com/KouroshAlinaghi)|1|
 | [Erfan Saberi](https://github.com/erfansaberi)|1|
 | [Amin Asadi](https://github.com/aminasadiam)|1|
