@@ -1,0 +1,23 @@
+Note: the following program is a simple implementation of a guess-the-number game.
+Note also that it uses a fixed number due to a lack of random numbers.
+
+Create a function called Ask with argument num.
+Upon calling Ask do:
+Display "Enter your guess:" and a newline.
+Make a variable called input.
+Set the value of input to the result of calling getInput.
+Set the value of num to the result of calling toNumber on input.
+That's all.
+
+Create a variable number. Set the value of number to 25.
+Create another variable called guess.
+Ask the guess.
+While the guess differs from the number do:
+    If the guess is lower than the number then:
+    Display "Too low..." and a newline. That's it.
+    Otherwise do:
+    Display "Too high..." and a newline. That's all.
+    Ask the guess.
+That's it.
+Display "You won!" and a newline.
+Stop guessing numbers...
