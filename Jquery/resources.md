@@ -1,1 +1,1 @@
-# Useful Resources for Java
+# Useful Resources for jQuery
