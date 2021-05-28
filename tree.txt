@@ -359,6 +359,14 @@
 │   │   └── jsf.js
 │   ├── info.json
 │   └── resources.md
+├── Jquery
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── Hello-world.js
+│   ├── info.json
+│   └── resources.md
 ├── Julia
 │   ├── README.md
 │   ├── books.md
@@ -813,4 +821,4 @@
 ├── auto-gen.py
 └── tree.txt
 
-196 directories, 617 files
+198 directories, 623 files

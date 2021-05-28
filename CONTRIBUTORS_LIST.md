@@ -33,6 +33,7 @@
 | [Kourosh Alinaghi](https://github.com/KouroshAlinaghi)|1|
 | [Erfan Saberi](https://github.com/erfansaberi)|1|
 | [Amin Asadi](https://github.com/aminasadiam)|1|
+| [Masoud Nickparvar](https://github.com/masoudnick)|1|
 | [Ali Madihi](https://github.com/mrunderline)|1|
 | [AlirezabBashi98](https://github.com/alirezabashi98)|1|
 | [Mohammad Kadkhodaei](https://github.com/mohammadkad)|1|

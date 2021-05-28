@@ -26,6 +26,7 @@
 | [🌐 Mql4](/Mql4) |✅ Done! | [ℹ️ Add one!](/Mql4/books.md) | [ℹ️ Add one!](/Mql4/courses.md) | [ℹ️ Add one!](/Mql4/resources.md) | 
 | [🌐 LOLCODE](/LOLCODE) |✅ Done! | [ℹ️ Add one!](/LOLCODE/books.md) | [ℹ️ Add one!](/LOLCODE/courses.md) | [ℹ️ Add one!](/LOLCODE/resources.md) | 
 | [🌐 Ktor](/Ktor) |✅ Done! | [ℹ️ Add one!](/Ktor/books.md) | [ℹ️ Add one!](/Ktor/courses.md) | [ℹ️ Add one!](/Ktor/resources.md) | 
+| [🌐 Jquery](/Jquery) |✅ Done! | [ℹ️ Add one!](/Jquery/books.md) | [ℹ️ Add one!](/Jquery/courses.md) | [ℹ️ Add one!](/Jquery/resources.md) | 
 | [🌐 Go](/Go) |✅ Done! | [ℹ️ Add one!](/Go/books.md) | [ℹ️ Add one!](/Go/courses.md) | [ℹ️ Add one!](/Go/resources.md) | 
 | [🌐 Delphi](/Delphi) |✅ Done! | [ℹ️ Add one!](/Delphi/books.md) | [ℹ️ Add one!](/Delphi/courses.md) | [ℹ️ Add one!](/Delphi/resources.md) | 
 | [🌐 Clojure](/Clojure) |✅ Done! | [ℹ️ Add one!](/Clojure/books.md) | [ℹ️ Add one!](/Clojure/courses.md) | [ℹ️ Add one!](/Clojure/resources.md) | 
