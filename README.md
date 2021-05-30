@@ -258,7 +258,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 
 ---
 
-- [قلب](/قلب) - Added By <img src="https://github.com/nasser.png?size=25" width="25" height="25" /> [nasser](https://github.com/nasser)
+- [قلب](/قلب) - Added By <img src="https://github.com/Hadi7546.png?size=25" width="25" height="25" /> [Hadi Azarnasab](https://github.com/Hadi7546)
 
 ## Thanks to everyone who helped this repo❤ :) 
 
