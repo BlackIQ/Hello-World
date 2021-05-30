@@ -30,7 +30,6 @@
 | [🌐 Go](/Go) |✅ Done! | [ℹ️ Add one!](/Go/books.md) | [ℹ️ Add one!](/Go/courses.md) | [ℹ️ Add one!](/Go/resources.md) | 
 | [🌐 Delphi](/Delphi) |✅ Done! | [ℹ️ Add one!](/Delphi/books.md) | [ℹ️ Add one!](/Delphi/courses.md) | [ℹ️ Add one!](/Delphi/resources.md) | 
 | [🌐 Clojure](/Clojure) |✅ Done! | [ℹ️ Add one!](/Clojure/books.md) | [ℹ️ Add one!](/Clojure/courses.md) | [ℹ️ Add one!](/Clojure/resources.md) | 
-| [🌐 COW](/COW) |✅ Done! | [ℹ️ Add one!](/COW/books.md) | [ℹ️ Add one!](/COW/courses.md) | [ℹ️ Add one!](/COW/resources.md) | 
 | [🌐 COBOL](/COBOL) |✅ Done! | [ℹ️ Add one!](/COBOL/books.md) | [ℹ️ Add one!](/COBOL/courses.md) | [ℹ️ Add one!](/COBOL/resources.md) | 
 | [🌐 C](/C) |✅ Done! | [ℹ️ Add one!](/C/books.md) | [ℹ️ Add one!](/C/courses.md) | [ℹ️ Add one!](/C/resources.md) | 
 | [🌐 Brainfuck](/Brainfuck) |✅ Done! | [ℹ️ Add one!](/Brainfuck/books.md) | [ℹ️ Add one!](/Brainfuck/courses.md) | [ℹ️ Add one!](/Brainfuck/resources.md) | 
@@ -105,3 +104,4 @@
 | [🌐 Cow](/Cow) |[ℹ️ Edit it!](/Cow/README.md) | [ℹ️ Add one!](/Cow/books.md) | [ℹ️ Add one!](/Cow/courses.md) | [ℹ️ Add one!](/Cow/resources.md) | 
 | [🌐 CoffeScript](/CoffeScript) |[ℹ️ Edit it!](/CoffeScript/README.md) | [ℹ️ Add one!](/CoffeScript/books.md) | [ℹ️ Add one!](/CoffeScript/courses.md) | [ℹ️ Add one!](/CoffeScript/resources.md) | 
 | [🌐 Cobra](/Cobra) |[ℹ️ Edit it!](/Cobra/README.md) | [ℹ️ Add one!](/Cobra/books.md) | [ℹ️ Add one!](/Cobra/courses.md) | [ℹ️ Add one!](/Cobra/resources.md) | 
+| [🌐 COW](/COW) |[ℹ️ Edit it!](/COW/README.md) | [ℹ️ Add one!](/COW/books.md) | [ℹ️ Add one!](/COW/courses.md) | [ℹ️ Add one!](/COW/resources.md) | 
