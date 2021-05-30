@@ -104,4 +104,3 @@
 | [🌐 Cow](/Cow) |[ℹ️ Edit it!](/Cow/README.md) | [ℹ️ Add one!](/Cow/books.md) | [ℹ️ Add one!](/Cow/courses.md) | [ℹ️ Add one!](/Cow/resources.md) | 
 | [🌐 CoffeScript](/CoffeScript) |[ℹ️ Edit it!](/CoffeScript/README.md) | [ℹ️ Add one!](/CoffeScript/books.md) | [ℹ️ Add one!](/CoffeScript/courses.md) | [ℹ️ Add one!](/CoffeScript/resources.md) | 
 | [🌐 Cobra](/Cobra) |[ℹ️ Edit it!](/Cobra/README.md) | [ℹ️ Add one!](/Cobra/books.md) | [ℹ️ Add one!](/Cobra/courses.md) | [ℹ️ Add one!](/Cobra/resources.md) | 
-| [🌐 COW](/COW) |[ℹ️ Edit it!](/COW/README.md) | [ℹ️ Add one!](/COW/books.md) | [ℹ️ Add one!](/COW/courses.md) | [ℹ️ Add one!](/COW/resources.md) | 
