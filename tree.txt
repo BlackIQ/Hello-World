@@ -126,7 +126,6 @@
 │   ├── books.md
 │   ├── courses.md
 │   ├── examples
-│   ├── helloworld.cow
 │   └── resources.md
 ├── Clojure
 │   ├── README.md
@@ -836,4 +835,4 @@
     ├── info.json
     └── resources.md
 
-202 directories, 634 files
+202 directories, 633 files
