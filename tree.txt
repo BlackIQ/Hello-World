@@ -121,12 +121,6 @@
 │   └── resources.md
 ├── CONTRIBUTING.md
 ├── CONTRIBUTORS_LIST.md
-├── COW
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   └── resources.md
 ├── Clojure
 │   ├── README.md
 │   ├── books.md
@@ -835,4 +829,4 @@
     ├── info.json
     └── resources.md
 
-202 directories, 633 files
+200 directories, 629 files
