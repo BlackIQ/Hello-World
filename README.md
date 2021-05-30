@@ -14,11 +14,11 @@ Also there is list of useful **Courses** and **Books** about the programming lan
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in This Repository: 98.
+Total Languages in This Repository: 99.
 
 Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://github.com/amireshoon)
 
-[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [V](#V) [W](#W) [Y](#Y) [Z](#Z) 
+[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [V](#V) [W](#W) [Y](#Y) [Z](#Z) [ق](#ق) 
 ### A
 
 ---
@@ -253,6 +253,13 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 ---
 
 - [Zig-lang](/Zig-lang) - Added By <img src="https://github.com/ali0gamer1.png?size=25" width="25" height="25" /> [Ali Arj](https://github.com/ali0gamer1)
+
+
+### ق
+
+---
+
+- [قلب](/قلب) - Added By <img src="https://github.com/nasser.png?size=25" width="25" height="25" /> [nasser](https://github.com/nasser)
 
 ## Thanks to everyone who helped this repo❤ :) 
 

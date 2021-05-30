@@ -46,6 +46,7 @@
 | [🌐 AppleScript](/AppleScript) |✅ Done! | [ℹ️ Add one!](/AppleScript/books.md) | [ℹ️ Add one!](/AppleScript/courses.md) | [ℹ️ Add one!](/AppleScript/resources.md) | 
 | [🌐 Algol](/Algol) |✅ Done! | [ℹ️ Add one!](/Algol/books.md) | [ℹ️ Add one!](/Algol/courses.md) | [ℹ️ Add one!](/Algol/resources.md) | 
 | [🌐 Abdal-Autoit](/Abdal-Autoit) |✅ Done! | [ℹ️ Add one!](/Abdal-Autoit/books.md) | [ℹ️ Add one!](/Abdal-Autoit/courses.md) | [ℹ️ Add one!](/Abdal-Autoit/resources.md) | 
+| [🌐 قلب](/قلب) |[ℹ️ Edit it!](/قلب/README.md) | [ℹ️ Add one!](/قلب/books.md) | [ℹ️ Add one!](/قلب/courses.md) | [ℹ️ Add one!](/قلب/resources.md) | 
 | [🌐 Vim-Script](/Vim-Script) |[ℹ️ Edit it!](/Vim-Script/README.md) | [ℹ️ Add one!](/Vim-Script/books.md) | [ℹ️ Add one!](/Vim-Script/courses.md) | [ℹ️ Add one!](/Vim-Script/resources.md) | 
 | [🌐 Typescript](/Typescript) |[ℹ️ Edit it!](/Typescript/README.md) | [ℹ️ Add one!](/Typescript/books.md) | [ℹ️ Add one!](/Typescript/courses.md) | [ℹ️ Add one!](/Typescript/resources.md) | 
 | [🌐 Tcl](/Tcl) |[ℹ️ Edit it!](/Tcl/README.md) | [ℹ️ Add one!](/Tcl/books.md) | [ℹ️ Add one!](/Tcl/courses.md) | [ℹ️ Add one!](/Tcl/resources.md) | 
