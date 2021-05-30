@@ -202,23 +202,12 @@
 │   │   └── Dart.dart
 │   ├── info.json
 │   └── resources.md
-├── Django
+├── Delphi
 │   ├── README.md
 │   ├── books.md
 │   ├── courses.md
 │   ├── examples
-│   │   └── helloworld
-│   │       ├── helloworld
-│   │       │   ├── asgi.py
-│   │       │   ├── settings.py
-│   │       │   ├── urls.py
-│   │       │   └── wsgi.py
-│   │       ├── home
-│   │       │   ├── apps.py
-│   │       │   ├── migrations
-│   │       │   ├── urls.py
-│   │       │   └── views.py
-│   │       └── manage.py
+│   │   └── HelloWorld.dpr
 │   ├── info.json
 │   └── resources.md
 ├── Docker
@@ -260,14 +249,6 @@
 │   ├── courses.md
 │   ├── examples
 │   │   └── Erlang.erl
-│   ├── info.json
-│   └── resources.md
-├── Flask-python-framework
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   │   └── app.py
 │   ├── info.json
 │   └── resources.md
 ├── Flutter
@@ -376,6 +357,14 @@
 │   ├── examples
 │   │   ├── Javascript.js
 │   │   └── jsf.js
+│   ├── info.json
+│   └── resources.md
+├── Jquery
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── Hello-world.js
 │   ├── info.json
 │   └── resources.md
 ├── Julia
@@ -494,6 +483,15 @@
 │   │   └── Nim.nim
 │   ├── info.json
 │   └── resources.md
+├── Not-English
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   ├── HelloWorld.ext
+│   │   └── guess_a_number.ext
+│   ├── info.json
+│   └── resources.md
 ├── OBJECTIVE-C
 │   ├── README.md
 │   ├── books.md
@@ -581,6 +579,14 @@
 │   │   └── Plus.plus
 │   ├── info.json
 │   └── resources.md
+├── Pony
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── hello.pony
+│   ├── info.json
+│   └── resources.md
 ├── PowerShell
 │   ├── README.md
 │   ├── books.md
@@ -604,7 +610,9 @@
 │   ├── examples
 │   │   ├── file.py
 │   │   ├── http_requests.py
+│   │   ├── os.py
 │   │   ├── python.py
+│   │   ├── tkinter.py
 │   │   ├── try_except.py
 │   │   └── variable.py
 │   ├── img
@@ -782,20 +790,24 @@
 │   │   └── helloworld.ws
 │   ├── info.json
 │   └── resources.md
+├── YO
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   ├── labra.yoda
+│   ├── resources.md
+│   ├── src
+│   │   └── main.yo
+│   └── target
+│       └── release
+│           └── YO.exe
 ├── Yacas
 │   ├── README.md
 │   ├── books.md
 │   ├── courses.md
 │   ├── examples
 │   │   └── hello-world.yts
-│   ├── info.json
-│   └── resources.md
-├── Yo
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   │   └── Yo.yo
 │   ├── info.json
 │   └── resources.md
 ├── Zig-lang
@@ -809,4 +821,4 @@
 ├── auto-gen.py
 └── tree.txt
 
-195 directories, 614 files
+198 directories, 623 files

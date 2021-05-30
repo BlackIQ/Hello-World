@@ -4,8 +4,8 @@
 | Name | Added languages |
 |------|-----------------|
 | [Amirhossein Meydani🏅](https://github.com/amireshoon)|11|
-| [shahriaarrr🏅](https://github.com/shahriaarrr)|7|
 | [Amirhossein Mohammadi🏅](https://github.com/BlackIQ)|6|
+| [shahriaarrr](https://github.com/shahriaarrr)|5|
 | [Faran Taghavi](https://github.com/F4R4N)|5|
 | [Saeed Bayat](https://github.com/01shadowalker01)|5|
 | [Ali Arj](https://github.com/ali0gamer1)|5|
@@ -17,6 +17,7 @@
 | [Amirmahdi Tafreshi](https://github.com/mr-tafreshi)|2|
 | [Mani Jamali](https://github.com/manijamali2003)|2|
 | [Amin Ghs](https://github.com/aminghs)|2|
+| [Peyman Majidi Moein](https://github.com/peymanmajidi)|2|
 | [Fahime Zivdar](https://github.com/Fahime-zv)|2|
 | [Sina Yeganeh Faal](https://github.com/SinaYeganeh0-0)|2|
 | [Elyas 'Eloy' Hadizadeh Tasbiti](https://github.com/elyashadizadeh)|2|
@@ -32,6 +33,7 @@
 | [Kourosh Alinaghi](https://github.com/KouroshAlinaghi)|1|
 | [Erfan Saberi](https://github.com/erfansaberi)|1|
 | [Amin Asadi](https://github.com/aminasadiam)|1|
+| [Masoud Nickparvar](https://github.com/masoudnick)|1|
 | [Ali Madihi](https://github.com/mrunderline)|1|
 | [AlirezabBashi98](https://github.com/alirezabashi98)|1|
 | [Mohammad Kadkhodaei](https://github.com/mohammadkad)|1|
@@ -39,6 +41,7 @@
 | [Alireza Jafari](https://github.com/alirezaja1384)|1|
 | [Mohammad Masoudi](https://github.com/mmasoudih)|1|
 | [Sato](https://github.com/satocoder)|1|
+| [Komeil Parseh](https://github.com/komeilparseh)|1|
 | [Hassan Mohammadi](https://github.com/HSNHK)|1|
 | [Reza Bojnordi](https://github.com/rezabojnordi)|1|
 | [Annahita Mirhosseini](https://github.com/Annahita2004)|1|
@@ -49,4 +52,3 @@
 | [Jadi Mirmirani](https://github.com/jadijadi)|1|
 | [Ali Naderi](https://github.com/khod-naderi)|1|
 | [AmirJEY](https://github.com/AmirJey)|1|
-| [Amir Hossein Kamandlou](https://github.com/Kamandlou)|1|

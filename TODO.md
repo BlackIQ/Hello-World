@@ -9,8 +9,8 @@
 |----------|--------|--------------------------|----------------------------|------------------------------|
 | [🌐 Php](/Php) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Php/courses.md) | ✅ Done! | 
 | [🌐 Zig-lang](/Zig-lang) |✅ Done! | [ℹ️ Add one!](/Zig-lang/books.md) | [ℹ️ Add one!](/Zig-lang/courses.md) | [ℹ️ Add one!](/Zig-lang/resources.md) | 
-| [🌐 Yo](/Yo) |✅ Done! | [ℹ️ Add one!](/Yo/books.md) | [ℹ️ Add one!](/Yo/courses.md) | [ℹ️ Add one!](/Yo/resources.md) | 
 | [🌐 Yacas](/Yacas) |✅ Done! | [ℹ️ Add one!](/Yacas/books.md) | [ℹ️ Add one!](/Yacas/courses.md) | [ℹ️ Add one!](/Yacas/resources.md) | 
+| [🌐 YO](/YO) |✅ Done! | [ℹ️ Add one!](/YO/books.md) | [ℹ️ Add one!](/YO/courses.md) | [ℹ️ Add one!](/YO/resources.md) | 
 | [🌐 Whitespace](/Whitespace) |✅ Done! | [ℹ️ Add one!](/Whitespace/books.md) | [ℹ️ Add one!](/Whitespace/courses.md) | [ℹ️ Add one!](/Whitespace/resources.md) | 
 | [🌐 Vala](/Vala) |✅ Done! | [ℹ️ Add one!](/Vala/books.md) | [ℹ️ Add one!](/Vala/courses.md) | [ℹ️ Add one!](/Vala/resources.md) | 
 | [🌐 VB](/VB) |✅ Done! | [ℹ️ Add one!](/VB/books.md) | [ℹ️ Add one!](/VB/courses.md) | [ℹ️ Add one!](/VB/resources.md) | 
@@ -18,14 +18,17 @@
 | [🌐 Rockstar](/Rockstar) |✅ Done! | [ℹ️ Add one!](/Rockstar/books.md) | [ℹ️ Add one!](/Rockstar/courses.md) | [ℹ️ Add one!](/Rockstar/resources.md) | 
 | [🌐 QBasic](/QBasic) |✅ Done! | [ℹ️ Add one!](/QBasic/books.md) | [ℹ️ Add one!](/QBasic/courses.md) | [ℹ️ Add one!](/QBasic/resources.md) | 
 | [🌐 Python](/Python) |✅ Done! | [ℹ️ Add one!](/Python/books.md) | [ℹ️ Add one!](/Python/courses.md) | [ℹ️ Add one!](/Python/resources.md) | 
+| [🌐 Pony](/Pony) |✅ Done! | [ℹ️ Add one!](/Pony/books.md) | [ℹ️ Add one!](/Pony/courses.md) | [ℹ️ Add one!](/Pony/resources.md) | 
 | [🌐 Piet](/Piet) |✅ Done! | [ℹ️ Add one!](/Piet/books.md) | [ℹ️ Add one!](/Piet/courses.md) | [ℹ️ Add one!](/Piet/resources.md) | 
 | [🌐 Pashmak](/Pashmak) |✅ Done! | [ℹ️ Add one!](/Pashmak/books.md) | [ℹ️ Add one!](/Pashmak/courses.md) | [ℹ️ Add one!](/Pashmak/resources.md) | 
+| [🌐 Not-English](/Not-English) |✅ Done! | [ℹ️ Add one!](/Not-English/books.md) | [ℹ️ Add one!](/Not-English/courses.md) | [ℹ️ Add one!](/Not-English/resources.md) | 
 | [🌐 Mql5](/Mql5) |✅ Done! | [ℹ️ Add one!](/Mql5/books.md) | [ℹ️ Add one!](/Mql5/courses.md) | [ℹ️ Add one!](/Mql5/resources.md) | 
 | [🌐 Mql4](/Mql4) |✅ Done! | [ℹ️ Add one!](/Mql4/books.md) | [ℹ️ Add one!](/Mql4/courses.md) | [ℹ️ Add one!](/Mql4/resources.md) | 
 | [🌐 LOLCODE](/LOLCODE) |✅ Done! | [ℹ️ Add one!](/LOLCODE/books.md) | [ℹ️ Add one!](/LOLCODE/courses.md) | [ℹ️ Add one!](/LOLCODE/resources.md) | 
 | [🌐 Ktor](/Ktor) |✅ Done! | [ℹ️ Add one!](/Ktor/books.md) | [ℹ️ Add one!](/Ktor/courses.md) | [ℹ️ Add one!](/Ktor/resources.md) | 
+| [🌐 Jquery](/Jquery) |✅ Done! | [ℹ️ Add one!](/Jquery/books.md) | [ℹ️ Add one!](/Jquery/courses.md) | [ℹ️ Add one!](/Jquery/resources.md) | 
 | [🌐 Go](/Go) |✅ Done! | [ℹ️ Add one!](/Go/books.md) | [ℹ️ Add one!](/Go/courses.md) | [ℹ️ Add one!](/Go/resources.md) | 
-| [🌐 Django](/Django) |✅ Done! | [ℹ️ Add one!](/Django/books.md) | [ℹ️ Add one!](/Django/courses.md) | [ℹ️ Add one!](/Django/resources.md) | 
+| [🌐 Delphi](/Delphi) |✅ Done! | [ℹ️ Add one!](/Delphi/books.md) | [ℹ️ Add one!](/Delphi/courses.md) | [ℹ️ Add one!](/Delphi/resources.md) | 
 | [🌐 Clojure](/Clojure) |✅ Done! | [ℹ️ Add one!](/Clojure/books.md) | [ℹ️ Add one!](/Clojure/courses.md) | [ℹ️ Add one!](/Clojure/resources.md) | 
 | [🌐 COBOL](/COBOL) |✅ Done! | [ℹ️ Add one!](/COBOL/books.md) | [ℹ️ Add one!](/COBOL/courses.md) | [ℹ️ Add one!](/COBOL/resources.md) | 
 | [🌐 C](/C) |✅ Done! | [ℹ️ Add one!](/C/books.md) | [ℹ️ Add one!](/C/courses.md) | [ℹ️ Add one!](/C/resources.md) | 
@@ -86,7 +89,6 @@
 | [🌐 Fsharp](/Fsharp) |[ℹ️ Edit it!](/Fsharp/README.md) | [ℹ️ Add one!](/Fsharp/books.md) | [ℹ️ Add one!](/Fsharp/courses.md) | [ℹ️ Add one!](/Fsharp/resources.md) | 
 | [🌐 Fortran](/Fortran) |[ℹ️ Edit it!](/Fortran/README.md) | [ℹ️ Add one!](/Fortran/books.md) | [ℹ️ Add one!](/Fortran/courses.md) | [ℹ️ Add one!](/Fortran/resources.md) | 
 | [🌐 Flutter](/Flutter) |[ℹ️ Edit it!](/Flutter/README.md) | [ℹ️ Add one!](/Flutter/books.md) | [ℹ️ Add one!](/Flutter/courses.md) | [ℹ️ Add one!](/Flutter/resources.md) | 
-| [🌐 Flask-python-framework](/Flask-python-framework) |[ℹ️ Edit it!](/Flask-python-framework/README.md) | [ℹ️ Add one!](/Flask-python-framework/books.md) | [ℹ️ Add one!](/Flask-python-framework/courses.md) | [ℹ️ Add one!](/Flask-python-framework/resources.md) | 
 | [🌐 Erlang](/Erlang) |[ℹ️ Edit it!](/Erlang/README.md) | [ℹ️ Add one!](/Erlang/books.md) | [ℹ️ Add one!](/Erlang/courses.md) | [ℹ️ Add one!](/Erlang/resources.md) | 
 | [🌐 Elm](/Elm) |[ℹ️ Edit it!](/Elm/README.md) | [ℹ️ Add one!](/Elm/books.md) | [ℹ️ Add one!](/Elm/courses.md) | [ℹ️ Add one!](/Elm/resources.md) | 
 | [🌐 Elixir](/Elixir) |[ℹ️ Edit it!](/Elixir/README.md) | [ℹ️ Add one!](/Elixir/books.md) | [ℹ️ Add one!](/Elixir/courses.md) | [ℹ️ Add one!](/Elixir/resources.md) | 

@@ -14,7 +14,7 @@ Also there is list of useful **Courses** and **Books** about the programming lan
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in This Repository: 95.
+Total Languages in This Repository: 97.
 
 Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://github.com/amireshoon)
 
@@ -66,7 +66,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 
 - [D](/D) - Added By <img src="https://github.com/sina-devel.png?size=25" width="25" height="25" /> [Sina](https://github.com/sina-devel)
 - [Dart](/Dart) - Added By <img src="https://github.com/xenups.png?size=25" width="25" height="25" /> [Amir Lesani](https://github.com/xenups)
-- [Django](/Django) - Added By <img src="https://github.com/shahriaarrr.png?size=25" width="25" height="25" /> [shahriar](https://github.com/shahriaarrr)
+- [Delphi](/Delphi) - Added By <img src="https://github.com/peymanmajidi.png?size=25" width="25" height="25" /> [Peyman Majidi Moein](https://github.com/peymanmajidi)
 - [Docker](/Docker) - Added By <img src="https://github.com/Ja7adR.png?size=25" width="25" height="25" /> [Javad Rajabzade](https://github.com/Ja7adR)
 
 
@@ -84,7 +84,6 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 
 ---
 
-- [Flask-python-framework](/Flask-python-framework) - Added By <img src="https://github.com/shahriaarrr.png?size=25" width="25" height="25" /> [shahriar](https://github.com/shahriaarrr)
 - [Flutter](/Flutter) - Added By <img src="https://github.com/shahriaarrr.png?size=25" width="25" height="25" /> [shahriar](https://github.com/shahriaarrr)
 - [Fortran](/Fortran) - Added By <img src="https://github.com/01shadowalker01.png?size=25" width="25" height="25" /> [Saeed Bayat](https://github.com/01shadowalker01)
 - [Fsharp](/Fsharp) - Added By <img src="https://github.com/shahriaarrr.png?size=25" width="25" height="25" /> [shahriar](https://github.com/shahriaarrr)
@@ -116,6 +115,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 
 - [Java](/Java) - Added By <img src="https://github.com/manijamali2003.png?size=25" width="25" height="25" /> [Mani Jamali](https://github.com/manijamali2003)
 - [JavaScript](/JavaScript) - Added By <img src="https://github.com/aminghs.png?size=25" width="25" height="25" /> [Amin Ghs](https://github.com/aminghs)
+- [Jquery](/Jquery) - Added By <img src="https://github.com/masoudnick.png?size=25" width="25" height="25" /> [Masoud Nickparvar](https://github.com/masoudnick)
 - [Julia](/Julia) - Added By <img src="https://github.com/mrunderline.png?size=25" width="25" height="25" /> [Ali Madihi](https://github.com/mrunderline)
 - [Jython](/Jython) - Added By <img src="https://github.com/01shadowalker01.png?size=25" width="25" height="25" /> [Saeed Bayat](https://github.com/01shadowalker01)
 
@@ -154,6 +154,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 
 - [Neko-VM](/Neko-VM) - Added By <img src="https://github.com/amireshoon.png?size=25" width="25" height="25" /> [Amirhossein Meydani](https://github.com/amireshoon)
 - [Nim](/Nim) - Added By <img src="https://github.com/alirezaja1384.png?size=25" width="25" height="25" /> [Alireza Jafari](https://github.com/alirezaja1384)
+- [Not-English](/Not-English) - Added By <img src="https://github.com/peymanmajidi.png?size=25" width="25" height="25" /> [Peyman Majidi Moein](https://github.com/peymanmajidi)
 
 
 ### O
@@ -176,6 +177,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 - [Php](/Php) - Added By <img src="https://github.com/ebad84.png?size=25" width="25" height="25" /> [Mohammad Reza Ebadollah](https://github.com/ebad84)
 - [Piet](/Piet) - Added By <img src="https://github.com/ali0gamer1.png?size=25" width="25" height="25" /> [Ali Arj](https://github.com/ali0gamer1)
 - [Plus](/Plus) - Added By <img src="https://github.com/amireshoon.png?size=25" width="25" height="25" /> [Amirhossein Meydani](https://github.com/amireshoon)
+- [Pony](/Pony) - Added By <img src="https://github.com/komeilparseh.png?size=25" width="25" height="25" /> [Komeil Parseh](https://github.com/komeilparseh)
 - [PowerShell](/PowerShell) - Added By <img src="https://github.com/F4R4N.png?size=25" width="25" height="25" /> [Faran Taghavi](https://github.com/F4R4N)
 - [Prolog](/Prolog) - Added By <img src="https://github.com/HSNHK.png?size=25" width="25" height="25" /> [Hassan Mohammadi](https://github.com/HSNHK)
 - [Python](/Python) - Added By <img src="https://github.com/rezabojnordi.png?size=25" width="25" height="25" /> [Reza Bojnordi](https://github.com/rezabojnordi)
@@ -241,8 +243,8 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 
 ---
 
+- [YO](/YO)
 - [Yacas](/Yacas) - Added By <img src="https://github.com/AmirJey.png?size=25" width="25" height="25" /> [AmirJEY](https://github.com/AmirJey)
-- [Yo](/Yo) - Added By <img src="https://github.com/Kamandlou.png?size=25" width="25" height="25" /> [Amir Hossein Kamandlou](https://github.com/Kamandlou)
 
 
 ### Z
