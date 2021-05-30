@@ -1,0 +1,1 @@
+قلب is a programming language by Ramsey Nasser. The name means Heart and is a recursive acronym for قلب: لغة برمجة meaning Heart: A Programming Language. Acronyms in Arabic are uncommon and difficult to pull off, and the author states that this is the first recursive one he has seen. It was created as an art installation.
