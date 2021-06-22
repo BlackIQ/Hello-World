@@ -23,6 +23,7 @@
 | [Elyas 'Eloy' Hadizadeh Tasbiti](https://github.com/elyashadizadeh)|2|
 | [Mahdi Abbaspour Shahmarasi](https://github.com/mahdi-abbaspour-shahmarasi)|2|
 | [Arian Ebrahimi](https://github.com/ribrea)|2|
+| [Komeil Parseh](https://github.com/komeilparseh)|2|
 | [Taha Farahani](https://github.com/tahacodes)|1|
 | [Sullivan(Epic-R-R)](https://github.com/Epic-R-R)|1|
 | [Saeed Nejati](https://github.com/saeednj)|1|
@@ -41,7 +42,6 @@
 | [Alireza Jafari](https://github.com/alirezaja1384)|1|
 | [Mohammad Masoudi](https://github.com/mmasoudih)|1|
 | [Sato](https://github.com/satocoder)|1|
-| [Komeil Parseh](https://github.com/komeilparseh)|1|
 | [Hassan Mohammadi](https://github.com/HSNHK)|1|
 | [Reza Bojnordi](https://github.com/rezabojnordi)|1|
 | [Annahita Mirhosseini](https://github.com/Annahita2004)|1|

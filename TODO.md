@@ -8,6 +8,7 @@
 | Language | Readme | Books (at least 2 items) | Courses (at least 2 items) | Resources (at least 2 items) |
 |----------|--------|--------------------------|----------------------------|------------------------------|
 | [🌐 Php](/Php) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Php/courses.md) | ✅ Done! | 
+| [🌐 فردوسی](/فردوسی) |✅ Done! | [ℹ️ Add one!](/فردوسی/books.md) | [ℹ️ Add one!](/فردوسی/courses.md) | [ℹ️ Add one!](/فردوسی/resources.md) | 
 | [🌐 Zig-lang](/Zig-lang) |✅ Done! | [ℹ️ Add one!](/Zig-lang/books.md) | [ℹ️ Add one!](/Zig-lang/courses.md) | [ℹ️ Add one!](/Zig-lang/resources.md) | 
 | [🌐 Yacas](/Yacas) |✅ Done! | [ℹ️ Add one!](/Yacas/books.md) | [ℹ️ Add one!](/Yacas/courses.md) | [ℹ️ Add one!](/Yacas/resources.md) | 
 | [🌐 YO](/YO) |✅ Done! | [ℹ️ Add one!](/YO/books.md) | [ℹ️ Add one!](/YO/courses.md) | [ℹ️ Add one!](/YO/resources.md) | 

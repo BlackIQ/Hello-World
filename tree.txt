@@ -827,6 +827,15 @@
 │   ├── examples
 │   └── resources.md
 ├── tree.txt
+├── فردوسی
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   ├── helloworld.fd
+│   │   └── if_else.fd
+│   ├── info.json
+│   └── resources.md
 └── قلب
     ├── README.md
     ├── books.md
@@ -836,4 +845,4 @@
     ├── info.json
     └── resources.md
 
-202 directories, 634 files
+204 directories, 641 files

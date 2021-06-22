@@ -14,11 +14,11 @@ Also there is list of useful **Courses** and **Books** about the programming lan
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in This Repository: 99.
+Total Languages in This Repository: 100.
 
 Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://github.com/amireshoon)
 
-[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [V](#V) [W](#W) [Y](#Y) [Z](#Z) [k](#k) [ق](#ق) 
+[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [V](#V) [W](#W) [Y](#Y) [Z](#Z) [k](#k) [ف](#ف) [ق](#ق) 
 ### A
 
 ---
@@ -259,6 +259,13 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 ---
 
 - [kotlin](/kotlin)
+
+
+### ف
+
+---
+
+- [فردوسی](/فردوسی) - Added By <img src="https://github.com/komeilparseh.png?size=25" width="25" height="25" /> [Komeil Parseh](https://github.com/komeilparseh)
 
 
 ### ق
