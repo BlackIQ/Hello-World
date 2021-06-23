@@ -1,2 +1,2 @@
 @echo off
-echo Hello wrold!
+echo Hello world!
