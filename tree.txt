@@ -773,6 +773,14 @@
 │   │   └── Vala.vala
 │   ├── info.json
 │   └── resources.md
+├── Verilog
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── Hello_World.v
+│   ├── info.json
+│   └── resources.md
 ├── Vim-Script
 │   ├── README.md
 │   ├── books.md
@@ -845,4 +853,4 @@
     ├── info.json
     └── resources.md
 
-204 directories, 641 files
+206 directories, 647 files

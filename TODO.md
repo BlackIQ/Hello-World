@@ -13,6 +13,7 @@
 | [🌐 Yacas](/Yacas) |✅ Done! | [ℹ️ Add one!](/Yacas/books.md) | [ℹ️ Add one!](/Yacas/courses.md) | [ℹ️ Add one!](/Yacas/resources.md) | 
 | [🌐 YO](/YO) |✅ Done! | [ℹ️ Add one!](/YO/books.md) | [ℹ️ Add one!](/YO/courses.md) | [ℹ️ Add one!](/YO/resources.md) | 
 | [🌐 Whitespace](/Whitespace) |✅ Done! | [ℹ️ Add one!](/Whitespace/books.md) | [ℹ️ Add one!](/Whitespace/courses.md) | [ℹ️ Add one!](/Whitespace/resources.md) | 
+| [🌐 Verilog](/Verilog) |✅ Done! | [ℹ️ Add one!](/Verilog/books.md) | [ℹ️ Add one!](/Verilog/courses.md) | [ℹ️ Add one!](/Verilog/resources.md) | 
 | [🌐 Vala](/Vala) |✅ Done! | [ℹ️ Add one!](/Vala/books.md) | [ℹ️ Add one!](/Vala/courses.md) | [ℹ️ Add one!](/Vala/resources.md) | 
 | [🌐 VB](/VB) |✅ Done! | [ℹ️ Add one!](/VB/books.md) | [ℹ️ Add one!](/VB/courses.md) | [ℹ️ Add one!](/VB/resources.md) | 
 | [🌐 V](/V) |✅ Done! | [ℹ️ Add one!](/V/books.md) | [ℹ️ Add one!](/V/courses.md) | [ℹ️ Add one!](/V/resources.md) | 
