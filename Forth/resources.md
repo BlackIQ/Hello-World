@@ -1,7 +1,4 @@
 # Useful Resources for Forth
+<a href="http://forth.org">forth website</a>
 
-forth website
-http://forth.org
-
-forth tutorials list
-http://forth.org/tutorials.html
+<a href="http://forth.org/tutorials.html">forth tutorials list</a>
