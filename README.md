@@ -14,7 +14,7 @@ Also there is list of useful **Courses** and **Books** about the programming lan
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in This Repository: 101.
+Total Languages in This Repository: 102.
 
 Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://github.com/amireshoon)
 
@@ -85,9 +85,9 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 ---
 
 - [Flutter](/Flutter) - Added By <img src="https://github.com/shahriaarrr.png?size=25" width="25" height="25" /> [shahriar](https://github.com/shahriaarrr)
+- [Forth](/Forth) - Added By <img src="https://github.com/sami2020pro/.png?size=25" width="25" height="25" /> [Sami Ghasemi](https://github.com/sami2020pro/)
 - [Fortran](/Fortran) - Added By <img src="https://github.com/01shadowalker01.png?size=25" width="25" height="25" /> [Saeed Bayat](https://github.com/01shadowalker01)
 - [Fsharp](/Fsharp) - Added By <img src="https://github.com/shahriaarrr.png?size=25" width="25" height="25" /> [shahriar](https://github.com/shahriaarrr)
-- [Forth](/Forth) - Added By <img src="https://github.com/sami2020pro.png?size=25" width="25" height="25" /> [Sami Ghasemi](https://github.com/sami2020pro)
 
 
 ### G
