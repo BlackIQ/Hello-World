@@ -7,5 +7,5 @@ In the sense that the syntax of most modern languages is "Algol-like", it was ar
 
 
 
-- [Wikipedia](https://en.wikipedia.org/wiki/ALGOL#:~:text=ALGOL%20(%2Fˈælɡ,languages%20originally%20developed%20in%201958.)
+- [Wikipedia](https://en.wikipedia.org/wiki/ALGOL#:~:text=ALGOL%20(%2Fˈælɡ,languages%20originally%20developed%20in%201958)
 - [Britannica](https://www.britannica.com/technology/ALGOL-computer-language)
