@@ -32,6 +32,13 @@
 | [🌐 Go](/Go) |✅ Done! | [ℹ️ Add one!](/Go/books.md) | [ℹ️ Add one!](/Go/courses.md) | [ℹ️ Add one!](/Go/resources.md) | 
 | [🌐 Forth](/Forth) |✅ Done! | [ℹ️ Add one!](/Forth/books.md) | [ℹ️ Add one!](/Forth/courses.md) | [ℹ️ Add one!](/Forth/resources.md) | 
 | [🌐 Delphi](/Delphi) |✅ Done! | [ℹ️ Add one!](/Delphi/books.md) | [ℹ️ Add one!](/Delphi/courses.md) | [ℹ️ Add one!](/Delphi/resources.md) | 
+| [🌐 Curl](/Curl) |✅ Done! | [ℹ️ Add one!](/Curl/books.md) | [ℹ️ Add one!](/Curl/courses.md) | [ℹ️ Add one!](/Curl/resources.md) | 
+| [🌐 Css](/Css) |✅ Done! | [ℹ️ Add one!](/Css/books.md) | [ℹ️ Add one!](/Css/courses.md) | [ℹ️ Add one!](/Css/resources.md) | 
+| [🌐 Csharp](/Csharp) |✅ Done! | [ℹ️ Add one!](/Csharp/books.md) | [ℹ️ Add one!](/Csharp/courses.md) | [ℹ️ Add one!](/Csharp/resources.md) | 
+| [🌐 Cpp](/Cpp) |✅ Done! | [ℹ️ Add one!](/Cpp/books.md) | [ℹ️ Add one!](/Cpp/courses.md) | [ℹ️ Add one!](/Cpp/resources.md) | 
+| [🌐 Cow](/Cow) |✅ Done! | [ℹ️ Add one!](/Cow/books.md) | [ℹ️ Add one!](/Cow/courses.md) | [ℹ️ Add one!](/Cow/resources.md) | 
+| [🌐 CoffeScript](/CoffeScript) |✅ Done! | [ℹ️ Add one!](/CoffeScript/books.md) | [ℹ️ Add one!](/CoffeScript/courses.md) | [ℹ️ Add one!](/CoffeScript/resources.md) | 
+| [🌐 Cobra](/Cobra) |✅ Done! | [ℹ️ Add one!](/Cobra/books.md) | [ℹ️ Add one!](/Cobra/courses.md) | [ℹ️ Add one!](/Cobra/resources.md) | 
 | [🌐 Clojure](/Clojure) |✅ Done! | [ℹ️ Add one!](/Clojure/books.md) | [ℹ️ Add one!](/Clojure/courses.md) | [ℹ️ Add one!](/Clojure/resources.md) | 
 | [🌐 COBOL](/COBOL) |✅ Done! | [ℹ️ Add one!](/COBOL/books.md) | [ℹ️ Add one!](/COBOL/courses.md) | [ℹ️ Add one!](/COBOL/resources.md) | 
 | [🌐 C](/C) |✅ Done! | [ℹ️ Add one!](/C/books.md) | [ℹ️ Add one!](/C/courses.md) | [ℹ️ Add one!](/C/resources.md) | 
@@ -101,10 +108,3 @@
 | [🌐 Docker](/Docker) |[ℹ️ Edit it!](/Docker/README.md) | [ℹ️ Add one!](/Docker/books.md) | [ℹ️ Add one!](/Docker/courses.md) | [ℹ️ Add one!](/Docker/resources.md) | 
 | [🌐 Dart](/Dart) |[ℹ️ Edit it!](/Dart/README.md) | [ℹ️ Add one!](/Dart/books.md) | [ℹ️ Add one!](/Dart/courses.md) | [ℹ️ Add one!](/Dart/resources.md) | 
 | [🌐 D](/D) |[ℹ️ Edit it!](/D/README.md) | [ℹ️ Add one!](/D/books.md) | [ℹ️ Add one!](/D/courses.md) | [ℹ️ Add one!](/D/resources.md) | 
-| [🌐 Curl](/Curl) |[ℹ️ Edit it!](/Curl/README.md) | [ℹ️ Add one!](/Curl/books.md) | [ℹ️ Add one!](/Curl/courses.md) | [ℹ️ Add one!](/Curl/resources.md) | 
-| [🌐 Css](/Css) |[ℹ️ Edit it!](/Css/README.md) | [ℹ️ Add one!](/Css/books.md) | [ℹ️ Add one!](/Css/courses.md) | [ℹ️ Add one!](/Css/resources.md) | 
-| [🌐 Csharp](/Csharp) |[ℹ️ Edit it!](/Csharp/README.md) | [ℹ️ Add one!](/Csharp/books.md) | [ℹ️ Add one!](/Csharp/courses.md) | [ℹ️ Add one!](/Csharp/resources.md) | 
-| [🌐 Cpp](/Cpp) |[ℹ️ Edit it!](/Cpp/README.md) | [ℹ️ Add one!](/Cpp/books.md) | [ℹ️ Add one!](/Cpp/courses.md) | [ℹ️ Add one!](/Cpp/resources.md) | 
-| [🌐 Cow](/Cow) |[ℹ️ Edit it!](/Cow/README.md) | [ℹ️ Add one!](/Cow/books.md) | [ℹ️ Add one!](/Cow/courses.md) | [ℹ️ Add one!](/Cow/resources.md) | 
-| [🌐 CoffeScript](/CoffeScript) |[ℹ️ Edit it!](/CoffeScript/README.md) | [ℹ️ Add one!](/CoffeScript/books.md) | [ℹ️ Add one!](/CoffeScript/courses.md) | [ℹ️ Add one!](/CoffeScript/resources.md) | 
-| [🌐 Cobra](/Cobra) |[ℹ️ Edit it!](/Cobra/README.md) | [ℹ️ Add one!](/Cobra/books.md) | [ℹ️ Add one!](/Cobra/courses.md) | [ℹ️ Add one!](/Cobra/resources.md) | 
