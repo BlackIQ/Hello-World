@@ -213,7 +213,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 - [Scss](/Scss) - Added By <img src="https://github.com/AzerothA.png?size=25" width="25" height="25" /> [AzerothA](https://github.com/AzerothA)
 - [Solidity](/Solidity) - Added By <img src="https://github.com/arman324.png?size=25" width="25" height="25" /> [Arman](https://github.com/arman324)
 - [Swift](/Swift) - Added By <img src="https://github.com/xenups.png?size=25" width="25" height="25" /> [Amir Lesani](https://github.com/xenups)
-
+- [Small-Basic](/Small-Basic) - Added By <img src="https://github.com/amirhosainshahsavari.png?size=25" width="25" height="25" /> [Amirhosain Shahsavari](https://github.com/amirhosainshahsavari)
 
 ### T
 
