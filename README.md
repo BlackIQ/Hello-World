@@ -24,6 +24,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 ---
 
 - [Abdal-Autoit](/Abdal-Autoit) - Added By <img src="https://github.com/shahriaarrr.png?size=25" width="25" height="25" /> [shahriaarrr](https://github.com/shahriaarrr)
+- [Ada](/Ada) - Added By <img src="https://github.com/amirhosainshahsavari.png?size=25" width="25" height="25" /> [Amirhosain Shahsavari](https://github.com/amirhosainshahsavari)
 - [Algol](/Algol) - Added By <img src="https://github.com/F4R4N.png?size=25" width="25" height="25" /> [Faran Taghavi](https://github.com/F4R4N)
 - [AppleScript](/AppleScript) - Added By <img src="https://github.com/F4R4N.png?size=25" width="25" height="25" /> [Faran Taghavi](https://github.com/F4R4N)
 - [Arduino](/Arduino) - Added By <img src="https://github.com/BlackIQ.png?size=25" width="25" height="25" /> [Amirhossein Mohammadi](https://github.com/BlackIQ)
