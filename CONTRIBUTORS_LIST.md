@@ -13,6 +13,7 @@
 | [Sami Ghasemi](https://github.com/sami2020pro)|3|
 | [Amir Lesani](https://github.com/xenups)|3|
 | [Javad Rajabzade](https://github.com/Ja7adR)|3|
+| [Amirhosain Shahsavari](https://github.com/amirhosainshahsavari)|2|
 | [Parsa](https://github.com/parsampsh)|2|
 | [Amirmahdi Tafreshi](https://github.com/mr-tafreshi)|2|
 | [Mani Jamali](https://github.com/manijamali2003)|2|
@@ -49,7 +50,6 @@
 | [Annahita Mirhosseini](https://github.com/Annahita2004)|1|
 | [Meysam P. Ganji](https://github.com/meysampg)|1|
 | [AzerothA](https://github.com/AzerothA)|1|
-| [Amirhosain Shahsavari](https://github.com/amirhosainshahsavari)|1|
 | [Arman](https://github.com/arman324)|1|
 | [Morteza Heydari](https://github.com/MortezaHeydari97)|1|
 | [Jadi Mirmirani](https://github.com/jadijadi)|1|

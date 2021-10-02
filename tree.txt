@@ -7,6 +7,15 @@
 │   │   └── hello.au3
 │   ├── info.json
 │   └── resources.md
+├── Ada
+│   ├── Examples
+│   │   └── helloworld.adb
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   ├── info.json
+│   └── resources.md
 ├── Algol
 │   ├── README.md
 │   ├── books.md
@@ -882,4 +891,4 @@
     ├── info.json
     └── resources.md
 
-212 directories, 670 files
+215 directories, 676 files
