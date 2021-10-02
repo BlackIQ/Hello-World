@@ -14,7 +14,7 @@ Also there is list of useful **Courses** and **Books** about the programming lan
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in This Repository: 103.
+Total Languages in This Repository: 104.
 
 Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://github.com/amireshoon)
 
@@ -165,6 +165,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 - [OBJECTIVE-C](/OBJECTIVE-C) - Added By <img src="https://github.com/shahriaarrr.png?size=25" width="25" height="25" /> [shahriar](https://github.com/shahriaarrr)
 - [OCaml](/OCaml) - Added By <img src="https://github.com/mmasoudih.png?size=25" width="25" height="25" /> [Mohammad Masoudi](https://github.com/mmasoudih)
 - [Octave](/Octave) - Added By <img src="https://github.com/satocoder.png?size=25" width="25" height="25" /> [Sato](https://github.com/satocoder)
+- [Odin-lang](/Odin-lang) - Added By <img src="https://github.com/amirghazi87.png?size=25" width="25" height="25" /> [Amirmohammad Ghazi](https://github.com/amirghazi87)
 - [Opa](/Opa) - Added By <img src="https://github.com/amireshoon.png?size=25" width="25" height="25" /> [Amirhossein Meydani](https://github.com/amireshoon)
 
 
