@@ -3,5 +3,6 @@
 This language is a compiler language and is currently being developed by Iranian programmers
 
 # Refrence
+A repository of this language will be available soon....
 
-[language's repository](https://github.com/YODevs/YO)
+[telegram channel](https://t.me/YO_Lang)
