@@ -31,6 +31,7 @@
 | [🌐 LOLCODE](/LOLCODE) |✅ Done! | [ℹ️ Add one!](/LOLCODE/books.md) | [ℹ️ Add one!](/LOLCODE/courses.md) | [ℹ️ Add one!](/LOLCODE/resources.md) | 
 | [🌐 Ktor](/Ktor) |✅ Done! | [ℹ️ Add one!](/Ktor/books.md) | [ℹ️ Add one!](/Ktor/courses.md) | [ℹ️ Add one!](/Ktor/resources.md) | 
 | [🌐 Jquery](/Jquery) |✅ Done! | [ℹ️ Add one!](/Jquery/books.md) | [ℹ️ Add one!](/Jquery/courses.md) | [ℹ️ Add one!](/Jquery/resources.md) | 
+| [🌐 JavaScript](/JavaScript) |✅ Done! | [ℹ️ Add one!](/JavaScript/books.md) | [ℹ️ Add one!](/JavaScript/courses.md) | [ℹ️ Add one!](/JavaScript/resources.md) | 
 | [🌐 Go](/Go) |✅ Done! | [ℹ️ Add one!](/Go/books.md) | [ℹ️ Add one!](/Go/courses.md) | [ℹ️ Add one!](/Go/resources.md) | 
 | [🌐 Forth](/Forth) |✅ Done! | [ℹ️ Add one!](/Forth/books.md) | [ℹ️ Add one!](/Forth/courses.md) | [ℹ️ Add one!](/Forth/resources.md) | 
 | [🌐 Delphi](/Delphi) |✅ Done! | [ℹ️ Add one!](/Delphi/books.md) | [ℹ️ Add one!](/Delphi/courses.md) | [ℹ️ Add one!](/Delphi/resources.md) | 
@@ -92,7 +93,6 @@
 | [🌐 Kotlin](/Kotlin) |[ℹ️ Edit it!](/Kotlin/README.md) | [ℹ️ Add one!](/Kotlin/books.md) | [ℹ️ Add one!](/Kotlin/courses.md) | [ℹ️ Add one!](/Kotlin/resources.md) | 
 | [🌐 Jython](/Jython) |[ℹ️ Edit it!](/Jython/README.md) | [ℹ️ Add one!](/Jython/books.md) | [ℹ️ Add one!](/Jython/courses.md) | [ℹ️ Add one!](/Jython/resources.md) | 
 | [🌐 Julia](/Julia) |[ℹ️ Edit it!](/Julia/README.md) | [ℹ️ Add one!](/Julia/books.md) | [ℹ️ Add one!](/Julia/courses.md) | [ℹ️ Add one!](/Julia/resources.md) | 
-| [🌐 JavaScript](/JavaScript) |[ℹ️ Edit it!](/JavaScript/README.md) | [ℹ️ Add one!](/JavaScript/books.md) | [ℹ️ Add one!](/JavaScript/courses.md) | [ℹ️ Add one!](/JavaScript/resources.md) | 
 | [🌐 Java](/Java) |[ℹ️ Edit it!](/Java/README.md) | [ℹ️ Add one!](/Java/books.md) | [ℹ️ Add one!](/Java/courses.md) | [ℹ️ Add one!](/Java/resources.md) | 
 | [🌐 Html](/Html) |[ℹ️ Edit it!](/Html/README.md) | [ℹ️ Add one!](/Html/books.md) | [ℹ️ Add one!](/Html/courses.md) | [ℹ️ Add one!](/Html/resources.md) | 
 | [🌐 Haxe](/Haxe) |[ℹ️ Edit it!](/Haxe/README.md) | [ℹ️ Add one!](/Haxe/books.md) | [ℹ️ Add one!](/Haxe/courses.md) | [ℹ️ Add one!](/Haxe/resources.md) | 
