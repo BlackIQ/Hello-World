@@ -1,6 +1,12 @@
 {
-    "creators": {
-        "title": "Amin Ghs",
-        "link": "https://github.com/aminghs"
-    }
+    "creators": [
+        {
+            "title": "Amin Ghs",
+            "link": "https://github.com/aminghs"
+        }, 
+        {
+            "title": "Muthusamy K",
+            "link": "https://github.com/KMuthusamyms"
+        }
+    ]
 }
