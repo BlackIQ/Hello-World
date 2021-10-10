@@ -94,7 +94,7 @@
 | [🌐 Kotlin](/Kotlin) |[ℹ️ Edit it!](/Kotlin/README.md) | [ℹ️ Add one!](/Kotlin/books.md) | [ℹ️ Add one!](/Kotlin/courses.md) | [ℹ️ Add one!](/Kotlin/resources.md) | 
 | [🌐 Jython](/Jython) |[ℹ️ Edit it!](/Jython/README.md) | [ℹ️ Add one!](/Jython/books.md) | [ℹ️ Add one!](/Jython/courses.md) | [ℹ️ Add one!](/Jython/resources.md) | 
 | [🌐 Julia](/Julia) |[ℹ️ Edit it!](/Julia/README.md) | [ℹ️ Add one!](/Julia/books.md) | [ℹ️ Add one!](/Julia/courses.md) | [ℹ️ Add one!](/Julia/resources.md) | 
-| [🌐 Java](/Java) |[ℹ️ Edit it!](/Java/README.md) | [ℹ️ Add one!](/Java/books.md) | [ℹ️ Add one!](/Java/courses.md) | [ℹ️ Add one!](/Java/resources.md) | 
+| [🌐 Java](/Java) |[ℹ️ Edit it!](/Java/README.md) | [ℹ️ Add one!](/Java/books.md) | [✅ Done!](/Java/courses.md) | [✅ Done!](/Java/resources.md) | 
 | [🌐 Html](/Html) |[ℹ️ Edit it!](/Html/README.md) | [ℹ️ Add one!](/Html/books.md) | [ℹ️ Add one!](/Html/courses.md) | [ℹ️ Add one!](/Html/resources.md) | 
 | [🌐 Haxe](/Haxe) |[ℹ️ Edit it!](/Haxe/README.md) | [ℹ️ Add one!](/Haxe/books.md) | [ℹ️ Add one!](/Haxe/courses.md) | [ℹ️ Add one!](/Haxe/resources.md) | 
 | [🌐 Haskell](/Haskell) |[ℹ️ Edit it!](/Haskell/README.md) | [ℹ️ Add one!](/Haskell/books.md) | [ℹ️ Add one!](/Haskell/courses.md) | [ℹ️ Add one!](/Haskell/resources.md) | 
