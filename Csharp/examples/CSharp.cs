@@ -10,6 +10,9 @@ namespace HelloWorld
             /*System.Console.WriteLine("Hello World!");
             can be used if you don't set up
             'using System;' at top of file*/
+
+            // Include this line to keep the console from closing right after printing "Hello World!"
+            Console.ReadLine();
         }
     }
 }
