@@ -39,6 +39,7 @@
 | [🌐 Curl](/Curl) |✅ Done! | [ℹ️ Add one!](/Curl/books.md) | [ℹ️ Add one!](/Curl/courses.md) | [ℹ️ Add one!](/Curl/resources.md) | 
 | [🌐 Css](/Css) |✅ Done! | [ℹ️ Add one!](/Css/books.md) | [ℹ️ Add one!](/Css/courses.md) | [ℹ️ Add one!](/Css/resources.md) | 
 | [🌐 Csharp](/Csharp) |✅ Done! | [ℹ️ Add one!](/Csharp/books.md) | [ℹ️ Add one!](/Csharp/courses.md) | [ℹ️ Add one!](/Csharp/resources.md) | 
+| [🌐 Crystal](/Crystal) |✅ Done! | [ℹ️ Add one!](/Crystal/books.md) | [ℹ️ Add one!](/Crystal/courses.md) | [ℹ️ Add one!](/Crystal/resources.md) | 
 | [🌐 Cpp](/Cpp) |✅ Done! | [ℹ️ Add one!](/Cpp/books.md) | [ℹ️ Add one!](/Cpp/courses.md) | [ℹ️ Add one!](/Cpp/resources.md) | 
 | [🌐 Cow](/Cow) |✅ Done! | [ℹ️ Add one!](/Cow/books.md) | [ℹ️ Add one!](/Cow/courses.md) | [ℹ️ Add one!](/Cow/resources.md) | 
 | [🌐 CoffeScript](/CoffeScript) |✅ Done! | [ℹ️ Add one!](/CoffeScript/books.md) | [ℹ️ Add one!](/CoffeScript/courses.md) | [ℹ️ Add one!](/CoffeScript/resources.md) | 

@@ -14,7 +14,7 @@ Also there is list of useful **Courses** and **Books** about the programming lan
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in This Repository: 107.
+Total Languages in This Repository: 108.
 
 Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://github.com/amireshoon)
 
@@ -57,6 +57,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 - [CoffeScript](/CoffeScript) - Added By <img src="https://github.com/mehanalavimajd.png?size=25" width="25" height="25" /> [Mehen](https://github.com/mehanalavimajd)
 - [Cow](/Cow) - Added By <img src="https://github.com/01shadowalker01.png?size=25" width="25" height="25" /> [Saeed Bayat](https://github.com/01shadowalker01)
 - [Cpp](/Cpp) - Added By <img src="https://github.com/manijamali2003.png?size=25" width="25" height="25" /> [Mani Jamali](https://github.com/manijamali2003)
+- [Crystal](/Crystal) - Added By <img src="https://github.com/varous7.png?size=25" width="25" height="25" /> [Sourav Ghosh](https://github.com/varous7)
 - [Csharp](/Csharp) - Added By <img src="https://github.com/BlackIQ.png?size=25" width="25" height="25" /> [Amirhossein Mohammadi](https://github.com/BlackIQ)
 - [Css](/Css) - Added By <img src="https://github.com/aminghs.png?size=25" width="25" height="25" /> [Amin Ghs](https://github.com/aminghs)
 - [Curl](/Curl) - Added By <img src="https://github.com/amireshoon.png?size=25" width="25" height="25" /> [Amirhossein Meydani](https://github.com/amireshoon)

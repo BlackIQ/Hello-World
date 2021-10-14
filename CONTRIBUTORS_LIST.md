@@ -17,6 +17,7 @@
 | [Parsa](https://github.com/parsampsh)|2|
 | [Amirmahdi Tafreshi](https://github.com/mr-tafreshi)|2|
 | [Mani Jamali](https://github.com/manijamali2003)|2|
+| [Sourav Ghosh](https://github.com/varous7)|2|
 | [Amin Ghs](https://github.com/aminghs)|2|
 | [Peyman Majidi Moein](https://github.com/peymanmajidi)|2|
 | [Fahime Zivdar](https://github.com/Fahime-zv)|2|
@@ -52,7 +53,6 @@
 | [Annahita Mirhosseini](https://github.com/Annahita2004)|1|
 | [Meysam P. Ganji](https://github.com/meysampg)|1|
 | [AzerothA](https://github.com/AzerothA)|1|
-| [Sourav Ghosh](https://github.com/varous7)|1|
 | [Arman](https://github.com/arman324)|1|
 | [Morteza Heydari](https://github.com/MortezaHeydari97)|1|
 | [Jadi Mirmirani](https://github.com/jadijadi)|1|
