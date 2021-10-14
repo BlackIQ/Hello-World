@@ -14,7 +14,7 @@ Also there is list of useful **Courses** and **Books** about the programming lan
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in This Repository: 106.
+Total Languages in This Repository: 107.
 
 Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://github.com/amireshoon)
 
@@ -23,6 +23,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 
 ---
 
+- [ABC](/ABC) - Added By <img src="https://github.com/briangor.png?size=25" width="25" height="25" /> [Brian Gor](https://github.com/briangor)
 - [Abdal-Autoit](/Abdal-Autoit) - Added By <img src="https://github.com/shahriaarrr.png?size=25" width="25" height="25" /> [shahriaarrr](https://github.com/shahriaarrr)
 - [Ada](/Ada) - Added By <img src="https://github.com/amirhosainshahsavari.png?size=25" width="25" height="25" /> [Amirhosain Shahsavari](https://github.com/amirhosainshahsavari)
 - [Algol](/Algol) - Added By <img src="https://github.com/F4R4N.png?size=25" width="25" height="25" /> [Faran Taghavi](https://github.com/F4R4N)
