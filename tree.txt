@@ -240,7 +240,28 @@
 │   │   ├── 13-comments.dart
 │   │   ├── 14-variables-2.dart
 │   │   ├── 15-variables-3.dart
-│   │   └── tests.dart
+│   │   ├── 16-variables-4.dart
+│   │   ├── 17-condition-1.dart
+│   │   ├── 18-loop-1.dart
+│   │   ├── 19-loop-2.dart
+│   │   ├── 20-loop-3.dart
+│   │   ├── 21-condition-2.dart
+│   │   ├── 22-enum-1.dart
+│   │   ├── 23-std-1.dart
+│   │   ├── 24-random.dart
+│   │   ├── 25-enum-2.dart
+│   │   ├── 26-lists-1.dart
+│   │   ├── 27-lists-2.dart
+│   │   ├── 28-lists-3.dart
+│   │   ├── 29-set-1.dart
+│   │   ├── 30-set-2.dart
+│   │   ├── 31-map-1.dart
+│   │   ├── 32-map-2.dart
+│   │   ├── 33-collections-operators-1.dart
+│   │   ├── 34-collections-operators-2.dart
+│   │   ├── 35-collections-operators-3.dart
+│   │   └── apps
+│   │       └── 01-rock_paper_scissors.dart
 │   ├── info.json
 │   └── resources.md
 ├── Delphi
@@ -935,4 +956,4 @@
     ├── info.json
     └── resources.md
 
-221 directories, 714 files
+222 directories, 734 files
