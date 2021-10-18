@@ -14,7 +14,7 @@ Also there is list of useful **Courses** and **Books** about the programming lan
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in This Repository: 108.
+Total Languages in This Repository: 109.
 
 Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://github.com/amireshoon)
 
@@ -52,6 +52,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 
 - [C](/C) - Added By <img src="https://github.com/moheb2000.png?size=25" width="25" height="25" /> [Mohammad Ebrahime](https://github.com/moheb2000)
 - [COBOL](/COBOL) - Added By <img src="https://github.com/sami2020pro.png?size=25" width="25" height="25" /> [Sami Ghasemi](https://github.com/sami2020pro)
+- [Clipper](/Clipper) - Added By <img src="https://github.com/s0v13tl3m0n.png?size=25" width="25" height="25" /> [s0v13tl3m0n](https://github.com/s0v13tl3m0n)
 - [Clojure](/Clojure) - Added By <img src="https://github.com/Mildroid.png?size=25" width="25" height="25" /> [Milad Ahmadi](https://github.com/Mildroid)
 - [Cobra](/Cobra) - Added By <img src="https://github.com/amireshoon.png?size=25" width="25" height="25" /> [Amirhossein Meydani](https://github.com/amireshoon)
 - [CoffeScript](/CoffeScript) - Added By <img src="https://github.com/mehanalavimajd.png?size=25" width="25" height="25" /> [Mehen](https://github.com/mehanalavimajd)

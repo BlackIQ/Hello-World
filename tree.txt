@@ -138,6 +138,14 @@
 │   └── resources.md
 ├── CONTRIBUTING.md
 ├── CONTRIBUTORS_LIST.md
+├── Clipper
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── hello_world.prg
+│   ├── info.json
+│   └── resources.md
 ├── Clojure
 │   ├── README.md
 │   ├── books.md
@@ -956,4 +964,4 @@
     ├── info.json
     └── resources.md
 
-222 directories, 734 files
+224 directories, 740 files

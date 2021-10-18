@@ -45,6 +45,7 @@
 | [🌐 CoffeScript](/CoffeScript) |✅ Done! | [ℹ️ Add one!](/CoffeScript/books.md) | [ℹ️ Add one!](/CoffeScript/courses.md) | [ℹ️ Add one!](/CoffeScript/resources.md) | 
 | [🌐 Cobra](/Cobra) |✅ Done! | [ℹ️ Add one!](/Cobra/books.md) | [ℹ️ Add one!](/Cobra/courses.md) | [ℹ️ Add one!](/Cobra/resources.md) | 
 | [🌐 Clojure](/Clojure) |✅ Done! | [ℹ️ Add one!](/Clojure/books.md) | [ℹ️ Add one!](/Clojure/courses.md) | [ℹ️ Add one!](/Clojure/resources.md) | 
+| [🌐 Clipper](/Clipper) |✅ Done! | [ℹ️ Add one!](/Clipper/books.md) | [ℹ️ Add one!](/Clipper/courses.md) | [ℹ️ Add one!](/Clipper/resources.md) | 
 | [🌐 COBOL](/COBOL) |✅ Done! | [ℹ️ Add one!](/COBOL/books.md) | [ℹ️ Add one!](/COBOL/courses.md) | [ℹ️ Add one!](/COBOL/resources.md) | 
 | [🌐 C](/C) |✅ Done! | [ℹ️ Add one!](/C/books.md) | [ℹ️ Add one!](/C/courses.md) | [ℹ️ Add one!](/C/resources.md) | 
 | [🌐 Brainfuck](/Brainfuck) |✅ Done! | [ℹ️ Add one!](/Brainfuck/books.md) | [ℹ️ Add one!](/Brainfuck/courses.md) | [ℹ️ Add one!](/Brainfuck/resources.md) | 

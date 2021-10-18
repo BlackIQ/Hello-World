@@ -31,6 +31,7 @@
 | [Sullivan(Epic-R-R)](https://github.com/Epic-R-R)|1|
 | [Saeed Nejati](https://github.com/saeednj)|1|
 | [Mohammad Ebrahime](https://github.com/moheb2000)|1|
+| [s0v13tl3m0n](https://github.com/s0v13tl3m0n)|1|
 | [Milad Ahmadi](https://github.com/Mildroid)|1|
 | [Mehen](https://github.com/mehanalavimajd)|1|
 | [Sina](https://github.com/sina-devel)|1|
