@@ -236,6 +236,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 
 - [V](/V) - Added By <img src="https://github.com/jadijadi.png?size=25" width="25" height="25" /> [Jadi Mirmirani](https://github.com/jadijadi)
 - [VB](/VB) - Added By <img src="https://github.com/khod-naderi.png?size=25" width="25" height="25" /> [Ali Naderi](https://github.com/khod-naderi)
+- [VBScript](/VBScript) - Added By <img src="https://github.com/santhitak.png?size=25" width="25" height="25" /> [Santhita Krajangwongpaisan](https://github.com/santhitak)
 - [Vala](/Vala) - Added By <img src="https://github.com/amireshoon.png?size=25" width="25" height="25" /> [Amirhossein Meydani](https://github.com/amireshoon)
 - [Verilog](/Verilog) - Added By <img src="https://github.com/SM2A.png?size=25" width="25" height="25" /> [Seyed Mohammad Amin Atyabi](https://github.com/SM2A)
 - [Vim-Script](/Vim-Script) - Added By <img src="https://github.com/amireshoon.png?size=25" width="25" height="25" /> [Amirhossein Meydani](https://github.com/amireshoon)
