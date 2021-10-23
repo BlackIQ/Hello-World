@@ -877,6 +877,15 @@
 │   │   └── main.vb
 │   ├── info.json
 │   └── resources.md
+├── VBScript
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── example
+│   │   └── VBScript.vbs
+│   ├── examples
+│   ├── info.json
+│   └── resources.md
 ├── Vala
 │   ├── README.md
 │   ├── books.md
@@ -965,4 +974,4 @@
     ├── info.json
     └── resources.md
 
-224 directories, 741 files
+227 directories, 747 files
