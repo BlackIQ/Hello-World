@@ -30,6 +30,7 @@
 | [🌐 Not-English](/Not-English) |✅ Done! | [ℹ️ Add one!](/Not-English/books.md) | [ℹ️ Add one!](/Not-English/courses.md) | [ℹ️ Add one!](/Not-English/resources.md) | 
 | [🌐 Mql5](/Mql5) |✅ Done! | [ℹ️ Add one!](/Mql5/books.md) | [ℹ️ Add one!](/Mql5/courses.md) | [ℹ️ Add one!](/Mql5/resources.md) | 
 | [🌐 Mql4](/Mql4) |✅ Done! | [ℹ️ Add one!](/Mql4/books.md) | [ℹ️ Add one!](/Mql4/courses.md) | [ℹ️ Add one!](/Mql4/resources.md) | 
+| [🌐 LaTeX](/LaTeX) |✅ Done! | [ℹ️ Add one!](/LaTeX/books.md) | [ℹ️ Add one!](/LaTeX/courses.md) | [ℹ️ Add one!](/LaTeX/resources.md) | 
 | [🌐 LOLCODE](/LOLCODE) |✅ Done! | [ℹ️ Add one!](/LOLCODE/books.md) | [ℹ️ Add one!](/LOLCODE/courses.md) | [ℹ️ Add one!](/LOLCODE/resources.md) | 
 | [🌐 Ktor](/Ktor) |✅ Done! | [ℹ️ Add one!](/Ktor/books.md) | [ℹ️ Add one!](/Ktor/courses.md) | [ℹ️ Add one!](/Ktor/resources.md) | 
 | [🌐 Jquery](/Jquery) |✅ Done! | [ℹ️ Add one!](/Jquery/books.md) | [ℹ️ Add one!](/Jquery/courses.md) | [ℹ️ Add one!](/Jquery/resources.md) | 

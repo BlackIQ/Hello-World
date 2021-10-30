@@ -487,6 +487,13 @@
 │   │   └── HelloWorld.lol
 │   ├── info.json
 │   └── resources.md
+├── LaTeX
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   ├── hello.tex
+│   └── resources.md
 ├── Lisp
 │   ├── README.md
 │   ├── books.md
@@ -974,4 +981,4 @@
     ├── info.json
     └── resources.md
 
-227 directories, 747 files
+229 directories, 752 files
