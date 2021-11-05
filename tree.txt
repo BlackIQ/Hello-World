@@ -389,6 +389,14 @@
 │   │   └── Hack.hh
 │   ├── info.json
 │   └── resources.md
+├── Hascal
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── Hascal.has
+│   ├── info.json
+│   └── resources.md
 ├── Hashemi
 │   ├── README.md
 │   ├── books.md
@@ -981,4 +989,4 @@
     ├── info.json
     └── resources.md
 
-229 directories, 752 files
+231 directories, 758 files
