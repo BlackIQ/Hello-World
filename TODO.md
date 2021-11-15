@@ -20,6 +20,7 @@
 | [🌐 V](/V) |✅ Done! | [ℹ️ Add one!](/V/books.md) | [ℹ️ Add one!](/V/courses.md) | [ℹ️ Add one!](/V/resources.md) | 
 | [🌐 Small-Basic](/Small-Basic) |✅ Done! | [ℹ️ Add one!](/Small-Basic/books.md) | [ℹ️ Add one!](/Small-Basic/courses.md) | [ℹ️ Add one!](/Small-Basic/resources.md) | 
 | [🌐 ShellScript](/ShellScript) |✅ Done! | [ℹ️ Add one!](/ShellScript/books.md) | [ℹ️ Add one!](/ShellScript/courses.md) | [ℹ️ Add one!](/ShellScript/resources.md) | 
+| [🌐 Rust](/Rust) |✅ Done! | [ℹ️ Add one!](/Rust/books.md) | [ℹ️ Add one!](/Rust/courses.md) | [ℹ️ Add one!](/Rust/resources.md) | 
 | [🌐 Rockstar](/Rockstar) |✅ Done! | [ℹ️ Add one!](/Rockstar/books.md) | [ℹ️ Add one!](/Rockstar/courses.md) | [ℹ️ Add one!](/Rockstar/resources.md) | 
 | [🌐 QBasic](/QBasic) |✅ Done! | [ℹ️ Add one!](/QBasic/books.md) | [ℹ️ Add one!](/QBasic/courses.md) | [ℹ️ Add one!](/QBasic/resources.md) | 
 | [🌐 Python](/Python) |✅ Done! | [ℹ️ Add one!](/Python/books.md) | [ℹ️ Add one!](/Python/courses.md) | [ℹ️ Add one!](/Python/resources.md) | 
@@ -77,7 +78,6 @@
 | [🌐 Scratch](/Scratch) |[ℹ️ Edit it!](/Scratch/README.md) | [ℹ️ Add one!](/Scratch/books.md) | [ℹ️ Add one!](/Scratch/courses.md) | [ℹ️ Add one!](/Scratch/resources.md) | 
 | [🌐 Scheme](/Scheme) |[ℹ️ Edit it!](/Scheme/README.md) | [ℹ️ Add one!](/Scheme/books.md) | [ℹ️ Add one!](/Scheme/courses.md) | [ℹ️ Add one!](/Scheme/resources.md) | 
 | [🌐 SQL](/SQL) |[ℹ️ Edit it!](/SQL/README.md) | [ℹ️ Add one!](/SQL/books.md) | [ℹ️ Add one!](/SQL/courses.md) | [ℹ️ Add one!](/SQL/resources.md) | 
-| [🌐 Rust](/Rust) |[ℹ️ Edit it!](/Rust/README.md) | [ℹ️ Add one!](/Rust/books.md) | [ℹ️ Add one!](/Rust/courses.md) | [ℹ️ Add one!](/Rust/resources.md) | 
 | [🌐 Ruby](/Ruby) |[ℹ️ Edit it!](/Ruby/README.md) | [ℹ️ Add one!](/Ruby/books.md) | [ℹ️ Add one!](/Ruby/courses.md) | [ℹ️ Add one!](/Ruby/resources.md) | 
 | [🌐 Red](/Red) |[ℹ️ Edit it!](/Red/README.md) | [ℹ️ Add one!](/Red/books.md) | [ℹ️ Add one!](/Red/courses.md) | [ℹ️ Add one!](/Red/resources.md) | 
 | [🌐 R](/R) |[ℹ️ Edit it!](/R/README.md) | [ℹ️ Add one!](/R/books.md) | [ℹ️ Add one!](/R/courses.md) | [ℹ️ Add one!](/R/resources.md) | 
