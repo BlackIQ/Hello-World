@@ -1,1 +1,1 @@
-# Useful Tutorial courses for kotlin
+# Useful Tutorial courses for Kotlin
