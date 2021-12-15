@@ -27,6 +27,7 @@
 | [Arian Ebrahimi](https://github.com/ribrea)|2|
 | [Komeil Parseh](https://github.com/komeilparseh)|2|
 | [Brian Gor](https://github.com/briangor)|1|
+| [Sajad Rahimi](https://github.com/SajadRahimi1)|1|
 | [Taha Farahani](https://github.com/tahacodes)|1|
 | [Sullivan(Epic-R-R)](https://github.com/Epic-R-R)|1|
 | [Saeed Nejati](https://github.com/saeednj)|1|

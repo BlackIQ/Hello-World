@@ -63,6 +63,7 @@
 | [🌐 Assembly](/Assembly) |✅ Done! | [ℹ️ Add one!](/Assembly/books.md) | [ℹ️ Add one!](/Assembly/courses.md) | [ℹ️ Add one!](/Assembly/resources.md) | 
 | [🌐 Arduino](/Arduino) |✅ Done! | [ℹ️ Add one!](/Arduino/books.md) | [ℹ️ Add one!](/Arduino/courses.md) | [ℹ️ Add one!](/Arduino/resources.md) | 
 | [🌐 AppleScript](/AppleScript) |✅ Done! | [ℹ️ Add one!](/AppleScript/books.md) | [ℹ️ Add one!](/AppleScript/courses.md) | [ℹ️ Add one!](/AppleScript/resources.md) | 
+| [🌐 Angular.js](/Angular.js) |✅ Done! | [ℹ️ Add one!](/Angular.js/books.md) | [ℹ️ Add one!](/Angular.js/courses.md) | [ℹ️ Add one!](/Angular.js/resources.md) | 
 | [🌐 Algol](/Algol) |✅ Done! | [ℹ️ Add one!](/Algol/books.md) | [ℹ️ Add one!](/Algol/courses.md) | [ℹ️ Add one!](/Algol/resources.md) | 
 | [🌐 Ada](/Ada) |✅ Done! | [ℹ️ Add one!](/Ada/books.md) | [ℹ️ Add one!](/Ada/courses.md) | [ℹ️ Add one!](/Ada/resources.md) | 
 | [🌐 Abdal-Autoit](/Abdal-Autoit) |✅ Done! | [ℹ️ Add one!](/Abdal-Autoit/books.md) | [ℹ️ Add one!](/Abdal-Autoit/courses.md) | [ℹ️ Add one!](/Abdal-Autoit/resources.md) | 
