@@ -756,6 +756,14 @@
 │   ├── info.json
 │   └── resources.md
 ├── README.md
+├── React
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── index.js
+│   ├── info.json
+│   └── resources.md
 ├── Red
 │   ├── README.md
 │   ├── books.md
@@ -991,10 +999,6 @@
 └── قلب
     ├── README.md
     ├── books.md
-    ├── courses.md
-    ├── examples
-    │   └── hello.alb
-    ├── info.json
-    └── resources.md
+... length_limit, 1000, reached, counted:
 
-233 directories, 764 files
+234 directories, 766 files

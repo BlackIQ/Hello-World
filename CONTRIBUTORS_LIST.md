@@ -14,6 +14,7 @@
 | [Amir Lesani](https://github.com/xenups)|3|
 | [Javad Rajabzade](https://github.com/Ja7adR)|3|
 | [Amirhosain Shahsavari](https://github.com/amirhosainshahsavari)|2|
+| [Sajad Rahimi](https://github.com/SajadRahimi1)|2|
 | [Parsa](https://github.com/parsampsh)|2|
 | [Amirmahdi Tafreshi](https://github.com/mr-tafreshi)|2|
 | [Mani Jamali](https://github.com/manijamali2003)|2|
@@ -27,7 +28,6 @@
 | [Arian Ebrahimi](https://github.com/ribrea)|2|
 | [Komeil Parseh](https://github.com/komeilparseh)|2|
 | [Brian Gor](https://github.com/briangor)|1|
-| [Sajad Rahimi](https://github.com/SajadRahimi1)|1|
 | [Taha Farahani](https://github.com/tahacodes)|1|
 | [Sullivan(Epic-R-R)](https://github.com/Epic-R-R)|1|
 | [Saeed Nejati](https://github.com/saeednj)|1|
