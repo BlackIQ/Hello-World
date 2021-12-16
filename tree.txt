@@ -764,6 +764,14 @@
 │   │   └── index.js
 │   ├── info.json
 │   └── resources.md
+├── React-Native
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── index.js
+│   ├── info.json
+│   └── resources.md
 ├── Red
 │   ├── README.md
 │   ├── books.md
@@ -991,14 +999,6 @@
 │   ├── README.md
 │   ├── books.md
 │   ├── courses.md
-│   ├── examples
-│   │   ├── helloworld.fd
-│   │   └── if_else.fd
-│   ├── info.json
-│   └── resources.md
-└── قلب
-    ├── README.md
-    ├── books.md
 ... length_limit, 1000, reached, counted:
 
 234 directories, 766 files
