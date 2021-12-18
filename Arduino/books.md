@@ -1,1 +1,4 @@
 # Useful Books for Arduino
+- [Programming Arduino: Getting Started with Sketches](https://www.amazon.com/Programming-Arduino-Getting-Started-Sketches-ebook-dp-B01FJ24SZG/dp/B01FJ24SZG/ref=mt_other?_encoding=UTF8&me=&qid=1639823018)
+- [Arduino Cookbook: Recipes to Begin, Expand, and Enhance Your Projects](https://www.amazon.com/Arduino-Cookbook-Recipes-Enhance-Projects/dp/149190352X/ref=sr_1_3?keywords=Arduino+book&qid=1639823018&sr=8-3)
+- [Arduino Workshop: A Hands-On Introduction with 65 Projects](https://www.amazon.com/Arduino-Workshop-Hands-Introduction-Projects/dp/1593274483/ref=sr_1_7?keywords=Arduino+book&qid=1639823018&sr=8-7)
