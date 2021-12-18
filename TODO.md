@@ -7,9 +7,9 @@
 
 | Language | Readme | Books (at least 2 items) | Courses (at least 2 items) | Resources (at least 2 items) |
 |----------|--------|--------------------------|----------------------------|------------------------------|
-| [🌐 Php](/Php) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Php/courses.md) | ✅ Done! | 
-| [🌐 Rust](/Rust) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Rust/courses.md) | [ℹ️ Add one!](/Rust/resources.md) | 
-| [🌐 Python](/Python) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Python/courses.md) | [ℹ️ Add one!](/Python/resources.md) | 
+| [🌐 Rust](/Rust) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Rust/courses.md) | ✅ Done! | 
+| [🌐 Go](/Go) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Go/courses.md) | [ℹ️ Add one!](/Go/resources.md) | 
+| [🌐 Arduino](/Arduino) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Arduino/courses.md) | [ℹ️ Add one!](/Arduino/resources.md) | 
 | [🌐 فردوسی](/فردوسی) |✅ Done! | [ℹ️ Add one!](/فردوسی/books.md) | [ℹ️ Add one!](/فردوسی/courses.md) | [ℹ️ Add one!](/فردوسی/resources.md) | 
 | [🌐 Zig-lang](/Zig-lang) |✅ Done! | [ℹ️ Add one!](/Zig-lang/books.md) | [ℹ️ Add one!](/Zig-lang/courses.md) | [ℹ️ Add one!](/Zig-lang/resources.md) | 
 | [🌐 Yacas](/Yacas) |✅ Done! | [ℹ️ Add one!](/Yacas/books.md) | [ℹ️ Add one!](/Yacas/courses.md) | [ℹ️ Add one!](/Yacas/resources.md) | 
@@ -38,7 +38,6 @@
 | [🌐 Jquery](/Jquery) |✅ Done! | [ℹ️ Add one!](/Jquery/books.md) | [ℹ️ Add one!](/Jquery/courses.md) | [ℹ️ Add one!](/Jquery/resources.md) | 
 | [🌐 JavaScript](/JavaScript) |✅ Done! | [ℹ️ Add one!](/JavaScript/books.md) | [ℹ️ Add one!](/JavaScript/courses.md) | [ℹ️ Add one!](/JavaScript/resources.md) | 
 | [🌐 Hascal](/Hascal) |✅ Done! | [ℹ️ Add one!](/Hascal/books.md) | [ℹ️ Add one!](/Hascal/courses.md) | [ℹ️ Add one!](/Hascal/resources.md) | 
-| [🌐 Go](/Go) |✅ Done! | [ℹ️ Add one!](/Go/books.md) | [ℹ️ Add one!](/Go/courses.md) | [ℹ️ Add one!](/Go/resources.md) | 
 | [🌐 Forth](/Forth) |✅ Done! | [ℹ️ Add one!](/Forth/books.md) | [ℹ️ Add one!](/Forth/courses.md) | [ℹ️ Add one!](/Forth/resources.md) | 
 | [🌐 Delphi](/Delphi) |✅ Done! | [ℹ️ Add one!](/Delphi/books.md) | [ℹ️ Add one!](/Delphi/courses.md) | [ℹ️ Add one!](/Delphi/resources.md) | 
 | [🌐 Curl](/Curl) |✅ Done! | [ℹ️ Add one!](/Curl/books.md) | [ℹ️ Add one!](/Curl/courses.md) | [ℹ️ Add one!](/Curl/resources.md) | 
@@ -62,7 +61,6 @@
 | [🌐 B](/B) |✅ Done! | [ℹ️ Add one!](/B/books.md) | [ℹ️ Add one!](/B/courses.md) | [ℹ️ Add one!](/B/resources.md) | 
 | [🌐 Awk](/Awk) |✅ Done! | [ℹ️ Add one!](/Awk/books.md) | [ℹ️ Add one!](/Awk/courses.md) | [ℹ️ Add one!](/Awk/resources.md) | 
 | [🌐 Assembly](/Assembly) |✅ Done! | [ℹ️ Add one!](/Assembly/books.md) | [ℹ️ Add one!](/Assembly/courses.md) | [ℹ️ Add one!](/Assembly/resources.md) | 
-| [🌐 Arduino](/Arduino) |✅ Done! | [ℹ️ Add one!](/Arduino/books.md) | [ℹ️ Add one!](/Arduino/courses.md) | [ℹ️ Add one!](/Arduino/resources.md) | 
 | [🌐 AppleScript](/AppleScript) |✅ Done! | [ℹ️ Add one!](/AppleScript/books.md) | [ℹ️ Add one!](/AppleScript/courses.md) | [ℹ️ Add one!](/AppleScript/resources.md) | 
 | [🌐 Angular.js](/Angular.js) |✅ Done! | [ℹ️ Add one!](/Angular.js/books.md) | [ℹ️ Add one!](/Angular.js/courses.md) | [ℹ️ Add one!](/Angular.js/resources.md) | 
 | [🌐 Algol](/Algol) |✅ Done! | [ℹ️ Add one!](/Algol/books.md) | [ℹ️ Add one!](/Algol/courses.md) | [ℹ️ Add one!](/Algol/resources.md) | 
