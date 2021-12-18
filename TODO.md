@@ -8,6 +8,8 @@
 | Language | Readme | Books (at least 2 items) | Courses (at least 2 items) | Resources (at least 2 items) |
 |----------|--------|--------------------------|----------------------------|------------------------------|
 | [🌐 Php](/Php) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Php/courses.md) | ✅ Done! | 
+| [🌐 Rust](/Rust) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Rust/courses.md) | [ℹ️ Add one!](/Rust/resources.md) | 
+| [🌐 Python](/Python) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Python/courses.md) | [ℹ️ Add one!](/Python/resources.md) | 
 | [🌐 فردوسی](/فردوسی) |✅ Done! | [ℹ️ Add one!](/فردوسی/books.md) | [ℹ️ Add one!](/فردوسی/courses.md) | [ℹ️ Add one!](/فردوسی/resources.md) | 
 | [🌐 Zig-lang](/Zig-lang) |✅ Done! | [ℹ️ Add one!](/Zig-lang/books.md) | [ℹ️ Add one!](/Zig-lang/courses.md) | [ℹ️ Add one!](/Zig-lang/resources.md) | 
 | [🌐 Yacas](/Yacas) |✅ Done! | [ℹ️ Add one!](/Yacas/books.md) | [ℹ️ Add one!](/Yacas/courses.md) | [ℹ️ Add one!](/Yacas/resources.md) | 
@@ -20,11 +22,9 @@
 | [🌐 V](/V) |✅ Done! | [ℹ️ Add one!](/V/books.md) | [ℹ️ Add one!](/V/courses.md) | [ℹ️ Add one!](/V/resources.md) | 
 | [🌐 Small-Basic](/Small-Basic) |✅ Done! | [ℹ️ Add one!](/Small-Basic/books.md) | [ℹ️ Add one!](/Small-Basic/courses.md) | [ℹ️ Add one!](/Small-Basic/resources.md) | 
 | [🌐 ShellScript](/ShellScript) |✅ Done! | [ℹ️ Add one!](/ShellScript/books.md) | [ℹ️ Add one!](/ShellScript/courses.md) | [ℹ️ Add one!](/ShellScript/resources.md) | 
-| [🌐 Rust](/Rust) |✅ Done! | [ℹ️ Add one!](/Rust/books.md) | [ℹ️ Add one!](/Rust/courses.md) | [ℹ️ Add one!](/Rust/resources.md) | 
 | [🌐 Rockstar](/Rockstar) |✅ Done! | [ℹ️ Add one!](/Rockstar/books.md) | [ℹ️ Add one!](/Rockstar/courses.md) | [ℹ️ Add one!](/Rockstar/resources.md) | 
 | [🌐 React-Native](/React-Native) |✅ Done! | [ℹ️ Add one!](/React-Native/books.md) | [ℹ️ Add one!](/React-Native/courses.md) | [ℹ️ Add one!](/React-Native/resources.md) | 
 | [🌐 QBasic](/QBasic) |✅ Done! | [ℹ️ Add one!](/QBasic/books.md) | [ℹ️ Add one!](/QBasic/courses.md) | [ℹ️ Add one!](/QBasic/resources.md) | 
-| [🌐 Python](/Python) |✅ Done! | [ℹ️ Add one!](/Python/books.md) | [ℹ️ Add one!](/Python/courses.md) | [ℹ️ Add one!](/Python/resources.md) | 
 | [🌐 Pony](/Pony) |✅ Done! | [ℹ️ Add one!](/Pony/books.md) | [ℹ️ Add one!](/Pony/courses.md) | [ℹ️ Add one!](/Pony/resources.md) | 
 | [🌐 Piet](/Piet) |✅ Done! | [ℹ️ Add one!](/Piet/books.md) | [ℹ️ Add one!](/Piet/courses.md) | [ℹ️ Add one!](/Piet/resources.md) | 
 | [🌐 Pashmak](/Pashmak) |✅ Done! | [ℹ️ Add one!](/Pashmak/books.md) | [ℹ️ Add one!](/Pashmak/courses.md) | [ℹ️ Add one!](/Pashmak/resources.md) | 
