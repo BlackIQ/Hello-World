@@ -40,6 +40,7 @@
 | [🌐 Hascal](/Hascal) |✅ Done! | [ℹ️ Add one!](/Hascal/books.md) | [ℹ️ Add one!](/Hascal/courses.md) | [ℹ️ Add one!](/Hascal/resources.md) | 
 | [🌐 Forth](/Forth) |✅ Done! | [ℹ️ Add one!](/Forth/books.md) | [ℹ️ Add one!](/Forth/courses.md) | [ℹ️ Add one!](/Forth/resources.md) | 
 | [🌐 Flask](/Flask) |✅ Done! | [ℹ️ Add one!](/Flask/books.md) | [ℹ️ Add one!](/Flask/courses.md) | [ℹ️ Add one!](/Flask/resources.md) | 
+| [🌐 Django](/Django) |✅ Done! | [ℹ️ Add one!](/Django/books.md) | [ℹ️ Add one!](/Django/courses.md) | [ℹ️ Add one!](/Django/resources.md) | 
 | [🌐 Delphi](/Delphi) |✅ Done! | [ℹ️ Add one!](/Delphi/books.md) | [ℹ️ Add one!](/Delphi/courses.md) | [ℹ️ Add one!](/Delphi/resources.md) | 
 | [🌐 Curl](/Curl) |✅ Done! | [ℹ️ Add one!](/Curl/books.md) | [ℹ️ Add one!](/Curl/courses.md) | [ℹ️ Add one!](/Curl/resources.md) | 
 | [🌐 Css](/Css) |✅ Done! | [ℹ️ Add one!](/Css/books.md) | [ℹ️ Add one!](/Css/courses.md) | [ℹ️ Add one!](/Css/resources.md) | 

@@ -296,6 +296,14 @@
 │   │   └── HelloWorld.dpr
 │   ├── info.json
 │   └── resources.md
+├── Django
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── Django.py
+│   ├── info.json
+│   └── resources.md
 ├── Docker
 │   ├── README.md
 │   ├── books.md
@@ -987,14 +995,6 @@
 │       └── release
 │           └── YO.exe
 ├── Yacas
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   │   └── hello-world.yts
-│   ├── info.json
-│   └── resources.md
-├── Zig-lang
 │   ├── README.md
 │   ├── books.md
 │   ├── courses.md

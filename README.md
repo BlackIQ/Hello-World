@@ -14,7 +14,7 @@ Also there is list of useful **Courses** and **Books** about the programming lan
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in This Repository: 117.
+Total Languages in This Repository: 118.
 
 Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://github.com/amireshoon)
 
@@ -73,6 +73,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 - [D](/D) - Added By <img src="https://github.com/sina-devel.png?size=25" width="25" height="25" /> [Sina](https://github.com/sina-devel)
 - [Dart](/Dart) - Added By <img src="https://github.com/xenups.png?size=25" width="25" height="25" /> [Amir Lesani](https://github.com/xenups),  <img src="https://github.com/BlackIQ.png?size=25" width="25" height="25" /> [Amirhossein Mohammadi](https://github.com/BlackIQ)
 - [Delphi](/Delphi) - Added By <img src="https://github.com/peymanmajidi.png?size=25" width="25" height="25" /> [Peyman Majidi Moein](https://github.com/peymanmajidi)
+- [Django](/Django) - Added By <img src="https://github.com/SajadRahimi1.png?size=25" width="25" height="25" /> [Sajad Rahimi](https://github.com/SajadRahimi1)
 - [Docker](/Docker) - Added By <img src="https://github.com/Ja7adR.png?size=25" width="25" height="25" /> [Javad Rajabzade](https://github.com/Ja7adR)
 
 
