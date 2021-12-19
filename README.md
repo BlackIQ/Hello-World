@@ -14,7 +14,7 @@ Also there is list of useful **Courses** and **Books** about the programming lan
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in This Repository: 115.
+Total Languages in This Repository: 117.
 
 Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://github.com/amireshoon)
 
@@ -44,6 +44,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 - [Batch](/Batch) - Added By <img src="https://github.com/ebad84.png?size=25" width="25" height="25" /> [Mohammad Reza Ebadollah](https://github.com/ebad84)
 - [Befunge](/Befunge) - Added By <img src="https://github.com/saeednj.png?size=25" width="25" height="25" /> [Saeed Nejati](https://github.com/saeednj)
 - [Binary](/Binary) - Added By <img src="https://github.com/F4R4N.png?size=25" width="25" height="25" /> [Faran Taghavi](https://github.com/F4R4N)
+- [Blender](/Blender) - Added By <img src="https://github.com/SajadRahimi1.png?size=25" width="25" height="25" /> [Sajad Rahimi](https://github.com/SajadRahimi1)
 - [Brainfuck](/Brainfuck) - Added By <img src="https://github.com/mr-tafreshi.png?size=25" width="25" height="25" /> [Amirmahdi Tafreshi](https://github.com/mr-tafreshi)
 
 
@@ -89,6 +90,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 
 ---
 
+- [Flask](/Flask) - Added By <img src="https://github.com/SajadRahimi1.png?size=25" width="25" height="25" /> [Sajad Rahimi](https://github.com/SajadRahimi1)
 - [Flutter](/Flutter) - Added By <img src="https://github.com/shahriaarrr.png?size=25" width="25" height="25" /> [shahriar](https://github.com/shahriaarrr)
 - [Forth](/Forth) - Added By <img src="https://github.com/sami2020pro/.png?size=25" width="25" height="25" /> [Sami Ghasemi](https://github.com/sami2020pro/)
 - [Fortran](/Fortran) - Added By <img src="https://github.com/01shadowalker01.png?size=25" width="25" height="25" /> [Saeed Bayat](https://github.com/01shadowalker01)

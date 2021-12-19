@@ -39,6 +39,7 @@
 | [🌐 JavaScript](/JavaScript) |✅ Done! | [ℹ️ Add one!](/JavaScript/books.md) | [ℹ️ Add one!](/JavaScript/courses.md) | [ℹ️ Add one!](/JavaScript/resources.md) | 
 | [🌐 Hascal](/Hascal) |✅ Done! | [ℹ️ Add one!](/Hascal/books.md) | [ℹ️ Add one!](/Hascal/courses.md) | [ℹ️ Add one!](/Hascal/resources.md) | 
 | [🌐 Forth](/Forth) |✅ Done! | [ℹ️ Add one!](/Forth/books.md) | [ℹ️ Add one!](/Forth/courses.md) | [ℹ️ Add one!](/Forth/resources.md) | 
+| [🌐 Flask](/Flask) |✅ Done! | [ℹ️ Add one!](/Flask/books.md) | [ℹ️ Add one!](/Flask/courses.md) | [ℹ️ Add one!](/Flask/resources.md) | 
 | [🌐 Delphi](/Delphi) |✅ Done! | [ℹ️ Add one!](/Delphi/books.md) | [ℹ️ Add one!](/Delphi/courses.md) | [ℹ️ Add one!](/Delphi/resources.md) | 
 | [🌐 Curl](/Curl) |✅ Done! | [ℹ️ Add one!](/Curl/books.md) | [ℹ️ Add one!](/Curl/courses.md) | [ℹ️ Add one!](/Curl/resources.md) | 
 | [🌐 Css](/Css) |✅ Done! | [ℹ️ Add one!](/Css/books.md) | [ℹ️ Add one!](/Css/courses.md) | [ℹ️ Add one!](/Css/resources.md) | 
@@ -53,6 +54,7 @@
 | [🌐 COBOL](/COBOL) |✅ Done! | [ℹ️ Add one!](/COBOL/books.md) | [ℹ️ Add one!](/COBOL/courses.md) | [ℹ️ Add one!](/COBOL/resources.md) | 
 | [🌐 C](/C) |✅ Done! | [ℹ️ Add one!](/C/books.md) | [ℹ️ Add one!](/C/courses.md) | [ℹ️ Add one!](/C/resources.md) | 
 | [🌐 Brainfuck](/Brainfuck) |✅ Done! | [ℹ️ Add one!](/Brainfuck/books.md) | [ℹ️ Add one!](/Brainfuck/courses.md) | [ℹ️ Add one!](/Brainfuck/resources.md) | 
+| [🌐 Blender](/Blender) |✅ Done! | [ℹ️ Add one!](/Blender/books.md) | [ℹ️ Add one!](/Blender/courses.md) | [ℹ️ Add one!](/Blender/resources.md) | 
 | [🌐 Binary](/Binary) |✅ Done! | [ℹ️ Add one!](/Binary/books.md) | [ℹ️ Add one!](/Binary/courses.md) | [ℹ️ Add one!](/Binary/resources.md) | 
 | [🌐 Befunge](/Befunge) |✅ Done! | [ℹ️ Add one!](/Befunge/books.md) | [ℹ️ Add one!](/Befunge/courses.md) | [ℹ️ Add one!](/Befunge/resources.md) | 
 | [🌐 Batch](/Batch) |✅ Done! | [ℹ️ Add one!](/Batch/books.md) | [ℹ️ Add one!](/Batch/courses.md) | [ℹ️ Add one!](/Batch/resources.md) | 

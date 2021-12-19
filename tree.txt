@@ -120,6 +120,14 @@
 │   │   └── Binary.bin
 │   ├── info.json
 │   └── resources.md
+├── Blender
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── Blender.py
+│   ├── info.json
+│   └── resources.md
 ├── Brainfuck
 │   ├── README.md
 │   ├── books.md
@@ -327,6 +335,14 @@
 │   ├── courses.md
 │   ├── examples
 │   │   └── Erlang.erl
+│   ├── info.json
+│   └── resources.md
+├── Flask
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── Flask.py
 │   ├── info.json
 │   └── resources.md
 ├── Flutter
@@ -983,22 +999,6 @@
 │   ├── books.md
 │   ├── courses.md
 │   ├── examples
-│   │   └── helloworld.zig
-│   ├── info.json
-│   └── resources.md
-├── auto-gen.py
-├── kotlin
-│   ├── HellooWorld.kt
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   └── resources.md
-├── tree.txt
-├── فردوسی
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
 ... length_limit, 1000, reached, counted:
 
-234 directories, 766 files
+235 directories, 765 files
