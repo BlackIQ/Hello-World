@@ -4,8 +4,8 @@
 | Name | Added languages |
 |------|-----------------|
 | [Amirhossein Meydani🏅](https://github.com/amireshoon)|11|
+| [Sajad Rahimi🏅](https://github.com/SajadRahimi1)|7|
 | [Amirhossein Mohammadi🏅](https://github.com/BlackIQ)|7|
-| [Sajad Rahimi🏅](https://github.com/SajadRahimi1)|6|
 | [shahriaarrr](https://github.com/shahriaarrr)|5|
 | [Faran Taghavi](https://github.com/F4R4N)|5|
 | [Saeed Bayat](https://github.com/01shadowalker01)|5|

@@ -345,6 +345,14 @@
 │   │   └── Erlang.erl
 │   ├── info.json
 │   └── resources.md
+├── Fastapi
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── Fastapi.py
+│   ├── info.json
+│   └── resources.md
 ├── Flask
 │   ├── README.md
 │   ├── books.md
@@ -991,14 +999,6 @@
 │   ├── resources.md
 │   ├── src
 │   │   └── main.yo
-│   └── target
-│       └── release
-│           └── YO.exe
-├── Yacas
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
 ... length_limit, 1000, reached, counted:
 
-235 directories, 765 files
+233 directories, 767 files
