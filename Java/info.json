@@ -1,6 +1,12 @@
 {
-    "creators": {
-        "title": "Mani Jamali",
-        "link": "https://github.com/manijamali2003"
-    }
+	"creators": [
+		{
+			"title": "Mani Jamali",
+			"link": "https://github.com/manijamali2003"
+		},
+		{
+			"title": "Seyed Mohammad Amin Atyabi",
+			"link": "https://github.com/SM2A"
+		}
+	]
 }
