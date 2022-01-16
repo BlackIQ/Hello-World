@@ -14,6 +14,7 @@
 | [Sami Ghasemi](https://github.com/sami2020pro)|3|
 | [Amir Lesani](https://github.com/xenups)|3|
 | [Javad Rajabzade](https://github.com/Ja7adR)|3|
+| [Seyed Mohammad Amin Atyabi](https://github.com/SM2A)|3|
 | [Amirhosain Shahsavari](https://github.com/amirhosainshahsavari)|2|
 | [Parsa](https://github.com/parsampsh)|2|
 | [Amirmahdi Tafreshi](https://github.com/mr-tafreshi)|2|
@@ -61,6 +62,5 @@
 | [Jadi Mirmirani](https://github.com/jadijadi)|1|
 | [Ali Naderi](https://github.com/khod-naderi)|1|
 | [Santhita Krajangwongpaisan](https://github.com/santhitak)|1|
-| [Seyed Mohammad Amin Atyabi](https://github.com/SM2A)|1|
 | [AmirJEY](https://github.com/AmirJey)|1|
 | [Hadi Azarnasab](https://github.com/Hadi7546)|1|

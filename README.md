@@ -124,7 +124,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 
 ---
 
-- [Java](/Java) - Added By <img src="https://github.com/manijamali2003.png?size=25" width="25" height="25" /> [Mani Jamali](https://github.com/manijamali2003)
+- [Java](/Java) - Added By <img src="https://github.com/manijamali2003.png?size=25" width="25" height="25" /> [Mani Jamali](https://github.com/manijamali2003),  <img src="https://github.com/SM2A.png?size=25" width="25" height="25" /> [Seyed Mohammad Amin Atyabi](https://github.com/SM2A)
 - [JavaScript](/JavaScript) - Added By <img src="https://github.com/aminghs.png?size=25" width="25" height="25" /> [Amin Ghs](https://github.com/aminghs),  <img src="https://github.com/KMuthusamyms.png?size=25" width="25" height="25" /> [Muthusamy K](https://github.com/KMuthusamyms)
 - [Jquery](/Jquery) - Added By <img src="https://github.com/masoudnick.png?size=25" width="25" height="25" /> [Masoud Nickparvar](https://github.com/masoudnick)
 - [Julia](/Julia) - Added By <img src="https://github.com/mrunderline.png?size=25" width="25" height="25" /> [Ali Madihi](https://github.com/mrunderline)
@@ -135,7 +135,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 
 ---
 
-- [Kotlin](/Kotlin) - Added By <img src="https://github.com/BlackIQ.png?size=25" width="25" height="25" /> [Amirhossein Mohammadi](https://github.com/BlackIQ)
+- [Kotlin](/Kotlin) - Added By <img src="https://github.com/BlackIQ.png?size=25" width="25" height="25" /> [Amirhossein Mohammadi](https://github.com/BlackIQ),  <img src="https://github.com/SM2A.png?size=25" width="25" height="25" /> [Seyed Mohammad Amin Atyabi](https://github.com/SM2A)
 - [Ktor](/Ktor) - Added By <img src="https://github.com/alirezabashi98.png?size=25" width="25" height="25" /> [AlirezabBashi98](https://github.com/alirezabashi98)
 
 

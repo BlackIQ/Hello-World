@@ -7,6 +7,7 @@
 
 | Language | Readme | Books (at least 2 items) | Courses (at least 2 items) | Resources (at least 2 items) |
 |----------|--------|--------------------------|----------------------------|------------------------------|
+| [🌐 kotlin](/kotlin) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/kotlin/courses.md) | [ℹ️ Add one!](/kotlin/resources.md) | 
 | [🌐 Go](/Go) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Go/courses.md) | [ℹ️ Add one!](/Go/resources.md) | 
 | [🌐 Fastapi](/Fastapi) |✅ Done! | [ℹ️ Add one!](/Fastapi/books.md) | ✅ Done! | [ℹ️ Add one!](/Fastapi/resources.md) | 
 | [🌐 Arduino](/Arduino) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Arduino/courses.md) | [ℹ️ Add one!](/Arduino/resources.md) | 
@@ -37,6 +38,7 @@
 | [🌐 Ktor](/Ktor) |✅ Done! | [ℹ️ Add one!](/Ktor/books.md) | [ℹ️ Add one!](/Ktor/courses.md) | [ℹ️ Add one!](/Ktor/resources.md) | 
 | [🌐 Jquery](/Jquery) |✅ Done! | [ℹ️ Add one!](/Jquery/books.md) | [ℹ️ Add one!](/Jquery/courses.md) | [ℹ️ Add one!](/Jquery/resources.md) | 
 | [🌐 JavaScript](/JavaScript) |✅ Done! | [ℹ️ Add one!](/JavaScript/books.md) | [ℹ️ Add one!](/JavaScript/courses.md) | [ℹ️ Add one!](/JavaScript/resources.md) | 
+| [🌐 Java](/Java) |✅ Done! | [ℹ️ Add one!](/Java/books.md) | [ℹ️ Add one!](/Java/courses.md) | [ℹ️ Add one!](/Java/resources.md) | 
 | [🌐 Hascal](/Hascal) |✅ Done! | [ℹ️ Add one!](/Hascal/books.md) | [ℹ️ Add one!](/Hascal/courses.md) | [ℹ️ Add one!](/Hascal/resources.md) | 
 | [🌐 Forth](/Forth) |✅ Done! | [ℹ️ Add one!](/Forth/books.md) | [ℹ️ Add one!](/Forth/courses.md) | [ℹ️ Add one!](/Forth/resources.md) | 
 | [🌐 Flask](/Flask) |✅ Done! | [ℹ️ Add one!](/Flask/books.md) | [ℹ️ Add one!](/Flask/courses.md) | [ℹ️ Add one!](/Flask/resources.md) | 
@@ -71,7 +73,6 @@
 | [🌐 Abdal-Autoit](/Abdal-Autoit) |✅ Done! | [ℹ️ Add one!](/Abdal-Autoit/books.md) | [ℹ️ Add one!](/Abdal-Autoit/courses.md) | [ℹ️ Add one!](/Abdal-Autoit/resources.md) | 
 | [🌐 ABC](/ABC) |✅ Done! | [ℹ️ Add one!](/ABC/books.md) | [ℹ️ Add one!](/ABC/courses.md) | [ℹ️ Add one!](/ABC/resources.md) | 
 | [🌐 قلب](/قلب) |[ℹ️ Edit it!](/قلب/README.md) | [ℹ️ Add one!](/قلب/books.md) | [ℹ️ Add one!](/قلب/courses.md) | [ℹ️ Add one!](/قلب/resources.md) | 
-| [🌐 kotlin](/kotlin) |[ℹ️ Edit it!](/kotlin/README.md) | [ℹ️ Add one!](/kotlin/books.md) | [ℹ️ Add one!](/kotlin/courses.md) | [ℹ️ Add one!](/kotlin/resources.md) | 
 | [🌐 Vim-Script](/Vim-Script) |[ℹ️ Edit it!](/Vim-Script/README.md) | [ℹ️ Add one!](/Vim-Script/books.md) | [ℹ️ Add one!](/Vim-Script/courses.md) | [ℹ️ Add one!](/Vim-Script/resources.md) | 
 | [🌐 Typescript](/Typescript) |[ℹ️ Edit it!](/Typescript/README.md) | [ℹ️ Add one!](/Typescript/books.md) | [ℹ️ Add one!](/Typescript/courses.md) | [ℹ️ Add one!](/Typescript/resources.md) | 
 | [🌐 Tcl](/Tcl) |[ℹ️ Edit it!](/Tcl/README.md) | [ℹ️ Add one!](/Tcl/books.md) | [ℹ️ Add one!](/Tcl/courses.md) | [ℹ️ Add one!](/Tcl/resources.md) | 
@@ -103,7 +104,6 @@
 | [🌐 Kotlin](/Kotlin) |[ℹ️ Edit it!](/Kotlin/README.md) | [ℹ️ Add one!](/Kotlin/books.md) | [ℹ️ Add one!](/Kotlin/courses.md) | [ℹ️ Add one!](/Kotlin/resources.md) | 
 | [🌐 Jython](/Jython) |[ℹ️ Edit it!](/Jython/README.md) | [ℹ️ Add one!](/Jython/books.md) | [ℹ️ Add one!](/Jython/courses.md) | [ℹ️ Add one!](/Jython/resources.md) | 
 | [🌐 Julia](/Julia) |[ℹ️ Edit it!](/Julia/README.md) | [ℹ️ Add one!](/Julia/books.md) | [ℹ️ Add one!](/Julia/courses.md) | [ℹ️ Add one!](/Julia/resources.md) | 
-| [🌐 Java](/Java) |[ℹ️ Edit it!](/Java/README.md) | [ℹ️ Add one!](/Java/books.md) | [ℹ️ Add one!](/Java/courses.md) | [ℹ️ Add one!](/Java/resources.md) | 
 | [🌐 Html](/Html) |[ℹ️ Edit it!](/Html/README.md) | [ℹ️ Add one!](/Html/books.md) | [ℹ️ Add one!](/Html/courses.md) | [ℹ️ Add one!](/Html/resources.md) | 
 | [🌐 Haxe](/Haxe) |[ℹ️ Edit it!](/Haxe/README.md) | [ℹ️ Add one!](/Haxe/books.md) | [ℹ️ Add one!](/Haxe/courses.md) | [ℹ️ Add one!](/Haxe/resources.md) | 
 | [🌐 Haskell](/Haskell) |[ℹ️ Edit it!](/Haskell/README.md) | [ℹ️ Add one!](/Haskell/books.md) | [ℹ️ Add one!](/Haskell/courses.md) | [ℹ️ Add one!](/Haskell/resources.md) | 
