@@ -13,7 +13,7 @@ msg     db  'Hello world',0xa
 len     equ $ - msg
 
 ; how to run:
-; 1. fist install assemblers
+; 1. first install assemblers
 ; sudo apt install as31 nasm
 ; 2. assemble the program
 ; nasm -f elf64 x86_assembly.asm
