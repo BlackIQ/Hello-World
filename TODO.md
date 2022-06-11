@@ -7,7 +7,6 @@
 
 | Language | Readme | Books (at least 2 items) | Courses (at least 2 items) | Resources (at least 2 items) |
 |----------|--------|--------------------------|----------------------------|------------------------------|
-| [🌐 Java](/Java) |✅ Done! | [ℹ️ Add one!](/Java/books.md) | ✅ Done! | ✅ Done! | 
 | [🌐 Kotlin](/Kotlin) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Kotlin/courses.md) | [ℹ️ Add one!](/Kotlin/resources.md) | 
 | [🌐 Go](/Go) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Go/courses.md) | [ℹ️ Add one!](/Go/resources.md) | 
 | [🌐 Fastapi](/Fastapi) |✅ Done! | [ℹ️ Add one!](/Fastapi/books.md) | ✅ Done! | [ℹ️ Add one!](/Fastapi/resources.md) | 
