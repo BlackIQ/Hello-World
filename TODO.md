@@ -25,6 +25,7 @@
 | [🌐 ShellScript](/ShellScript) |✅ Done! | [ℹ️ Add one!](/ShellScript/books.md) | [ℹ️ Add one!](/ShellScript/courses.md) | [ℹ️ Add one!](/ShellScript/resources.md) | 
 | [🌐 Rockstar](/Rockstar) |✅ Done! | [ℹ️ Add one!](/Rockstar/books.md) | [ℹ️ Add one!](/Rockstar/courses.md) | [ℹ️ Add one!](/Rockstar/resources.md) | 
 | [🌐 React-Native](/React-Native) |✅ Done! | [ℹ️ Add one!](/React-Native/books.md) | [ℹ️ Add one!](/React-Native/courses.md) | [ℹ️ Add one!](/React-Native/resources.md) | 
+| [🌐 Qsharp](/Qsharp) |✅ Done! | [ℹ️ Add one!](/Qsharp/books.md) | [ℹ️ Add one!](/Qsharp/courses.md) | [ℹ️ Add one!](/Qsharp/resources.md) | 
 | [🌐 QBasic](/QBasic) |✅ Done! | [ℹ️ Add one!](/QBasic/books.md) | [ℹ️ Add one!](/QBasic/courses.md) | [ℹ️ Add one!](/QBasic/resources.md) | 
 | [🌐 Pony](/Pony) |✅ Done! | [ℹ️ Add one!](/Pony/books.md) | [ℹ️ Add one!](/Pony/courses.md) | [ℹ️ Add one!](/Pony/resources.md) | 
 | [🌐 Piet](/Piet) |✅ Done! | [ℹ️ Add one!](/Piet/books.md) | [ℹ️ Add one!](/Piet/courses.md) | [ℹ️ Add one!](/Piet/resources.md) | 

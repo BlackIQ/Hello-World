@@ -14,7 +14,7 @@ Also there is list of useful **Courses** and **Books** about the programming lan
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in This Repository: 118.
+Total Languages in This Repository: 119.
 
 Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://github.com/amireshoon)
 
@@ -201,6 +201,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 ---
 
 - [QBasic](/QBasic) - Added By <img src="https://github.com/Annahita2004.png?size=25" width="25" height="25" /> [Annahita Mirhosseini](https://github.com/Annahita2004)
+- [Qsharp](/Qsharp) - Added By <img src="https://github.com/Qiamast.png?size=25" width="25" height="25" /> [Qiamast](https://github.com/Qiamast)
 
 
 ### R
