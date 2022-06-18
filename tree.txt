@@ -779,6 +779,25 @@
 │   ├── hello.bas
 │   ├── info.json
 │   └── resources.md
+├── Qsharp
+│   ├── QuickStart.md
+│   ├── README.md
+│   ├── assets
+│   │   └── images
+│   │       ├── Introduction-to-Quantum-Computing-with QSharp-book.png
+│   │       ├── Learn to build your first quantum solution with the Quantum Development Kit and Q#.png
+│   │       ├── Listing 1.png
+│   │       ├── Listing 2.png
+│   │       ├── Listing 3.png
+│   │       ├── Listing 4.png
+│   │       ├── Listing5.png
+│   │       └── Qsharp language.jpg
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── Operation.qs
+│   ├── info.json
+│   └── resources.md
 ├── R
 │   ├── README.md
 │   ├── books.md
@@ -980,25 +999,6 @@
 │   ├── examples
 │   │   └── vim.vim
 │   ├── info.json
-│   └── resources.md
-├── Whitespace
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   │   ├── Whitespace and C hello world
-│   │   └── helloworld.ws
-│   ├── info.json
-│   └── resources.md
-├── YO
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   ├── labra.yoda
-│   ├── resources.md
-│   ├── src
-│   │   └── main.yo
 ... length_limit, 1000, reached, counted:
 
-233 directories, 767 files
+232 directories, 768 files
