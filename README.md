@@ -35,6 +35,7 @@
 <p>J</p>
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Java">Java</a></li>
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/JavaScript">JavaScript</a></li>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Julia">Julia</a></li>
 <hr>
 <p>K</p>
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Kotlin">Kotlin</a></li>
@@ -55,6 +56,7 @@
 <p>Q</p>
 <hr>
 <p>R</p>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/R">R</a></li>
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Ruby">Ruby</a></li>
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Rust">Rust</a></li>
 <hr>
