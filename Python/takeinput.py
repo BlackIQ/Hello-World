@@ -1,0 +1,2 @@
+t=input()
+print(t)

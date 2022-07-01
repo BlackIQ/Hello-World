@@ -1,0 +1,22 @@
+# Printing the fibonacci pattern
+
+func fib($args)
+    $args = format_args($args)
+    $n = $args[0]
+
+    $a = 1
+    $b = 1
+
+    while $a < $n
+        println($a)
+
+        $tmp_a = $a
+        $tmp_b = $b
+
+        $a = $tmp_b
+
+        $b = $tmp_a + $tmp_b
+     endwhile
+endfunc
+
+fib(10000)

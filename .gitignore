@@ -1,0 +1,9 @@
+*.pyc
+__pycache__
+__pashmam__
+*.sqlite3
+*.sqlite
+/Java/*.class
+test/*
+.DS_Store
+

@@ -1,0 +1,2 @@
+' Display a single-line Hello World! message in the output
+TextWindow.WriteLine("Hello World!")

@@ -1,0 +1,5 @@
+{Curl 7.0, 8.0 applet}
+ {text
+    color = "blue",
+    font-size = 16pt,
+    Hello World}

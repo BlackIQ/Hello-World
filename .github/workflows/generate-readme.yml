@@ -1,0 +1,30 @@
+name: Run Automation Scripts
+
+on: [push, pull_request]
+
+jobs:
+  autogen:
+
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.8]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Run auto-gen.py
+      run: |
+        python auto-gen.py
+    - name: Commit Changes
+      continue-on-error: true
+      run: |
+        git config --global user.name 'Hello-World-Project-Bot'
+        git config --global user.email '<>'
+        git status
+        git add -A
+        git commit -m "Run auto-gen.py"
+        git push
