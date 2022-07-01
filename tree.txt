@@ -501,6 +501,7 @@
 │   ├── examples
 │   │   └── julia.jl
 │   ├── info.json
+│   ├── julia.jl
 │   └── resources.md
 ├── Jython
 │   ├── README.md
@@ -799,6 +800,7 @@
 │   ├── info.json
 │   └── resources.md
 ├── R
+│   ├── HelloWorld.r
 │   ├── README.md
 │   ├── books.md
 │   ├── courses.md
@@ -997,8 +999,6 @@
 │   ├── books.md
 │   ├── courses.md
 │   ├── examples
-│   │   └── vim.vim
-│   ├── info.json
 ... length_limit, 1000, reached, counted:
 
 232 directories, 768 files
