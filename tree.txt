@@ -713,6 +713,14 @@
 │   │   └── styled_helloworld.png
 │   ├── info.json
 │   └── resources.md
+├── Pine-Script
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── PineScript.pine
+│   ├── info.json
+│   └── resources.md
 ├── Plus
 │   ├── README.md
 │   ├── books.md
@@ -990,14 +998,6 @@
 │   ├── courses.md
 │   ├── examples
 │   │   └── Hello_World.v
-│   ├── info.json
-│   └── resources.md
-├── Vim-Script
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   │   └── vim.vim
 │   ├── info.json
 ... length_limit, 1000, reached, counted:
 

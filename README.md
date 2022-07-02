@@ -14,7 +14,7 @@ Also there is list of useful **Courses** and **Books** about the programming lan
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in This Repository: 119.
+Total Languages in This Repository: 120.
 
 Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://github.com/amireshoon)
 
@@ -189,6 +189,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 - [Perl](/Perl) - Added By <img src="https://github.com/BlackIQ.png?size=25" width="25" height="25" /> [Amirhossein Mohammadi](https://github.com/BlackIQ)
 - [Php](/Php) - Added By <img src="https://github.com/ebad84.png?size=25" width="25" height="25" /> [Mohammad Reza Ebadollah](https://github.com/ebad84)
 - [Piet](/Piet) - Added By <img src="https://github.com/ali0gamer1.png?size=25" width="25" height="25" /> [Ali Arj](https://github.com/ali0gamer1)
+- [Pine-Script](/Pine-Script) - Added By <img src="https://github.com/momhiar.png?size=25" width="25" height="25" /> [Mohammad Esmaeili](https://github.com/momhiar)
 - [Plus](/Plus) - Added By <img src="https://github.com/amireshoon.png?size=25" width="25" height="25" /> [Amirhossein Meydani](https://github.com/amireshoon)
 - [Pony](/Pony) - Added By <img src="https://github.com/komeilparseh.png?size=25" width="25" height="25" /> [Komeil Parseh](https://github.com/komeilparseh)
 - [PowerShell](/PowerShell) - Added By <img src="https://github.com/F4R4N.png?size=25" width="25" height="25" /> [Faran Taghavi](https://github.com/F4R4N)
