@@ -39,6 +39,7 @@
 | [🌐 LaTeX](/LaTeX) |✅ Done! | [ℹ️ Add one!](/LaTeX/books.md) | [ℹ️ Add one!](/LaTeX/courses.md) | [ℹ️ Add one!](/LaTeX/resources.md) | 
 | [🌐 LOLCODE](/LOLCODE) |✅ Done! | [ℹ️ Add one!](/LOLCODE/books.md) | [ℹ️ Add one!](/LOLCODE/courses.md) | [ℹ️ Add one!](/LOLCODE/resources.md) | 
 | [🌐 Ktor](/Ktor) |✅ Done! | [ℹ️ Add one!](/Ktor/books.md) | [ℹ️ Add one!](/Ktor/courses.md) | [ℹ️ Add one!](/Ktor/resources.md) | 
+| [🌐 Julia](/Julia) |[ℹ️ Edit it!](/Julia/README.md) | ✅ Done! | [ℹ️ Add one!](/Julia/courses.md) | [ℹ️ Add one!](/Julia/resources.md) | 
 | [🌐 Jquery](/Jquery) |✅ Done! | [ℹ️ Add one!](/Jquery/books.md) | [ℹ️ Add one!](/Jquery/courses.md) | [ℹ️ Add one!](/Jquery/resources.md) | 
 | [🌐 JavaScript](/JavaScript) |✅ Done! | [ℹ️ Add one!](/JavaScript/books.md) | [ℹ️ Add one!](/JavaScript/courses.md) | [ℹ️ Add one!](/JavaScript/resources.md) | 
 | [🌐 Hascal](/Hascal) |✅ Done! | [ℹ️ Add one!](/Hascal/books.md) | [ℹ️ Add one!](/Hascal/courses.md) | [ℹ️ Add one!](/Hascal/resources.md) | 
@@ -104,7 +105,6 @@
 | [🌐 Lua](/Lua) |[ℹ️ Edit it!](/Lua/README.md) | [ℹ️ Add one!](/Lua/books.md) | [ℹ️ Add one!](/Lua/courses.md) | [ℹ️ Add one!](/Lua/resources.md) | 
 | [🌐 Lisp](/Lisp) |[ℹ️ Edit it!](/Lisp/README.md) | [ℹ️ Add one!](/Lisp/books.md) | [ℹ️ Add one!](/Lisp/courses.md) | [ℹ️ Add one!](/Lisp/resources.md) | 
 | [🌐 Jython](/Jython) |[ℹ️ Edit it!](/Jython/README.md) | [ℹ️ Add one!](/Jython/books.md) | [ℹ️ Add one!](/Jython/courses.md) | [ℹ️ Add one!](/Jython/resources.md) | 
-| [🌐 Julia](/Julia) |[ℹ️ Edit it!](/Julia/README.md) | [ℹ️ Add one!](/Julia/books.md) | [ℹ️ Add one!](/Julia/courses.md) | [ℹ️ Add one!](/Julia/resources.md) | 
 | [🌐 Html](/Html) |[ℹ️ Edit it!](/Html/README.md) | [ℹ️ Add one!](/Html/books.md) | [ℹ️ Add one!](/Html/courses.md) | [ℹ️ Add one!](/Html/resources.md) | 
 | [🌐 Haxe](/Haxe) |[ℹ️ Edit it!](/Haxe/README.md) | [ℹ️ Add one!](/Haxe/books.md) | [ℹ️ Add one!](/Haxe/courses.md) | [ℹ️ Add one!](/Haxe/resources.md) | 
 | [🌐 Haskell](/Haskell) |[ℹ️ Edit it!](/Haskell/README.md) | [ℹ️ Add one!](/Haskell/books.md) | [ℹ️ Add one!](/Haskell/courses.md) | [ℹ️ Add one!](/Haskell/resources.md) | 
