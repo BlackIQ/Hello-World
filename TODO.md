@@ -45,6 +45,7 @@
 | [🌐 Flask](/Flask) |✅ Done! | [ℹ️ Add one!](/Flask/books.md) | [ℹ️ Add one!](/Flask/courses.md) | [ℹ️ Add one!](/Flask/resources.md) | 
 | [🌐 Django](/Django) |✅ Done! | [ℹ️ Add one!](/Django/books.md) | [ℹ️ Add one!](/Django/courses.md) | [ℹ️ Add one!](/Django/resources.md) | 
 | [🌐 Delphi](/Delphi) |✅ Done! | [ℹ️ Add one!](/Delphi/books.md) | [ℹ️ Add one!](/Delphi/courses.md) | [ℹ️ Add one!](/Delphi/resources.md) | 
+| [🌐 Dart](/Dart) |✅ Done! | [ℹ️ Add one!](/Dart/books.md) | [ℹ️ Add one!](/Dart/courses.md) | [ℹ️ Add one!](/Dart/resources.md) | 
 | [🌐 Curl](/Curl) |✅ Done! | [ℹ️ Add one!](/Curl/books.md) | [ℹ️ Add one!](/Curl/courses.md) | [ℹ️ Add one!](/Curl/resources.md) | 
 | [🌐 Css](/Css) |✅ Done! | [ℹ️ Add one!](/Css/books.md) | [ℹ️ Add one!](/Css/courses.md) | [ℹ️ Add one!](/Css/resources.md) | 
 | [🌐 Crystal](/Crystal) |✅ Done! | [ℹ️ Add one!](/Crystal/books.md) | [ℹ️ Add one!](/Crystal/courses.md) | [ℹ️ Add one!](/Crystal/resources.md) | 
@@ -118,5 +119,4 @@
 | [🌐 Elixir](/Elixir) |[ℹ️ Edit it!](/Elixir/README.md) | [ℹ️ Add one!](/Elixir/books.md) | [ℹ️ Add one!](/Elixir/courses.md) | [ℹ️ Add one!](/Elixir/resources.md) | 
 | [🌐 Eiffel](/Eiffel) |[ℹ️ Edit it!](/Eiffel/README.md) | [ℹ️ Add one!](/Eiffel/books.md) | [ℹ️ Add one!](/Eiffel/courses.md) | [ℹ️ Add one!](/Eiffel/resources.md) | 
 | [🌐 Docker](/Docker) |[ℹ️ Edit it!](/Docker/README.md) | [ℹ️ Add one!](/Docker/books.md) | [ℹ️ Add one!](/Docker/courses.md) | [ℹ️ Add one!](/Docker/resources.md) | 
-| [🌐 Dart](/Dart) |[ℹ️ Edit it!](/Dart/README.md) | [ℹ️ Add one!](/Dart/books.md) | [ℹ️ Add one!](/Dart/courses.md) | [ℹ️ Add one!](/Dart/resources.md) | 
 | [🌐 D](/D) |[ℹ️ Edit it!](/D/README.md) | [ℹ️ Add one!](/D/books.md) | [ℹ️ Add one!](/D/courses.md) | [ℹ️ Add one!](/D/resources.md) | 
