@@ -33,6 +33,7 @@
 | [🌐 Pashmak](/Pashmak) |✅ Done! | [ℹ️ Add one!](/Pashmak/books.md) | [ℹ️ Add one!](/Pashmak/courses.md) | [ℹ️ Add one!](/Pashmak/resources.md) | 
 | [🌐 Odin-lang](/Odin-lang) |✅ Done! | [ℹ️ Add one!](/Odin-lang/books.md) | [ℹ️ Add one!](/Odin-lang/courses.md) | [ℹ️ Add one!](/Odin-lang/resources.md) | 
 | [🌐 Not-English](/Not-English) |✅ Done! | [ℹ️ Add one!](/Not-English/books.md) | [ℹ️ Add one!](/Not-English/courses.md) | [ℹ️ Add one!](/Not-English/resources.md) | 
+| [🌐 Nginx](/Nginx) |✅ Done! | [ℹ️ Add one!](/Nginx/books.md) | [ℹ️ Add one!](/Nginx/courses.md) | [ℹ️ Add one!](/Nginx/resources.md) | 
 | [🌐 Mql5](/Mql5) |✅ Done! | [ℹ️ Add one!](/Mql5/books.md) | [ℹ️ Add one!](/Mql5/courses.md) | [ℹ️ Add one!](/Mql5/resources.md) | 
 | [🌐 Mql4](/Mql4) |✅ Done! | [ℹ️ Add one!](/Mql4/books.md) | [ℹ️ Add one!](/Mql4/courses.md) | [ℹ️ Add one!](/Mql4/resources.md) | 
 | [🌐 LaTeX](/LaTeX) |✅ Done! | [ℹ️ Add one!](/LaTeX/books.md) | [ℹ️ Add one!](/LaTeX/courses.md) | [ℹ️ Add one!](/LaTeX/resources.md) | 
