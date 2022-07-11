@@ -296,6 +296,14 @@
 │   │   └── HelloWorld.dpr
 │   ├── info.json
 │   └── resources.md
+├── Deno
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── helloworld.js
+│   ├── info.json
+│   └── resources.md
 ├── Django
 │   ├── README.md
 │   ├── books.md
@@ -623,6 +631,14 @@
 │   ├── courses.md
 │   ├── examples
 │   │   └── Nim.nim
+│   ├── info.json
+│   └── resources.md
+├── Node.js
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── helloworld.js
 │   ├── info.json
 │   └── resources.md
 ├── Not-English
@@ -983,22 +999,6 @@
 │   │   └── main.vb
 │   ├── info.json
 │   └── resources.md
-├── VBScript
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── example
-│   │   └── VBScript.vbs
-│   ├── examples
-│   ├── info.json
-│   └── resources.md
-├── Vala
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   │   └── Vala.vala
-│   ├── info.json
 ... length_limit, 1000, reached, counted:
 
-232 directories, 768 files
+231 directories, 769 files

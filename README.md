@@ -14,7 +14,7 @@ Also there is list of useful **Courses** and **Books** about the programming lan
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in This Repository: 121.
+Total Languages in This Repository: 123.
 
 Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://github.com/amireshoon)
 
@@ -73,6 +73,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 - [D](/D) - Added By <img src="https://github.com/sina-devel.png?size=25" width="25" height="25" /> [Sina](https://github.com/sina-devel)
 - [Dart](/Dart) - Added By <img src="https://github.com/xenups.png?size=25" width="25" height="25" /> [Amir Lesani](https://github.com/xenups),  <img src="https://github.com/BlackIQ.png?size=25" width="25" height="25" /> [Amirhossein Mohammadi](https://github.com/BlackIQ)
 - [Delphi](/Delphi) - Added By <img src="https://github.com/peymanmajidi.png?size=25" width="25" height="25" /> [Peyman Majidi Moein](https://github.com/peymanmajidi)
+- [Deno](/Deno) - Added By <img src="https://github.com/hamidreza01.png?size=25" width="25" height="25" /> [Hamidreza Ghahremani](https://github.com/hamidreza01)
 - [Django](/Django) - Added By <img src="https://github.com/SajadRahimi1.png?size=25" width="25" height="25" /> [Sajad Rahimi](https://github.com/SajadRahimi1)
 - [Docker](/Docker) - Added By <img src="https://github.com/Ja7adR.png?size=25" width="25" height="25" /> [Javad Rajabzade](https://github.com/Ja7adR)
 
@@ -167,6 +168,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 - [Neko-VM](/Neko-VM) - Added By <img src="https://github.com/amireshoon.png?size=25" width="25" height="25" /> [Amirhossein Meydani](https://github.com/amireshoon)
 - [Nginx](/Nginx) - Added By <img src="https://github.com/momhiar.png?size=25" width="25" height="25" /> [Mohammad Esmaeili](https://github.com/momhiar)
 - [Nim](/Nim) - Added By <img src="https://github.com/alirezaja1384.png?size=25" width="25" height="25" /> [Alireza Jafari](https://github.com/alirezaja1384)
+- [Node.js](/Node.js) - Added By <img src="https://github.com/hamidreza01.png?size=25" width="25" height="25" /> [Hamidreza Ghahremani](https://github.com/hamidreza01)
 - [Not-English](/Not-English) - Added By <img src="https://github.com/peymanmajidi.png?size=25" width="25" height="25" /> [Peyman Majidi Moein](https://github.com/peymanmajidi)
 
 

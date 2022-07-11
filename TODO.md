@@ -33,6 +33,7 @@
 | [🌐 Pashmak](/Pashmak) |✅ Done! | [ℹ️ Add one!](/Pashmak/books.md) | [ℹ️ Add one!](/Pashmak/courses.md) | [ℹ️ Add one!](/Pashmak/resources.md) | 
 | [🌐 Odin-lang](/Odin-lang) |✅ Done! | [ℹ️ Add one!](/Odin-lang/books.md) | [ℹ️ Add one!](/Odin-lang/courses.md) | [ℹ️ Add one!](/Odin-lang/resources.md) | 
 | [🌐 Not-English](/Not-English) |✅ Done! | [ℹ️ Add one!](/Not-English/books.md) | [ℹ️ Add one!](/Not-English/courses.md) | [ℹ️ Add one!](/Not-English/resources.md) | 
+| [🌐 Node.js](/Node.js) |✅ Done! | [ℹ️ Add one!](/Node.js/books.md) | [ℹ️ Add one!](/Node.js/courses.md) | [ℹ️ Add one!](/Node.js/resources.md) | 
 | [🌐 Nginx](/Nginx) |✅ Done! | [ℹ️ Add one!](/Nginx/books.md) | [ℹ️ Add one!](/Nginx/courses.md) | [ℹ️ Add one!](/Nginx/resources.md) | 
 | [🌐 Mql5](/Mql5) |✅ Done! | [ℹ️ Add one!](/Mql5/books.md) | [ℹ️ Add one!](/Mql5/courses.md) | [ℹ️ Add one!](/Mql5/resources.md) | 
 | [🌐 Mql4](/Mql4) |✅ Done! | [ℹ️ Add one!](/Mql4/books.md) | [ℹ️ Add one!](/Mql4/courses.md) | [ℹ️ Add one!](/Mql4/resources.md) | 
@@ -46,6 +47,7 @@
 | [🌐 Forth](/Forth) |✅ Done! | [ℹ️ Add one!](/Forth/books.md) | [ℹ️ Add one!](/Forth/courses.md) | [ℹ️ Add one!](/Forth/resources.md) | 
 | [🌐 Flask](/Flask) |✅ Done! | [ℹ️ Add one!](/Flask/books.md) | [ℹ️ Add one!](/Flask/courses.md) | [ℹ️ Add one!](/Flask/resources.md) | 
 | [🌐 Django](/Django) |✅ Done! | [ℹ️ Add one!](/Django/books.md) | [ℹ️ Add one!](/Django/courses.md) | [ℹ️ Add one!](/Django/resources.md) | 
+| [🌐 Deno](/Deno) |✅ Done! | [ℹ️ Add one!](/Deno/books.md) | [ℹ️ Add one!](/Deno/courses.md) | [ℹ️ Add one!](/Deno/resources.md) | 
 | [🌐 Delphi](/Delphi) |✅ Done! | [ℹ️ Add one!](/Delphi/books.md) | [ℹ️ Add one!](/Delphi/courses.md) | [ℹ️ Add one!](/Delphi/resources.md) | 
 | [🌐 Dart](/Dart) |✅ Done! | [ℹ️ Add one!](/Dart/books.md) | [ℹ️ Add one!](/Dart/courses.md) | [ℹ️ Add one!](/Dart/resources.md) | 
 | [🌐 Curl](/Curl) |✅ Done! | [ℹ️ Add one!](/Curl/books.md) | [ℹ️ Add one!](/Curl/courses.md) | [ℹ️ Add one!](/Curl/resources.md) | 
