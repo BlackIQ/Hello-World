@@ -249,43 +249,44 @@
 │   ├── courses.md
 │   ├── examples
 │   │   ├── 0-hello-world.dart
-│   │   ├── 01-print.dart
-│   │   ├── 02-variables-1.dart
-│   │   ├── 03-strings-1.dart
-│   │   ├── 04-strings-2.dart
-│   │   ├── 05-strings-3.dart
-│   │   ├── 06-converts.dart
-│   │   ├── 07-operators-1.dart
-│   │   ├── 08-operators-2.dart
-│   │   ├── 09-operators-3.dart
-│   │   ├── 10-operators-4.dart
-│   │   ├── 11-operators-5.dart
-│   │   ├── 12-operators-6.dart
-│   │   ├── 13-comments.dart
-│   │   ├── 14-variables-2.dart
-│   │   ├── 15-variables-3.dart
-│   │   ├── 16-variables-4.dart
-│   │   ├── 17-condition-1.dart
-│   │   ├── 18-loop-1.dart
-│   │   ├── 19-loop-2.dart
-│   │   ├── 20-loop-3.dart
-│   │   ├── 21-condition-2.dart
-│   │   ├── 22-enum-1.dart
-│   │   ├── 23-std-1.dart
-│   │   ├── 24-random.dart
-│   │   ├── 25-enum-2.dart
-│   │   ├── 26-lists-1.dart
-│   │   ├── 27-lists-2.dart
-│   │   ├── 28-lists-3.dart
-│   │   ├── 29-set-1.dart
-│   │   ├── 30-set-2.dart
-│   │   ├── 31-map-1.dart
-│   │   ├── 32-map-2.dart
-│   │   ├── 33-collections-operators-1.dart
-│   │   ├── 34-collections-operators-2.dart
-│   │   ├── 35-collections-operators-3.dart
-│   │   └── apps
-│   │       └── 01-rock_paper_scissors.dart
+│   │   └── cheatsheets
+│   │       ├── 01-print.dart
+│   │       ├── 02-variables-1.dart
+│   │       ├── 03-strings-1.dart
+│   │       ├── 04-strings-2.dart
+│   │       ├── 05-strings-3.dart
+│   │       ├── 06-converts.dart
+│   │       ├── 07-operators-1.dart
+│   │       ├── 08-operators-2.dart
+│   │       ├── 09-operators-3.dart
+│   │       ├── 10-operators-4.dart
+│   │       ├── 11-operators-5.dart
+│   │       ├── 12-operators-6.dart
+│   │       ├── 13-comments.dart
+│   │       ├── 14-variables-2.dart
+│   │       ├── 15-variables-3.dart
+│   │       ├── 16-variables-4.dart
+│   │       ├── 17-condition-1.dart
+│   │       ├── 18-loop-1.dart
+│   │       ├── 19-loop-2.dart
+│   │       ├── 20-loop-3.dart
+│   │       ├── 21-condition-2.dart
+│   │       ├── 22-enum-1.dart
+│   │       ├── 23-std-1.dart
+│   │       ├── 24-random.dart
+│   │       ├── 25-enum-2.dart
+│   │       ├── 26-lists-1.dart
+│   │       ├── 27-lists-2.dart
+│   │       ├── 28-lists-3.dart
+│   │       ├── 29-set-1.dart
+│   │       ├── 30-set-2.dart
+│   │       ├── 31-map-1.dart
+│   │       ├── 32-map-2.dart
+│   │       ├── 33-collections-operators-1.dart
+│   │       ├── 34-collections-operators-2.dart
+│   │       ├── 35-collections-operators-3.dart
+│   │       └── apps
+│   │           └── 01-rock_paper_scissors.dart
 │   ├── info.json
 │   └── resources.md
 ├── Delphi
@@ -548,7 +549,8 @@
 │   ├── books.md
 │   ├── courses.md
 │   ├── examples
-│   ├── hello.tex
+│   │   └── hello.tex
+│   ├── info.json
 │   └── resources.md
 ├── Lisp
 │   ├── README.md
@@ -782,16 +784,18 @@
 │   ├── books.md
 │   ├── courses.md
 │   ├── examples
-│   │   ├── file.py
-│   │   ├── for-loop.py
-│   │   ├── http_requests.py
-│   │   ├── os.py
-│   │   ├── python.py
-│   │   ├── recursion.py
-│   │   ├── tkinter.py
-│   │   ├── try_except.py
-│   │   └── variable.py
-│   ├── if-else.py
+│   │   ├── cheatsheets
+│   │   │   ├── file.py
+│   │   │   ├── for-loop.py
+│   │   │   ├── http_requests.py
+│   │   │   ├── if-else.py
+│   │   │   ├── os.py
+│   │   │   ├── recursion.py
+│   │   │   ├── takeinput.py
+│   │   │   ├── tkinter.py
+│   │   │   ├── try_except.py
+│   │   │   └── variable.py
+│   │   └── python.py
 │   ├── img
 │   │   ├── 1.png
 │   │   ├── 2.png
@@ -801,8 +805,7 @@
 │   │   ├── 6.png
 │   │   └── 7.png
 │   ├── info.json
-│   ├── resources.md
-│   └── takeinput.py
+│   └── resources.md
 ├── QBasic
 │   ├── README.md
 │   ├── books.md
@@ -876,6 +879,19 @@
 │   ├── books.md
 │   ├── courses.md
 │   ├── examples
+│   │   ├── 01-output.rb
+│   │   ├── 02-begin-end.rb
+│   │   ├── 03-classes.rb
+│   │   ├── 04-arrays.rb
+│   │   ├── 05-operators.rb
+│   │   ├── 06-conditions.rb
+│   │   ├── 07-loops.rb
+│   │   ├── 08-method.rb
+│   │   ├── 09-strings.rb
+│   │   ├── 10-arrays-2.rb
+│   │   ├── 11-hash.rb
+│   │   ├── 12-datetime.rb
+│   │   ├── 13-iterators.rb
 │   │   └── ruby.rb
 │   ├── info.json
 │   └── resources.md
@@ -927,6 +943,14 @@
 │   │   └── Scss.scss
 │   ├── info.json
 │   └── resources.md
+├── Shakespeare
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── shakespeare.spl
+│   ├── info.json
+│   └── resources.md
 ├── ShellScript
 │   ├── README.md
 │   ├── books.md
@@ -975,30 +999,6 @@
 │   ├── README.md
 │   ├── books.md
 │   ├── courses.md
-│   ├── examples
-│   │   ├── Express.ts
-│   │   ├── dataTypes.ts
-│   │   ├── fs.ts
-│   │   ├── interfaces.ts
-│   │   └── typescript.ts
-│   ├── info.json
-│   └── resources.md
-├── V
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   │   └── hello.v
-│   ├── info.json
-│   └── resources.md
-├── VB
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   │   └── main.vb
-│   ├── info.json
-│   └── resources.md
 ... length_limit, 1000, reached, counted:
 
-231 directories, 769 files
+230 directories, 770 files

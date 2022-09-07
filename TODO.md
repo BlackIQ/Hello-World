@@ -24,6 +24,7 @@
 | [🌐 V](/V) |✅ Done! | [ℹ️ Add one!](/V/books.md) | [ℹ️ Add one!](/V/courses.md) | [ℹ️ Add one!](/V/resources.md) | 
 | [🌐 Small-Basic](/Small-Basic) |✅ Done! | [ℹ️ Add one!](/Small-Basic/books.md) | [ℹ️ Add one!](/Small-Basic/courses.md) | [ℹ️ Add one!](/Small-Basic/resources.md) | 
 | [🌐 ShellScript](/ShellScript) |✅ Done! | [ℹ️ Add one!](/ShellScript/books.md) | [ℹ️ Add one!](/ShellScript/courses.md) | [ℹ️ Add one!](/ShellScript/resources.md) | 
+| [🌐 Shakespeare](/Shakespeare) |✅ Done! | [ℹ️ Add one!](/Shakespeare/books.md) | [ℹ️ Add one!](/Shakespeare/courses.md) | [ℹ️ Add one!](/Shakespeare/resources.md) | 
 | [🌐 Rockstar](/Rockstar) |✅ Done! | [ℹ️ Add one!](/Rockstar/books.md) | [ℹ️ Add one!](/Rockstar/courses.md) | [ℹ️ Add one!](/Rockstar/resources.md) | 
 | [🌐 React-Native](/React-Native) |✅ Done! | [ℹ️ Add one!](/React-Native/books.md) | [ℹ️ Add one!](/React-Native/courses.md) | [ℹ️ Add one!](/React-Native/resources.md) | 
 | [🌐 Qsharp](/Qsharp) |✅ Done! | [ℹ️ Add one!](/Qsharp/books.md) | [ℹ️ Add one!](/Qsharp/courses.md) | [ℹ️ Add one!](/Qsharp/resources.md) | 

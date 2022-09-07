@@ -48,6 +48,7 @@
 | [Masoud Nickparvar](https://github.com/masoudnick)|1|
 | [Ali Madihi](https://github.com/mrunderline)|1|
 | [AlirezabBashi98](https://github.com/alirezabashi98)|1|
+| [byteface](https://github.com/byteface)|1|
 | [Mohammad Kadkhodaei](https://github.com/mohammadkad)|1|
 | [Mohammad Mirsafaei](https://github.com/MohammadMirsafaei)|1|
 | [Alireza Jafari](https://github.com/alirezaja1384)|1|
@@ -60,6 +61,7 @@
 | [Qiamast](https://github.com/Qiamast)|1|
 | [Meysam P. Ganji](https://github.com/meysampg)|1|
 | [AzerothA](https://github.com/AzerothA)|1|
+| [Muhammad Fazel Samarghandi](https://github.com/fazelsamar)|1|
 | [Arman](https://github.com/arman324)|1|
 | [Morteza Heydari](https://github.com/MortezaHeydari97)|1|
 | [Jadi Mirmirani](https://github.com/jadijadi)|1|
