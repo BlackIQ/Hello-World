@@ -154,6 +154,15 @@
 │   └── resources.md
 ├── CONTRIBUTING.md
 ├── CONTRIBUTORS_LIST.md
+├── Carbon
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   ├── Fibonacci.Carbon
+│   │   └── HelloWorld.Carbon
+│   ├── info.json
+│   └── resources.md
 ├── Clipper
 │   ├── README.md
 │   ├── books.md
@@ -990,15 +999,6 @@
 ├── Tcl
 │   ├── README.md
 │   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   │   └── hello.tcl
-│   ├── info.json
-│   └── resources.md
-├── Typescript
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
 ... length_limit, 1000, reached, counted:
 
 230 directories, 770 files
