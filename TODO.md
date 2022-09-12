@@ -104,6 +104,7 @@
 | [🌐 Jython](/Jython) |[ℹ️ Edit it!](/Jython/README.md) | [ℹ️ Add one!](/Jython/books.md) | [ℹ️ Add one!](/Jython/courses.md) | [ℹ️ Add one!](/Jython/resources.md) | 
 | [🌐 Julia](/Julia) |[ℹ️ Edit it!](/Julia/README.md) | [ℹ️ Add one!](/Julia/books.md) | [ℹ️ Add one!](/Julia/courses.md) | [ℹ️ Add one!](/Julia/resources.md) | 
 | [🌐 Html](/Html) |[ℹ️ Edit it!](/Html/README.md) | [ℹ️ Add one!](/Html/books.md) | [ℹ️ Add one!](/Html/courses.md) | [ℹ️ Add one!](/Html/resources.md) | 
+| [🌐 Hello-World](/Hello-World) |[ℹ️ Edit it!](/Hello-World/README.md) | [ℹ️ Add one!](/Hello-World/books.md) | [ℹ️ Add one!](/Hello-World/courses.md) | [ℹ️ Add one!](/Hello-World/resources.md) | 
 | [🌐 Haxe](/Haxe) |[ℹ️ Edit it!](/Haxe/README.md) | [ℹ️ Add one!](/Haxe/books.md) | [ℹ️ Add one!](/Haxe/courses.md) | [ℹ️ Add one!](/Haxe/resources.md) | 
 | [🌐 Haskell](/Haskell) |[ℹ️ Edit it!](/Haskell/README.md) | [ℹ️ Add one!](/Haskell/books.md) | [ℹ️ Add one!](/Haskell/courses.md) | [ℹ️ Add one!](/Haskell/resources.md) | 
 | [🌐 Hashemi](/Hashemi) |[ℹ️ Edit it!](/Hashemi/README.md) | [ℹ️ Add one!](/Hashemi/books.md) | [ℹ️ Add one!](/Hashemi/courses.md) | [ℹ️ Add one!](/Hashemi/resources.md) | 
