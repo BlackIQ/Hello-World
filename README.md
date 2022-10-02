@@ -14,7 +14,7 @@ Also there is list of useful **Courses** and **Books** about the programming lan
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in This Repository: 127.
+Total Languages in This Repository: 128.
 
 Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://github.com/amireshoon)
 
@@ -28,6 +28,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 - [Ada](/Ada) - Added By <img src="https://github.com/amirhosainshahsavari.png?size=25" width="25" height="25" /> [Amirhosain Shahsavari](https://github.com/amirhosainshahsavari)
 - [Algol](/Algol) - Added By <img src="https://github.com/F4R4N.png?size=25" width="25" height="25" /> [Faran Taghavi](https://github.com/F4R4N)
 - [Angular.js](/Angular.js) - Added By <img src="https://github.com/SajadRahimi1.png?size=25" width="25" height="25" /> [Sajad Rahimi](https://github.com/SajadRahimi1)
+- [Ansible](/Ansible) - Added By <img src="https://github.com/javadnikbakht.png?size=25" width="25" height="25" /> [Mohammad Javad Nikbakhte](https://github.com/javadnikbakht)
 - [AppleScript](/AppleScript) - Added By <img src="https://github.com/F4R4N.png?size=25" width="25" height="25" /> [Faran Taghavi](https://github.com/F4R4N)
 - [Arduino](/Arduino) - Added By <img src="https://github.com/BlackIQ.png?size=25" width="25" height="25" /> [Amirhossein Mohammadi](https://github.com/BlackIQ)
 - [Assembly](/Assembly) - Added By <img src="https://github.com/tahacodes.png?size=25" width="25" height="25" /> [Taha Farahani](https://github.com/tahacodes)

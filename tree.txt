@@ -40,6 +40,14 @@
 │   │   └── Angular.js
 │   ├── info.json
 │   └── resources.md
+├── Ansible
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── hello-world.yaml
+│   ├── info.json
+│   └── resources.md
 ├── AppleScript
 │   ├── README.md
 │   ├── books.md
@@ -989,14 +997,6 @@
 │   ├── info.json
 │   └── resources.md
 ├── Solidity
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   │   └── Solidity.sol
-│   ├── info.json
-│   └── resources.md
-├── Swift
 │   ├── README.md
 │   ├── books.md
 ... length_limit, 1000, reached, counted:

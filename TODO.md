@@ -7,6 +7,7 @@
 
 | Language | Readme | Books (at least 2 items) | Courses (at least 2 items) | Resources (at least 2 items) |
 |----------|--------|--------------------------|----------------------------|------------------------------|
+| [🌐 Ansible](/Ansible) |✅ Done! | [ℹ️ Add one!](/Ansible/books.md) | ✅ Done! | ✅ Done! | 
 | [🌐 Pine-Script](/Pine-Script) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Pine-Script/courses.md) | [ℹ️ Add one!](/Pine-Script/resources.md) | 
 | [🌐 Oz](/Oz) |✅ Done! | [ℹ️ Add one!](/Oz/books.md) | [ℹ️ Add one!](/Oz/courses.md) | ✅ Done! | 
 | [🌐 Kotlin](/Kotlin) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Kotlin/courses.md) | [ℹ️ Add one!](/Kotlin/resources.md) | 
