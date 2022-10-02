@@ -1,0 +1,8 @@
+---
+- name: Hello world as an Ansible Playbook
+  hosts: ansibleclient01.local
+  tasks:
+    - name: Create a file called '/tmp/testfile.txt' with the content 'hello world'.
+      copy:
+        content: hello worldn
+        dest: /tmp/testfile.txt
