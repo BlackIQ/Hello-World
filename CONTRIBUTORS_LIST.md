@@ -28,6 +28,7 @@
 | [Elyas 'Eloy' Hadizadeh Tasbiti](https://github.com/elyashadizadeh)|2|
 | [Mahdi Abbaspour Shahmarasi](https://github.com/mahdi-abbaspour-shahmarasi)|2|
 | [Mohammad Esmaeili](https://github.com/momhiar)|2|
+| [Mohammad Javad Nikbakht](https://github.com/javadnikbakht)|2|
 | [Arian Ebrahimi](https://github.com/ribrea)|2|
 | [Komeil Parseh](https://github.com/komeilparseh)|2|
 | [Brian Gor](https://github.com/briangor)|1|
@@ -64,7 +65,6 @@
 | [AzerothA](https://github.com/AzerothA)|1|
 | [Muhammad Fazel Samarghandi](https://github.com/fazelsamar)|1|
 | [Arman](https://github.com/arman324)|1|
-| [Mohammad Javad Nikbakht](https://github.com/javadnikbakht)|1|
 | [Morteza Heydari](https://github.com/MortezaHeydari97)|1|
 | [Jadi Mirmirani](https://github.com/jadijadi)|1|
 | [Ali Naderi](https://github.com/khod-naderi)|1|
