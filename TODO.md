@@ -22,6 +22,7 @@
 | [🌐 VBScript](/VBScript) |✅ Done! | [ℹ️ Add one!](/VBScript/books.md) | [ℹ️ Add one!](/VBScript/courses.md) | [ℹ️ Add one!](/VBScript/resources.md) | 
 | [🌐 VB](/VB) |✅ Done! | [ℹ️ Add one!](/VB/books.md) | [ℹ️ Add one!](/VB/courses.md) | [ℹ️ Add one!](/VB/resources.md) | 
 | [🌐 V](/V) |✅ Done! | [ℹ️ Add one!](/V/books.md) | [ℹ️ Add one!](/V/courses.md) | [ℹ️ Add one!](/V/resources.md) | 
+| [🌐 Tornado](/Tornado) |✅ Done! | [ℹ️ Add one!](/Tornado/books.md) | [ℹ️ Add one!](/Tornado/courses.md) | [ℹ️ Add one!](/Tornado/resources.md) | 
 | [🌐 Small-Basic](/Small-Basic) |✅ Done! | [ℹ️ Add one!](/Small-Basic/books.md) | [ℹ️ Add one!](/Small-Basic/courses.md) | [ℹ️ Add one!](/Small-Basic/resources.md) | 
 | [🌐 ShellScript](/ShellScript) |✅ Done! | [ℹ️ Add one!](/ShellScript/books.md) | [ℹ️ Add one!](/ShellScript/courses.md) | [ℹ️ Add one!](/ShellScript/resources.md) | 
 | [🌐 Shakespeare](/Shakespeare) |✅ Done! | [ℹ️ Add one!](/Shakespeare/books.md) | [ℹ️ Add one!](/Shakespeare/courses.md) | [ℹ️ Add one!](/Shakespeare/resources.md) | 
