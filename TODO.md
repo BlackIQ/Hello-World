@@ -84,7 +84,7 @@
 | [🌐 ABC](/ABC) |✅ Done! | [ℹ️ Add one!](/ABC/books.md) | [ℹ️ Add one!](/ABC/courses.md) | [ℹ️ Add one!](/ABC/resources.md) | 
 | [🌐 قلب](/قلب) |[ℹ️ Edit it!](/قلب/README.md) | [ℹ️ Add one!](/قلب/books.md) | [ℹ️ Add one!](/قلب/courses.md) | [ℹ️ Add one!](/قلب/resources.md) | 
 | [🌐 Vim-Script](/Vim-Script) |[ℹ️ Edit it!](/Vim-Script/README.md) | [ℹ️ Add one!](/Vim-Script/books.md) | [ℹ️ Add one!](/Vim-Script/courses.md) | [ℹ️ Add one!](/Vim-Script/resources.md) | 
-| [🌐 Typescript](/Typescript) |[ℹ️ Edit it!](/Typescript/README.md) | [ℹ️ Add one!](/Typescript/books.md) | [ℹ️ Add one!](/Typescript/courses.md) | [ℹ️ Add one!](/Typescript/resources.md) | 
+| [🌐 Typescript](/Typescript) |[ℹ️ Edit it!](/Typescript/README.md) | [ℹ️ Add one!](/Typescript/books.md) | ✅ Done! | ✅ Done! | 
 | [🌐 Tcl](/Tcl) |[ℹ️ Edit it!](/Tcl/README.md) | [ℹ️ Add one!](/Tcl/books.md) | [ℹ️ Add one!](/Tcl/courses.md) | [ℹ️ Add one!](/Tcl/resources.md) | 
 | [🌐 Swift](/Swift) |[ℹ️ Edit it!](/Swift/README.md) | [ℹ️ Add one!](/Swift/books.md) | [ℹ️ Add one!](/Swift/courses.md) | [ℹ️ Add one!](/Swift/resources.md) | 
 | [🌐 Solidity](/Solidity) |[ℹ️ Edit it!](/Solidity/README.md) | [ℹ️ Add one!](/Solidity/books.md) | [ℹ️ Add one!](/Solidity/courses.md) | [ℹ️ Add one!](/Solidity/resources.md) | 
