@@ -11,7 +11,7 @@
 | [🌐 Pine-Script](/Pine-Script) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Pine-Script/courses.md) | [ℹ️ Add one!](/Pine-Script/resources.md) | 
 | [🌐 Oz](/Oz) |✅ Done! | [ℹ️ Add one!](/Oz/books.md) | [ℹ️ Add one!](/Oz/courses.md) | ✅ Done! | 
 | [🌐 Kotlin](/Kotlin) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Kotlin/courses.md) | [ℹ️ Add one!](/Kotlin/resources.md) | 
-| [🌐 Go](/Go) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Go/courses.md) | [ℹ️ Add one!](/Go/resources.md) | 
+| [🌐 Go](/Go) |✅ Done! | ✅ Done! | ✅ Done! | [ℹ️ Add one!](/Go/resources.md) | 
 | [🌐 Fastapi](/Fastapi) |✅ Done! | [ℹ️ Add one!](/Fastapi/books.md) | ✅ Done! | [ℹ️ Add one!](/Fastapi/resources.md) | 
 | [🌐 Arduino](/Arduino) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Arduino/courses.md) | [ℹ️ Add one!](/Arduino/resources.md) | 
 | [🌐 فردوسی](/فردوسی) |✅ Done! | [ℹ️ Add one!](/فردوسی/books.md) | [ℹ️ Add one!](/فردوسی/courses.md) | [ℹ️ Add one!](/فردوسی/resources.md) | 

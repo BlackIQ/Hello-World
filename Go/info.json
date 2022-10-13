@@ -1,6 +1,12 @@
 {
-    "creators": {
-        "title": "Sina Yeganeh Faal",
-        "link": "https://github.com/SinaYeganeh0-0"
-    }
+    "creators": [
+        {
+            "title": "Sina Yeganeh Faal",
+            "link": "https://github.com/SinaYeganeh0-0"
+        },
+        {
+            "title": "Jen Dunlap",
+            "link": "https://github.com/jdun28"
+        }
+    ]
 }
