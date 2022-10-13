@@ -246,7 +246,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 
 - [Tcl](/Tcl) - Added By <img src="https://github.com/Ja7adR.png?size=25" width="25" height="25" /> [Javad Rajabzade](https://github.com/Ja7adR)
 - [Tornado](/Tornado) - Added By <img src="https://github.com/javadnikbakht.png?size=25" width="25" height="25" /> [Mohammad Javad Nikbakht](https://github.com/javadnikbakht)
-- [Typescript](/Typescript) - Added By <img src="https://github.com/MortezaHeydari97.png?size=25" width="25" height="25" /> [Morteza Heydari](https://github.com/MortezaHeydari97),  <img src="https://github.com/BlackIQ.png?size=25" width="25" height="25" /> [Amirhossein Mohammadi](https://github.com/BlackIQ)
+- [Typescript](/Typescript) - Added By <img src="https://github.com/MortezaHeydari97.png?size=25" width="25" height="25" /> [Morteza Heydari](https://github.com/MortezaHeydari97),  <img src="https://github.com/BlackIQ.png?size=25" width="25" height="25" /> [Amirhossein Mohammadi](https://github.com/BlackIQ),  <img src="https://github.com/jdun28.png?size=25" width="25" height="25" /> [Jen Dunlap](https://github.com/jdun28)
 
 
 ### V

@@ -26,6 +26,7 @@
 | [Hamidreza Ghahremani](https://github.com/hamidreza01)|2|
 | [Fahime Zivdar](https://github.com/Fahime-zv)|2|
 | [Sina Yeganeh Faal](https://github.com/SinaYeganeh0-0)|2|
+| [Jen Dunlap](https://github.com/jdun28)|2|
 | [Elyas 'Eloy' Hadizadeh Tasbiti](https://github.com/elyashadizadeh)|2|
 | [Mahdi Abbaspour Shahmarasi](https://github.com/mahdi-abbaspour-shahmarasi)|2|
 | [Mohammad Esmaeili](https://github.com/momhiar)|2|
@@ -43,7 +44,6 @@
 | [Sina](https://github.com/sina-devel)|1|
 | [Kourosh Alinaghi](https://github.com/KouroshAlinaghi)|1|
 | [Sami Ghasemi](https://github.com/sami2020pro/)|1|
-| [Jen Dunlap](https://github.com/jdun28)|1|
 | [Hasan](https://github.com/bistcuite)|1|
 | [Erfan Saberi](https://github.com/erfansaberi)|1|
 | [Amin Asadi](https://github.com/aminasadiam)|1|
