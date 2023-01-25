@@ -812,6 +812,14 @@
 │   │   └── hello.pl
 │   ├── info.json
 │   └── resources.md
+├── PureScript
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── HelloWorld.purs
+│   ├── info.json
+│   └── resources.md
 ├── Python
 │   ├── README.md
 │   ├── books.md
@@ -991,14 +999,6 @@
 │   ├── examples
 │   │   └── helloworld.sh
 │   ├── info.json
-│   └── resources.md
-├── Small-Basic
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   │   ├── Hello World!.exe
-│   │   ├── Hello World!.pdb
 ... length_limit, 1000, reached, counted:
 
 231 directories, 769 files

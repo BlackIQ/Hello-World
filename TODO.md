@@ -33,6 +33,7 @@
 | [🌐 React-Native](/React-Native) |✅ Done! | [ℹ️ Add one!](/React-Native/books.md) | [ℹ️ Add one!](/React-Native/courses.md) | [ℹ️ Add one!](/React-Native/resources.md) | 
 | [🌐 Qsharp](/Qsharp) |✅ Done! | [ℹ️ Add one!](/Qsharp/books.md) | [ℹ️ Add one!](/Qsharp/courses.md) | [ℹ️ Add one!](/Qsharp/resources.md) | 
 | [🌐 QBasic](/QBasic) |✅ Done! | [ℹ️ Add one!](/QBasic/books.md) | [ℹ️ Add one!](/QBasic/courses.md) | [ℹ️ Add one!](/QBasic/resources.md) | 
+| [🌐 PureScript](/PureScript) |✅ Done! | [ℹ️ Add one!](/PureScript/books.md) | [ℹ️ Add one!](/PureScript/courses.md) | [ℹ️ Add one!](/PureScript/resources.md) | 
 | [🌐 Pony](/Pony) |✅ Done! | [ℹ️ Add one!](/Pony/books.md) | [ℹ️ Add one!](/Pony/courses.md) | [ℹ️ Add one!](/Pony/resources.md) | 
 | [🌐 Piet](/Piet) |✅ Done! | [ℹ️ Add one!](/Piet/books.md) | [ℹ️ Add one!](/Piet/courses.md) | [ℹ️ Add one!](/Piet/resources.md) | 
 | [🌐 Pashmak](/Pashmak) |✅ Done! | [ℹ️ Add one!](/Pashmak/books.md) | [ℹ️ Add one!](/Pashmak/courses.md) | [ℹ️ Add one!](/Pashmak/resources.md) | 
