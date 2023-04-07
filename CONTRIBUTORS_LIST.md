@@ -63,6 +63,7 @@
 | [Reza Bojnordi](https://github.com/rezabojnordi)|1|
 | [Annahita Mirhosseini](https://github.com/Annahita2004)|1|
 | [Qiamast](https://github.com/Qiamast)|1|
+| [Alireza Hosseinitabar](https://github.com/hosseinitabar)|1|
 | [Meysam P. Ganji](https://github.com/meysampg)|1|
 | [AzerothA](https://github.com/AzerothA)|1|
 | [Muhammad Fazel Samarghandi](https://github.com/fazelsamar)|1|

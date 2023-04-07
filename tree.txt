@@ -874,6 +874,16 @@
 │   │   └── Operation.qs
 │   ├── info.json
 │   └── resources.md
+├── Qwik
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   ├── app.tsx
+│   │   ├── entry.server.tsx
+│   │   └── root.tsx
+│   ├── info.json
+│   └── resources.md
 ├── R
 │   ├── README.md
 │   ├── books.md
@@ -989,16 +999,6 @@
 │   ├── books.md
 │   ├── courses.md
 │   ├── examples
-│   │   └── shakespeare.spl
-│   ├── info.json
-│   └── resources.md
-├── ShellScript
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   │   └── helloworld.sh
-│   ├── info.json
 ... length_limit, 1000, reached, counted:
 
 231 directories, 769 files
