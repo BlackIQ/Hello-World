@@ -114,6 +114,7 @@
 | [🌐 MIPS](/MIPS) |[ℹ️ Edit it!](/MIPS/README.md) | [ℹ️ Add one!](/MIPS/books.md) | [ℹ️ Add one!](/MIPS/courses.md) | [ℹ️ Add one!](/MIPS/resources.md) | 
 | [🌐 Lua](/Lua) |[ℹ️ Edit it!](/Lua/README.md) | [ℹ️ Add one!](/Lua/books.md) | [ℹ️ Add one!](/Lua/courses.md) | [ℹ️ Add one!](/Lua/resources.md) | 
 | [🌐 Lisp](/Lisp) |[ℹ️ Edit it!](/Lisp/README.md) | [ℹ️ Add one!](/Lisp/books.md) | [ℹ️ Add one!](/Lisp/courses.md) | [ℹ️ Add one!](/Lisp/resources.md) | 
+| [🌐 Limbo](/Limbo) |[ℹ️ Edit it!](/Limbo/README.md) | [ℹ️ Add one!](/Limbo/books.md) | [ℹ️ Add one!](/Limbo/courses.md) | [ℹ️ Add one!](/Limbo/resources.md) | 
 | [🌐 Jython](/Jython) |[ℹ️ Edit it!](/Jython/README.md) | [ℹ️ Add one!](/Jython/books.md) | [ℹ️ Add one!](/Jython/courses.md) | [ℹ️ Add one!](/Jython/resources.md) | 
 | [🌐 Html](/Html) |[ℹ️ Edit it!](/Html/README.md) | [ℹ️ Add one!](/Html/books.md) | [ℹ️ Add one!](/Html/courses.md) | [ℹ️ Add one!](/Html/resources.md) | 
 | [🌐 Haxe](/Haxe) |[ℹ️ Edit it!](/Haxe/README.md) | [ℹ️ Add one!](/Haxe/books.md) | [ℹ️ Add one!](/Haxe/courses.md) | [ℹ️ Add one!](/Haxe/resources.md) | 
