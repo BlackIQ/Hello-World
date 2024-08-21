@@ -86,6 +86,7 @@
 | [🌐 Abdal-Autoit](/Abdal-Autoit) |✅ Done! | [ℹ️ Add one!](/Abdal-Autoit/books.md) | [ℹ️ Add one!](/Abdal-Autoit/courses.md) | [ℹ️ Add one!](/Abdal-Autoit/resources.md) | 
 | [🌐 ABC](/ABC) |✅ Done! | [ℹ️ Add one!](/ABC/books.md) | [ℹ️ Add one!](/ABC/courses.md) | [ℹ️ Add one!](/ABC/resources.md) | 
 | [🌐 قلب](/قلب) |[ℹ️ Edit it!](/قلب/README.md) | [ℹ️ Add one!](/قلب/books.md) | [ℹ️ Add one!](/قلب/courses.md) | [ℹ️ Add one!](/قلب/resources.md) | 
+| [🌐 YAML](/YAML) |[ℹ️ Edit it!](/YAML/README.md) | [ℹ️ Add one!](/YAML/books.md) | [ℹ️ Add one!](/YAML/courses.md) | [ℹ️ Add one!](/YAML/resources.md) | 
 | [🌐 Vim-Script](/Vim-Script) |[ℹ️ Edit it!](/Vim-Script/README.md) | [ℹ️ Add one!](/Vim-Script/books.md) | [ℹ️ Add one!](/Vim-Script/courses.md) | [ℹ️ Add one!](/Vim-Script/resources.md) | 
 | [🌐 Typescript](/Typescript) |[ℹ️ Edit it!](/Typescript/README.md) | [ℹ️ Add one!](/Typescript/books.md) | [ℹ️ Add one!](/Typescript/courses.md) | [ℹ️ Add one!](/Typescript/resources.md) | 
 | [🌐 Tcl](/Tcl) |[ℹ️ Edit it!](/Tcl/README.md) | [ℹ️ Add one!](/Tcl/books.md) | [ℹ️ Add one!](/Tcl/courses.md) | [ℹ️ Add one!](/Tcl/resources.md) | 
