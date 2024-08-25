@@ -102,6 +102,7 @@
 | [🌐 Prolog](/Prolog) |[ℹ️ Edit it!](/Prolog/README.md) | [ℹ️ Add one!](/Prolog/books.md) | [ℹ️ Add one!](/Prolog/courses.md) | [ℹ️ Add one!](/Prolog/resources.md) | 
 | [🌐 PowerShell](/PowerShell) |[ℹ️ Edit it!](/PowerShell/README.md) | [ℹ️ Add one!](/PowerShell/books.md) | [ℹ️ Add one!](/PowerShell/courses.md) | [ℹ️ Add one!](/PowerShell/resources.md) | 
 | [🌐 Plus](/Plus) |[ℹ️ Edit it!](/Plus/README.md) | [ℹ️ Add one!](/Plus/books.md) | [ℹ️ Add one!](/Plus/courses.md) | [ℹ️ Add one!](/Plus/resources.md) | 
+| [🌐 Pike](/Pike) |[ℹ️ Edit it!](/Pike/README.md) | [ℹ️ Add one!](/Pike/books.md) | [ℹ️ Add one!](/Pike/courses.md) | [ℹ️ Add one!](/Pike/resources.md) | 
 | [🌐 Perl](/Perl) |[ℹ️ Edit it!](/Perl/README.md) | [ℹ️ Add one!](/Perl/books.md) | [ℹ️ Add one!](/Perl/courses.md) | [ℹ️ Add one!](/Perl/resources.md) | 
 | [🌐 Pascal](/Pascal) |[ℹ️ Edit it!](/Pascal/README.md) | [ℹ️ Add one!](/Pascal/books.md) | [ℹ️ Add one!](/Pascal/courses.md) | [ℹ️ Add one!](/Pascal/resources.md) | 
 | [🌐 Opa](/Opa) |[ℹ️ Edit it!](/Opa/README.md) | [ℹ️ Add one!](/Opa/books.md) | [ℹ️ Add one!](/Opa/courses.md) | [ℹ️ Add one!](/Opa/resources.md) | 
