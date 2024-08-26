@@ -198,7 +198,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 - [Perl](/Perl) - Added By <img src="https://github.com/BlackIQ.png?size=25" width="25" height="25" /> [Amirhossein Mohammadi](https://github.com/BlackIQ)
 - [Php](/Php) - Added By <img src="https://github.com/ebad84.png?size=25" width="25" height="25" /> [Mohammad Reza Ebadollah](https://github.com/ebad84)
 - [Piet](/Piet) - Added By <img src="https://github.com/ali0gamer1.png?size=25" width="25" height="25" /> [Ali Arj](https://github.com/ali0gamer1)
-- [Pike](/Pike) - Added By <img src="https://github.com/LiamJaco.png?size=25" width="25" height="25" /> [LiamJaco](https://github.com/LiamJaco)
+- [Pike](/Pike)
 - [Pine-Script](/Pine-Script) - Added By <img src="https://github.com/momhiar.png?size=25" width="25" height="25" /> [Mohammad Esmaeili](https://github.com/momhiar)
 - [Plus](/Plus) - Added By <img src="https://github.com/amireshoon.png?size=25" width="25" height="25" /> [Amirhossein Meydani](https://github.com/amireshoon)
 - [Pony](/Pony) - Added By <img src="https://github.com/komeilparseh.png?size=25" width="25" height="25" /> [Komeil Parseh](https://github.com/komeilparseh)
@@ -279,7 +279,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 
 ---
 
-- [YAML](/YAML) - Added By <img src="https://github.com/LiamJaco.png?size=25" width="25" height="25" /> [LiamJaco](https://github.com/LiamJaco)
+- [YAML](/YAML)
 - [YO](/YO)
 - [Yacas](/Yacas) - Added By <img src="https://github.com/AmirJey.png?size=25" width="25" height="25" /> [AmirJEY](https://github.com/AmirJey)
 
