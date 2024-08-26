@@ -96,6 +96,7 @@
 | [🌐 Scratch](/Scratch) |[ℹ️ Edit it!](/Scratch/README.md) | [ℹ️ Add one!](/Scratch/books.md) | [ℹ️ Add one!](/Scratch/courses.md) | [ℹ️ Add one!](/Scratch/resources.md) | 
 | [🌐 Scheme](/Scheme) |[ℹ️ Edit it!](/Scheme/README.md) | [ℹ️ Add one!](/Scheme/books.md) | [ℹ️ Add one!](/Scheme/courses.md) | [ℹ️ Add one!](/Scheme/resources.md) | 
 | [🌐 SQL](/SQL) |[ℹ️ Edit it!](/SQL/README.md) | [ℹ️ Add one!](/SQL/books.md) | [ℹ️ Add one!](/SQL/courses.md) | [ℹ️ Add one!](/SQL/resources.md) | 
+| [🌐 Rune](/Rune) |[ℹ️ Edit it!](/Rune/README.md) | [ℹ️ Add one!](/Rune/books.md) | [ℹ️ Add one!](/Rune/courses.md) | [ℹ️ Add one!](/Rune/resources.md) | 
 | [🌐 Ruby](/Ruby) |[ℹ️ Edit it!](/Ruby/README.md) | [ℹ️ Add one!](/Ruby/books.md) | [ℹ️ Add one!](/Ruby/courses.md) | [ℹ️ Add one!](/Ruby/resources.md) | 
 | [🌐 Red](/Red) |[ℹ️ Edit it!](/Red/README.md) | [ℹ️ Add one!](/Red/books.md) | [ℹ️ Add one!](/Red/courses.md) | [ℹ️ Add one!](/Red/resources.md) | 
 | [🌐 R](/R) |[ℹ️ Edit it!](/R/README.md) | [ℹ️ Add one!](/R/books.md) | [ℹ️ Add one!](/R/courses.md) | [ℹ️ Add one!](/R/resources.md) | 

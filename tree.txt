@@ -968,6 +968,13 @@
 │   │   └── ruby.rb
 │   ├── info.json
 │   └── resources.md
+├── Rune
+│   ├── README.md
+│   ├── Rune.rn
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   └── resources.md
 ├── Rust
 │   ├── README.md
 │   ├── books.md
@@ -992,13 +999,6 @@
 │   │   └── Hello.scala
 │   ├── info.json
 │   └── resources.md
-├── Scheme
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   │   └── main.scm
-│   ├── info.json
 ... length_limit, 1000, reached, counted:
 
 231 directories, 769 files
