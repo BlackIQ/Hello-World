@@ -24,7 +24,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 ---
 
 - [ABC](/ABC) - Added By <img src="https://github.com/briangor.png?size=25" width="25" height="25" /> [Brian Gor](https://github.com/briangor)
-- [ASCII](/ASCII) - Added by <img src="https://github.com/nathanielchit.png?" size="25" width="25" height="25" /> [Nathaniel Chitnis](https://github.com/nathanielchi)
+- [ASCII](/ASCII)
 - [Abdal-Autoit](/Abdal-Autoit) - Added By <img src="https://github.com/shahriaarrr.png?size=25" width="25" height="25" /> [shahriaarrr](https://github.com/shahriaarrr)
 - [Ada](/Ada) - Added By <img src="https://github.com/amirhosainshahsavari.png?size=25" width="25" height="25" /> [Amirhosain Shahsavari](https://github.com/amirhosainshahsavari)
 - [Algol](/Algol) - Added By <img src="https://github.com/F4R4N.png?size=25" width="25" height="25" /> [Faran Taghavi](https://github.com/F4R4N)
@@ -150,7 +150,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 
 - [LOLCODE](/LOLCODE) - Added By <img src="https://github.com/ali0gamer1.png?size=25" width="25" height="25" /> [Ali Arj](https://github.com/ali0gamer1)
 - [LaTeX](/LaTeX) - Added By <img src="https://github.com/byteface.png?size=25" width="25" height="25" /> [byteface](https://github.com/byteface)
-- [Limbo](/Limbo) - Added by <img src="https://github.com/mikeselva.png?size=25" width="25" height="25" /> [Justin Goncalves](https://github.com/Justgonca)
+- [Limbo](/Limbo)
 - [Lisp](/Lisp) - Added By <img src="https://github.com/Fahime-zv.png?size=25" width="25" height="25" /> [Fahime Zivdar](https://github.com/Fahime-zv)
 - [Lua](/Lua) - Added By <img src="https://github.com/xenups.png?size=25" width="25" height="25" /> [Amir Lesani](https://github.com/xenups)
 
@@ -170,7 +170,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 
 ---
 
-- [NXC](/NXC) - Added by <img src="https://github.com/rishichitnis008.png?size=25" width="25" height="25" /> [Rishi Chitnis](https://github.com/rishichitnis008)
+- [NXC](/NXC)
 - [Neko-VM](/Neko-VM) - Added By <img src="https://github.com/amireshoon.png?size=25" width="25" height="25" /> [Amirhossein Meydani](https://github.com/amireshoon)
 - [Nginx](/Nginx) - Added By <img src="https://github.com/momhiar.png?size=25" width="25" height="25" /> [Mohammad Esmaeili](https://github.com/momhiar)
 - [Nim](/Nim) - Added By <img src="https://github.com/alirezaja1384.png?size=25" width="25" height="25" /> [Alireza Jafari](https://github.com/alirezaja1384)
@@ -280,8 +280,8 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 
 ---
 
-- [YAML](/YAML) - Added by <img src="https://github.com/mikeselva?size=25" width="25" height="25" /> [Mike Selva](https://github.com/mikeselva)
-- [YO](/YO) - Added by <img src="https://github.com/AmirJey.png?size=25" width="25" height="25" /> [Liam Jacobs](https://github.com/LiamJaco)
+- [YAML](/YAML)
+- [YO](/YO)
 - [Yacas](/Yacas) - Added By <img src="https://github.com/AmirJey.png?size=25" width="25" height="25" /> [AmirJEY](https://github.com/AmirJey)
 
 
@@ -289,7 +289,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 
 ---
 
-- [Z#](/Z#) - Added By <img src="https://github.com/Justgoncaa.png?size=25" width="25" height="25" /> [Justin Goncalves](https://github.com/Justgoncaa)
+- [Z#](/Z#)
 - [Zig-lang](/Zig-lang) - Added By <img src="https://github.com/ali0gamer1.png?size=25" width="25" height="25" /> [Ali Arj](https://github.com/ali0gamer1)
 
 
