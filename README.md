@@ -228,7 +228,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 - [Red](/Red) - Added By <img src="https://github.com/sami2020pro.png?size=25" width="25" height="25" /> [Sami Ghasemi](https://github.com/sami2020pro)
 - [Rockstar](/Rockstar) - Added By <img src="https://github.com/ali0gamer1.png?size=25" width="25" height="25" /> [Ali Arj](https://github.com/ali0gamer1)
 - [Ruby](/Ruby) - Added By <img src="https://github.com/BlackIQ.png?size=25" width="25" height="25" /> [Amirhossein Mohammadi](https://github.com/BlackIQ)
-- [Rune](/Rune)
+- [Rune](/Rune) 
 - [Rust](/Rust) - Added By <img src="https://github.com/mr-tafreshi.png?size=25" width="25" height="25" /> [Amirmahdi Tafreshi](https://github.com/mr-tafreshi)
 
 
@@ -289,7 +289,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 
 ---
 
-- [Z#](/Z#)
+- [Z#](/Z#) - Added By <img src="https://github.com/Justgoncaa.png?size=25" width="25" height="25" /> [Justgoncaa](https://github.com/Justgoncaa)
 - [Zig-lang](/Zig-lang) - Added By <img src="https://github.com/ali0gamer1.png?size=25" width="25" height="25" /> [Ali Arj](https://github.com/ali0gamer1)
 
 
