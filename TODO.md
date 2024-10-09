@@ -76,6 +76,7 @@
 | [🌐 Batch](/Batch) |✅ Done! | [ℹ️ Add one!](/Batch/books.md) | [ℹ️ Add one!](/Batch/courses.md) | [ℹ️ Add one!](/Batch/resources.md) | 
 | [🌐 Basic](/Basic) |✅ Done! | [ℹ️ Add one!](/Basic/books.md) | [ℹ️ Add one!](/Basic/courses.md) | [ℹ️ Add one!](/Basic/resources.md) | 
 | [🌐 Bash](/Bash) |✅ Done! | [ℹ️ Add one!](/Bash/books.md) | [ℹ️ Add one!](/Bash/courses.md) | [ℹ️ Add one!](/Bash/resources.md) | 
+| [🌐 Ballerina](/Ballerina) |✅ Done! | [ℹ️ Add one!](/Ballerina/books.md) | [ℹ️ Add one!](/Ballerina/courses.md) | [ℹ️ Add one!](/Ballerina/resources.md) | 
 | [🌐 B](/B) |✅ Done! | [ℹ️ Add one!](/B/books.md) | [ℹ️ Add one!](/B/courses.md) | [ℹ️ Add one!](/B/resources.md) | 
 | [🌐 Awk](/Awk) |✅ Done! | [ℹ️ Add one!](/Awk/books.md) | [ℹ️ Add one!](/Awk/courses.md) | [ℹ️ Add one!](/Awk/resources.md) | 
 | [🌐 Assembly](/Assembly) |✅ Done! | [ℹ️ Add one!](/Assembly/books.md) | [ℹ️ Add one!](/Assembly/courses.md) | [ℹ️ Add one!](/Assembly/resources.md) | 

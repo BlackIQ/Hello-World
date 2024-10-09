@@ -17,6 +17,7 @@
 | [Javad Rajabzade](https://github.com/Ja7adR)|3|
 | [Jen Dunlap](https://github.com/jdun28)|3|
 | [Seyed Mohammad Amin Atyabi](https://github.com/SM2A)|3|
+| [Pritesh Rajput](https://github.com/rajputpritesh1)|2|
 | [Amirhosain Shahsavari](https://github.com/amirhosainshahsavari)|2|
 | [Parsa](https://github.com/parsampsh)|2|
 | [Amirmahdi Tafreshi](https://github.com/mr-tafreshi)|2|
@@ -33,7 +34,6 @@
 | [Arian Ebrahimi](https://github.com/ribrea)|2|
 | [Komeil Parseh](https://github.com/komeilparseh)|2|
 | [Brian Gor](https://github.com/briangor)|1|
-| [Pritesh Rajput](https://github.com/rajputpritesh1)|1|
 | [Taha Farahani](https://github.com/tahacodes)|1|
 | [Sullivan(Epic-R-R)](https://github.com/Epic-R-R)|1|
 | [Saeed Nejati](https://github.com/saeednj)|1|
