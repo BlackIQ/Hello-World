@@ -18,6 +18,7 @@
 | [🌐 Arduino](/Arduino) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Arduino/courses.md) | [ℹ️ Add one!](/Arduino/resources.md) | 
 | [🌐 فردوسی](/فردوسی) |✅ Done! | [ℹ️ Add one!](/فردوسی/books.md) | [ℹ️ Add one!](/فردوسی/courses.md) | [ℹ️ Add one!](/فردوسی/resources.md) | 
 | [🌐 Zig-lang](/Zig-lang) |✅ Done! | [ℹ️ Add one!](/Zig-lang/books.md) | [ℹ️ Add one!](/Zig-lang/courses.md) | [ℹ️ Add one!](/Zig-lang/resources.md) | 
+| [🌐 Yorick](/Yorick) |✅ Done! | [ℹ️ Add one!](/Yorick/books.md) | [ℹ️ Add one!](/Yorick/courses.md) | [ℹ️ Add one!](/Yorick/resources.md) | 
 | [🌐 Yacas](/Yacas) |✅ Done! | [ℹ️ Add one!](/Yacas/books.md) | [ℹ️ Add one!](/Yacas/courses.md) | [ℹ️ Add one!](/Yacas/resources.md) | 
 | [🌐 YO](/YO) |✅ Done! | [ℹ️ Add one!](/YO/books.md) | [ℹ️ Add one!](/YO/courses.md) | [ℹ️ Add one!](/YO/resources.md) | 
 | [🌐 Whitespace](/Whitespace) |✅ Done! | [ℹ️ Add one!](/Whitespace/books.md) | [ℹ️ Add one!](/Whitespace/courses.md) | [ℹ️ Add one!](/Whitespace/resources.md) | 

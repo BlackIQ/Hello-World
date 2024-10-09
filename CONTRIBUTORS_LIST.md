@@ -74,4 +74,5 @@
 | [Ali Naderi](https://github.com/khod-naderi)|1|
 | [Santhita Krajangwongpaisan](https://github.com/santhitak)|1|
 | [AmirJEY](https://github.com/AmirJey)|1|
+| [Himanshu Singh](https://github.com/Code-sHimanshu)|1|
 | [Hadi Azarnasab](https://github.com/Hadi7546)|1|
