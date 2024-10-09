@@ -83,6 +83,7 @@
 | [🌐 Angular.js](/Angular.js) |✅ Done! | [ℹ️ Add one!](/Angular.js/books.md) | [ℹ️ Add one!](/Angular.js/courses.md) | [ℹ️ Add one!](/Angular.js/resources.md) | 
 | [🌐 Algol](/Algol) |✅ Done! | [ℹ️ Add one!](/Algol/books.md) | [ℹ️ Add one!](/Algol/courses.md) | [ℹ️ Add one!](/Algol/resources.md) | 
 | [🌐 Ada](/Ada) |✅ Done! | [ℹ️ Add one!](/Ada/books.md) | [ℹ️ Add one!](/Ada/courses.md) | [ℹ️ Add one!](/Ada/resources.md) | 
+| [🌐 ActionScript](/ActionScript) |✅ Done! | [ℹ️ Add one!](/ActionScript/books.md) | [ℹ️ Add one!](/ActionScript/courses.md) | [ℹ️ Add one!](/ActionScript/resources.md) | 
 | [🌐 Abdal-Autoit](/Abdal-Autoit) |✅ Done! | [ℹ️ Add one!](/Abdal-Autoit/books.md) | [ℹ️ Add one!](/Abdal-Autoit/courses.md) | [ℹ️ Add one!](/Abdal-Autoit/resources.md) | 
 | [🌐 ABC](/ABC) |✅ Done! | [ℹ️ Add one!](/ABC/books.md) | [ℹ️ Add one!](/ABC/courses.md) | [ℹ️ Add one!](/ABC/resources.md) | 
 | [🌐 قلب](/قلب) |[ℹ️ Edit it!](/قلب/README.md) | [ℹ️ Add one!](/قلب/books.md) | [ℹ️ Add one!](/قلب/courses.md) | [ℹ️ Add one!](/قلب/resources.md) | 
