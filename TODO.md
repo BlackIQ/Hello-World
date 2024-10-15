@@ -89,6 +89,7 @@
 | [🌐 Abdal-Autoit](/Abdal-Autoit) |✅ Done! | [ℹ️ Add one!](/Abdal-Autoit/books.md) | [ℹ️ Add one!](/Abdal-Autoit/courses.md) | [ℹ️ Add one!](/Abdal-Autoit/resources.md) | 
 | [🌐 ABC](/ABC) |✅ Done! | [ℹ️ Add one!](/ABC/books.md) | [ℹ️ Add one!](/ABC/courses.md) | [ℹ️ Add one!](/ABC/resources.md) | 
 | [🌐 قلب](/قلب) |[ℹ️ Edit it!](/قلب/README.md) | [ℹ️ Add one!](/قلب/books.md) | [ℹ️ Add one!](/قلب/courses.md) | [ℹ️ Add one!](/قلب/resources.md) | 
+| [🌐 Zinc](/Zinc) |[ℹ️ Edit it!](/Zinc/README.md) | [ℹ️ Add one!](/Zinc/books.md) | [ℹ️ Add one!](/Zinc/courses.md) | [ℹ️ Add one!](/Zinc/resources.md) | 
 | [🌐 Z-Shell](/Z-Shell) |[ℹ️ Edit it!](/Z-Shell/README.md) | [ℹ️ Add one!](/Z-Shell/books.md) | [ℹ️ Add one!](/Z-Shell/courses.md) | [ℹ️ Add one!](/Z-Shell/resources.md) | 
 | [🌐 Z#](/Z#) |[ℹ️ Edit it!](/Z#/README.md) | [ℹ️ Add one!](/Z#/books.md) | [ℹ️ Add one!](/Z#/courses.md) | [ℹ️ Add one!](/Z#/resources.md) | 
 | [🌐 YAML](/YAML) |[ℹ️ Edit it!](/YAML/README.md) | [ℹ️ Add one!](/YAML/books.md) | [ℹ️ Add one!](/YAML/courses.md) | [ℹ️ Add one!](/YAML/resources.md) | 
