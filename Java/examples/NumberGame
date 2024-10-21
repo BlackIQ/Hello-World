@@ -1,0 +1,71 @@
+import java.util.*;
+public class NumberGame {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        Random rand = new Random();
+        int min = 1 ;
+        int max = 101;
+        int randomNumber = rand.nextInt(max-min)+min;
+        int score = 0;
+        System.out.println("""
+                Welcome to the number game!
+                The number is between 1 to 100.
+                You will get maximum of 8 chances to guess the number.
+                ---------Rules for points----------
+                Guess 1 correct -> 10 points
+                Guess 2 correct -> 09 points
+                Guess 3 correct -> 07 points
+                Guess 4 correct -> 05 points
+                Guess 5 correct -> 04 points
+                Guess 6 correct -> 03 points
+                Guess 7 correct -> 02 points
+                Guess 8 correct -> 01 points""");
+        System.out.println("Guess the number!");
+        int x = in.nextInt();
+        int a = 1 ;
+        while(a<8){
+            if(x>randomNumber){
+                System.out.println("Too High!");
+                System.out.println("Give it another try!");
+                x = in.nextInt();
+                a++;
+            }
+            else if(x<randomNumber){
+                System.out.println("Too Low!");
+                System.out.println("Give it another try!");
+                x = in.nextInt();
+                a++;
+            }
+            while(x==randomNumber || a>=8){
+                if(a==1) score = score + 10;
+                else if (a==2) score = score + 9;
+                else if (a==3) score = score + 7;
+                else if (a==4) score = score + 5;
+                else if (a==5) score = score + 4;
+                else if (a==6) score = score + 3;
+                else if (a==7) score = score + 2;
+                else score = score + 1;
+                if(a>8){
+                    System.out.println("Oops, you couldn't guess the number :(\n" +
+                            "Better luck next time!");
+                }
+                System.out.println("Do you want to play again?\n" +
+                        "Enter 1 for yes, else enter 0.");
+                int n = in.nextInt();
+                randomNumber = rand.nextInt(max-min)+min;
+                if(n == 1){
+                    System.out.println("Guess the number again!");
+                    a = 1;
+                }
+                else if(n==0){
+                    System.out.println("Thank you playing the game!\n" +
+                            "Your score is: "+score);
+                    return;
+                }
+                x = in.nextInt();
+            }
+
+        }
+
+    }
+}
