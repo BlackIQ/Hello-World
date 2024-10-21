@@ -543,7 +543,8 @@
 │   │   ├── AddTwoNumbers.class
 │   │   ├── AddTwoNumbers.java
 │   │   ├── Java.java
-│   │   └── Java2.java
+│   │   ├── Java2.java
+│   │   └── NumberGame
 │   ├── info.json
 │   └── resources.md
 ├── JavaScript
@@ -998,7 +999,6 @@
 │   │   ├── 10-arrays-2.rb
 │   │   ├── 11-hash.rb
 │   │   ├── 12-datetime.rb
-│   │   ├── 13-iterators.rb
 ... length_limit, 1000, reached, counted:
 
 231 directories, 769 files
