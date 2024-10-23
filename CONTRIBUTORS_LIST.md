@@ -68,7 +68,7 @@
 | [Meysam P. Ganji](https://github.com/meysampg)|1|
 | [AzerothA](https://github.com/AzerothA)|1|
 | [Muhammad Fazel Samarghandi](https://github.com/fazelsamar)|1|
-| [Arman](https://github.com/arman324)|1|
+| [Swastik](https://github.com/swstkswstk)|1|
 | [Morteza Heydari](https://github.com/MortezaHeydari97)|1|
 | [Jadi Mirmirani](https://github.com/jadijadi)|1|
 | [Ali Naderi](https://github.com/khod-naderi)|1|

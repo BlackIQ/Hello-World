@@ -28,6 +28,7 @@
 | [🌐 VB](/VB) |✅ Done! | [ℹ️ Add one!](/VB/books.md) | [ℹ️ Add one!](/VB/courses.md) | [ℹ️ Add one!](/VB/resources.md) | 
 | [🌐 V](/V) |✅ Done! | [ℹ️ Add one!](/V/books.md) | [ℹ️ Add one!](/V/courses.md) | [ℹ️ Add one!](/V/resources.md) | 
 | [🌐 Tornado](/Tornado) |✅ Done! | [ℹ️ Add one!](/Tornado/books.md) | [ℹ️ Add one!](/Tornado/courses.md) | [ℹ️ Add one!](/Tornado/resources.md) | 
+| [🌐 Solidity](/Solidity) |✅ Done! | [ℹ️ Add one!](/Solidity/books.md) | [ℹ️ Add one!](/Solidity/courses.md) | [ℹ️ Add one!](/Solidity/resources.md) | 
 | [🌐 Small-Basic](/Small-Basic) |✅ Done! | [ℹ️ Add one!](/Small-Basic/books.md) | [ℹ️ Add one!](/Small-Basic/courses.md) | [ℹ️ Add one!](/Small-Basic/resources.md) | 
 | [🌐 ShellScript](/ShellScript) |✅ Done! | [ℹ️ Add one!](/ShellScript/books.md) | [ℹ️ Add one!](/ShellScript/courses.md) | [ℹ️ Add one!](/ShellScript/resources.md) | 
 | [🌐 Shakespeare](/Shakespeare) |✅ Done! | [ℹ️ Add one!](/Shakespeare/books.md) | [ℹ️ Add one!](/Shakespeare/courses.md) | [ℹ️ Add one!](/Shakespeare/resources.md) | 
@@ -97,7 +98,6 @@
 | [🌐 Typescript](/Typescript) |[ℹ️ Edit it!](/Typescript/README.md) | [ℹ️ Add one!](/Typescript/books.md) | [ℹ️ Add one!](/Typescript/courses.md) | [ℹ️ Add one!](/Typescript/resources.md) | 
 | [🌐 Tcl](/Tcl) |[ℹ️ Edit it!](/Tcl/README.md) | [ℹ️ Add one!](/Tcl/books.md) | [ℹ️ Add one!](/Tcl/courses.md) | [ℹ️ Add one!](/Tcl/resources.md) | 
 | [🌐 Swift](/Swift) |[ℹ️ Edit it!](/Swift/README.md) | [ℹ️ Add one!](/Swift/books.md) | [ℹ️ Add one!](/Swift/courses.md) | [ℹ️ Add one!](/Swift/resources.md) | 
-| [🌐 Solidity](/Solidity) |[ℹ️ Edit it!](/Solidity/README.md) | [ℹ️ Add one!](/Solidity/books.md) | [ℹ️ Add one!](/Solidity/courses.md) | [ℹ️ Add one!](/Solidity/resources.md) | 
 | [🌐 Scss](/Scss) |[ℹ️ Edit it!](/Scss/README.md) | [ℹ️ Add one!](/Scss/books.md) | [ℹ️ Add one!](/Scss/courses.md) | [ℹ️ Add one!](/Scss/resources.md) | 
 | [🌐 Scratch](/Scratch) |[ℹ️ Edit it!](/Scratch/README.md) | [ℹ️ Add one!](/Scratch/books.md) | [ℹ️ Add one!](/Scratch/courses.md) | [ℹ️ Add one!](/Scratch/resources.md) | 
 | [🌐 Scheme](/Scheme) |[ℹ️ Edit it!](/Scheme/README.md) | [ℹ️ Add one!](/Scheme/books.md) | [ℹ️ Add one!](/Scheme/courses.md) | [ℹ️ Add one!](/Scheme/resources.md) | 

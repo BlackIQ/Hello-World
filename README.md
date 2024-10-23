@@ -247,7 +247,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 - [Shakespeare](/Shakespeare) - Added By <img src="https://github.com/fazelsamar.png?size=25" width="25" height="25" /> [Muhammad Fazel Samarghandi](https://github.com/fazelsamar)
 - [ShellScript](/ShellScript) - Added By <img src="https://github.com/varous7.png?size=25" width="25" height="25" /> [Sourav Ghosh](https://github.com/varous7)
 - [Small-Basic](/Small-Basic) - Added By <img src="https://github.com/amirhosainshahsavari.png?size=25" width="25" height="25" /> [Amirhosain Shahsavari](https://github.com/amirhosainshahsavari)
-- [Solidity](/Solidity) - Added By <img src="https://github.com/arman324.png?size=25" width="25" height="25" /> [Arman](https://github.com/arman324)
+- [Solidity](/Solidity) - Added By <img src="https://github.com/swstkswstk.png?size=25" width="25" height="25" /> [Swastik](https://github.com/swstkswstk)
 - [Swift](/Swift) - Added By <img src="https://github.com/xenups.png?size=25" width="25" height="25" /> [Amir Lesani](https://github.com/xenups)
 
 
