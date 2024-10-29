@@ -197,9 +197,8 @@
 │   ├── README.md
 │   ├── books.md
 │   ├── courses.md
-│   ├── example
-│   │   └── cuda.cu
 │   ├── examples
+│   │   └── cuda.cu
 │   └── resources.md
 ├── Carbon
 │   ├── README.md
@@ -999,6 +998,7 @@
 │   ├── books.md
 │   ├── courses.md
 │   ├── examples
+│   │   └── HelloWorld.rock
 ... length_limit, 1000, reached, counted:
 
-233 directories, 767 files
+232 directories, 768 files
