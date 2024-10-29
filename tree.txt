@@ -193,6 +193,14 @@
 │   └── resources.md
 ├── CONTRIBUTING.md
 ├── CONTRIBUTORS_LIST.md
+├── CUDA
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── example
+│   │   └── cuda.cu
+│   ├── examples
+│   └── resources.md
 ├── Carbon
 │   ├── README.md
 │   ├── books.md
@@ -991,14 +999,6 @@
 │   ├── books.md
 │   ├── courses.md
 │   ├── examples
-│   │   └── HelloWorld.rock
-│   ├── info.json
-│   └── resources.md
-├── Ruby
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
 ... length_limit, 1000, reached, counted:
 
-232 directories, 768 files
+233 directories, 767 files
