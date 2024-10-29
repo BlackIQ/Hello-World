@@ -1,0 +1,2 @@
+# CUDA
+CUDA (Compute Unified Device Architecture) is an extension of the C/C++ programming languages and serves as a parallel computing platform and application programming interface (API) developed by NVIDIA. It leverages the power of the Graphics Processing Unit (GPU) to perform computations in parallel, significantly enhancing processing speed. As GPUs are designed to perform high-speed parallel computation CUDA can be used to perform common computing tasks, such as processing matrices and other linear algebra operations at much faster pace.
