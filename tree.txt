@@ -698,6 +698,13 @@
 │   │   └── hello.mq5
 │   ├── info.json
 │   └── resources.md
+├── My_folderA
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   ├── odoo.py
+│   └── resources.md
 ├── NXC
 │   ├── NXC.nxc
 │   ├── README.md
@@ -992,13 +999,6 @@
 │   ├── examples
 │   │   └── main.red
 │   ├── info.json
-│   └── resources.md
-├── Rockstar
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   │   └── HelloWorld.rock
 ... length_limit, 1000, reached, counted:
 
 232 directories, 768 files
