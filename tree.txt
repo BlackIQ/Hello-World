@@ -103,7 +103,13 @@
 │   │   └── hello.b
 │   ├── info.json
 │   └── resources.md
-├── BCPL.bcl
+├── BCPL
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── BCPL.bcl
+│   └── resources.md
 ├── Ballerina
 │   ├── README.md
 │   ├── books.md
@@ -993,12 +999,6 @@
 │   ├── info.json
 │   └── resources.md
 ├── Red
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   │   └── main.red
-│   ├── info.json
 ... length_limit, 1000, reached, counted:
 
-232 directories, 768 files
+233 directories, 767 files
