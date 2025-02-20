@@ -14,7 +14,7 @@ Also there is list of useful **Courses** and **Books** about the programming lan
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in This Repository: 147.
+Total Languages in This Repository: 148.
 
 Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://github.com/amireshoon)
 
@@ -59,6 +59,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 
 - [C](/C) - Added By <img src="https://github.com/moheb2000.png?size=25" width="25" height="25" /> [Mohammad Ebrahime](https://github.com/moheb2000)
 - [C-Shell](/C-Shell)
+- [CLISP](/CLISP)
 - [COBOL](/COBOL) - Added By <img src="https://github.com/sami2020pro.png?size=25" width="25" height="25" /> [Sami Ghasemi](https://github.com/sami2020pro)
 - [CUDA](/CUDA)
 - [Carbon](/Carbon) - Added By <img src="https://github.com/ArshiaPazoki.png?size=25" width="25" height="25" /> [Arshia Pazoki](https://github.com/ArshiaPazoki)

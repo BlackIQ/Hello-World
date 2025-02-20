@@ -189,6 +189,13 @@
 │   ├── examples
 │   │   └── Csh.csh
 │   └── resources.md
+├── CLISP
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── Clisp.lisp
+│   └── resources.md
 ├── COBOL
 │   ├── README.md
 │   ├── books.md
@@ -992,13 +999,6 @@
 │   └── resources.md
 ├── React-Native
 │   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   │   └── index.js
-│   ├── info.json
-│   └── resources.md
-├── Red
 ... length_limit, 1000, reached, counted:
 
 233 directories, 767 files
