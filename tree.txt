@@ -109,6 +109,7 @@
 │   ├── courses.md
 │   ├── examples
 │   │   └── BCPL.bcl
+│   ├── info.json
 │   └── resources.md
 ├── Ballerina
 │   ├── README.md
@@ -998,7 +999,6 @@
 │   ├── info.json
 │   └── resources.md
 ├── React-Native
-│   ├── README.md
 ... length_limit, 1000, reached, counted:
 
 233 directories, 767 files

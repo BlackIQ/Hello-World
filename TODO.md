@@ -80,6 +80,7 @@
 | [🌐 Basic](/Basic) |✅ Done! | [ℹ️ Add one!](/Basic/books.md) | [ℹ️ Add one!](/Basic/courses.md) | [ℹ️ Add one!](/Basic/resources.md) | 
 | [🌐 Bash](/Bash) |✅ Done! | [ℹ️ Add one!](/Bash/books.md) | [ℹ️ Add one!](/Bash/courses.md) | [ℹ️ Add one!](/Bash/resources.md) | 
 | [🌐 Ballerina](/Ballerina) |✅ Done! | [ℹ️ Add one!](/Ballerina/books.md) | [ℹ️ Add one!](/Ballerina/courses.md) | [ℹ️ Add one!](/Ballerina/resources.md) | 
+| [🌐 BCPL](/BCPL) |✅ Done! | [ℹ️ Add one!](/BCPL/books.md) | [ℹ️ Add one!](/BCPL/courses.md) | [ℹ️ Add one!](/BCPL/resources.md) | 
 | [🌐 B](/B) |✅ Done! | [ℹ️ Add one!](/B/books.md) | [ℹ️ Add one!](/B/courses.md) | [ℹ️ Add one!](/B/resources.md) | 
 | [🌐 Awk](/Awk) |✅ Done! | [ℹ️ Add one!](/Awk/books.md) | [ℹ️ Add one!](/Awk/courses.md) | [ℹ️ Add one!](/Awk/resources.md) | 
 | [🌐 Assembly](/Assembly) |✅ Done! | [ℹ️ Add one!](/Assembly/books.md) | [ℹ️ Add one!](/Assembly/courses.md) | [ℹ️ Add one!](/Assembly/resources.md) | 
@@ -146,5 +147,4 @@
 | [🌐 D](/D) |[ℹ️ Edit it!](/D/README.md) | [ℹ️ Add one!](/D/books.md) | [ℹ️ Add one!](/D/courses.md) | [ℹ️ Add one!](/D/resources.md) | 
 | [🌐 CLISP](/CLISP) |[ℹ️ Edit it!](/CLISP/README.md) | [ℹ️ Add one!](/CLISP/books.md) | [ℹ️ Add one!](/CLISP/courses.md) | [ℹ️ Add one!](/CLISP/resources.md) | 
 | [🌐 C-Shell](/C-Shell) |[ℹ️ Edit it!](/C-Shell/README.md) | [ℹ️ Add one!](/C-Shell/books.md) | [ℹ️ Add one!](/C-Shell/courses.md) | [ℹ️ Add one!](/C-Shell/resources.md) | 
-| [🌐 BCPL](/BCPL) |[ℹ️ Edit it!](/BCPL/README.md) | [ℹ️ Add one!](/BCPL/books.md) | [ℹ️ Add one!](/BCPL/courses.md) | [ℹ️ Add one!](/BCPL/resources.md) | 
 | [🌐 ASCII](/ASCII) |[ℹ️ Edit it!](/ASCII/README.md) | [ℹ️ Add one!](/ASCII/books.md) | [ℹ️ Add one!](/ASCII/courses.md) | [ℹ️ Add one!](/ASCII/resources.md) | 
