@@ -71,6 +71,7 @@
 | [🌐 Carbon](/Carbon) |✅ Done! | [ℹ️ Add one!](/Carbon/books.md) | [ℹ️ Add one!](/Carbon/courses.md) | [ℹ️ Add one!](/Carbon/resources.md) | 
 | [🌐 CUDA](/CUDA) |✅ Done! | [ℹ️ Add one!](/CUDA/books.md) | [ℹ️ Add one!](/CUDA/courses.md) | [ℹ️ Add one!](/CUDA/resources.md) | 
 | [🌐 COBOL](/COBOL) |✅ Done! | [ℹ️ Add one!](/COBOL/books.md) | [ℹ️ Add one!](/COBOL/courses.md) | [ℹ️ Add one!](/COBOL/resources.md) | 
+| [🌐 CLISP](/CLISP) |✅ Done! | [ℹ️ Add one!](/CLISP/books.md) | [ℹ️ Add one!](/CLISP/courses.md) | [ℹ️ Add one!](/CLISP/resources.md) | 
 | [🌐 C](/C) |✅ Done! | [ℹ️ Add one!](/C/books.md) | [ℹ️ Add one!](/C/courses.md) | [ℹ️ Add one!](/C/resources.md) | 
 | [🌐 Brainfuck](/Brainfuck) |✅ Done! | [ℹ️ Add one!](/Brainfuck/books.md) | [ℹ️ Add one!](/Brainfuck/courses.md) | [ℹ️ Add one!](/Brainfuck/resources.md) | 
 | [🌐 Blender](/Blender) |✅ Done! | [ℹ️ Add one!](/Blender/books.md) | [ℹ️ Add one!](/Blender/courses.md) | [ℹ️ Add one!](/Blender/resources.md) | 
@@ -146,6 +147,5 @@
 | [🌐 Docker](/Docker) |[ℹ️ Edit it!](/Docker/README.md) | [ℹ️ Add one!](/Docker/books.md) | [ℹ️ Add one!](/Docker/courses.md) | [ℹ️ Add one!](/Docker/resources.md) | 
 | [🌐 D](/D) |[ℹ️ Edit it!](/D/README.md) | [ℹ️ Add one!](/D/books.md) | [ℹ️ Add one!](/D/courses.md) | [ℹ️ Add one!](/D/resources.md) | 
 | [🌐 Common-Lisp](/Common-Lisp) |[ℹ️ Edit it!](/Common-Lisp/README.md) | [ℹ️ Add one!](/Common-Lisp/books.md) | [ℹ️ Add one!](/Common-Lisp/courses.md) | [ℹ️ Add one!](/Common-Lisp/resources.md) | 
-| [🌐 CLISP](/CLISP) |[ℹ️ Edit it!](/CLISP/README.md) | [ℹ️ Add one!](/CLISP/books.md) | [ℹ️ Add one!](/CLISP/courses.md) | [ℹ️ Add one!](/CLISP/resources.md) | 
 | [🌐 C-Shell](/C-Shell) |[ℹ️ Edit it!](/C-Shell/README.md) | [ℹ️ Add one!](/C-Shell/books.md) | [ℹ️ Add one!](/C-Shell/courses.md) | [ℹ️ Add one!](/C-Shell/resources.md) | 
 | [🌐 ASCII](/ASCII) |[ℹ️ Edit it!](/ASCII/README.md) | [ℹ️ Add one!](/ASCII/books.md) | [ℹ️ Add one!](/ASCII/courses.md) | [ℹ️ Add one!](/ASCII/resources.md) | 

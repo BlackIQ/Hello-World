@@ -59,7 +59,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 
 - [C](/C) - Added By <img src="https://github.com/moheb2000.png?size=25" width="25" height="25" /> [Mohammad Ebrahime](https://github.com/moheb2000)
 - [C-Shell](/C-Shell)
-- [CLISP](/CLISP)
+- [CLISP](/CLISP) - Added By <img src="https://github.com/thegreatsourcerer.png?size=25" width="25" height="25" /> [Rishi Chitnis](https://github.com/thegreatsourcerer)
 - [COBOL](/COBOL) - Added By <img src="https://github.com/sami2020pro.png?size=25" width="25" height="25" /> [Sami Ghasemi](https://github.com/sami2020pro)
 - [CUDA](/CUDA)
 - [Carbon](/Carbon) - Added By <img src="https://github.com/ArshiaPazoki.png?size=25" width="25" height="25" /> [Arshia Pazoki](https://github.com/ArshiaPazoki)

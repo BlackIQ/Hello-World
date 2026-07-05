@@ -196,6 +196,7 @@
 │   ├── courses.md
 │   ├── examples
 │   │   └── Clisp.lisp
+│   ├── info.json
 │   └── resources.md
 ├── COBOL
 │   ├── README.md
@@ -998,7 +999,6 @@
 │   ├── info.json
 │   └── resources.md
 ├── README.md
-├── React
 ... length_limit, 1000, reached, counted:
 
-233 directories, 767 files
+232 directories, 768 files
