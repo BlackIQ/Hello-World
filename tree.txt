@@ -294,7 +294,9 @@
 │   ├── books.md
 │   ├── courses.md
 │   ├── examples
-│   │   └── CSharp.cs
+│   │   ├── CSharp.cs
+│   │   ├── StaticUsingCSharp.cs
+│   │   └── TopLevelStatementCSharp.cs
 │   ├── info.json
 │   └── resources.md
 ├── Css
@@ -997,8 +999,6 @@
 │   ├── examples
 │   │   └── R.R
 │   ├── info.json
-│   └── resources.md
-├── README.md
 ... length_limit, 1000, reached, counted:
 
 232 directories, 768 files
