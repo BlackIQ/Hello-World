@@ -255,6 +255,14 @@
 │   │   └── Coffe.coffe
 │   ├── info.json
 │   └── resources.md
+├── Common-Lisp
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── common-lisp.lisp
+│   ├── info.json
+│   └── resources.md
 ├── Cow
 │   ├── README.md
 │   ├── books.md
@@ -991,14 +999,6 @@
 │   └── resources.md
 ├── README.md
 ├── React
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   │   └── index.js
-│   ├── info.json
-│   └── resources.md
-├── React-Native
 ... length_limit, 1000, reached, counted:
 
 233 directories, 767 files
