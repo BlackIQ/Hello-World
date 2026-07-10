@@ -15,6 +15,7 @@
 | [🌐 Go](/Go) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Go/courses.md) | [ℹ️ Add one!](/Go/resources.md) | 
 | [🌐 Fastapi](/Fastapi) |✅ Done! | [ℹ️ Add one!](/Fastapi/books.md) | ✅ Done! | [ℹ️ Add one!](/Fastapi/resources.md) | 
 | [🌐 Emberjs](/Emberjs) |✅ Done! | [ℹ️ Add one!](/Emberjs/books.md) | ✅ Done! | [ℹ️ Add one!](/Emberjs/resources.md) | 
+| [🌐 C](/C) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/C/courses.md) | [ℹ️ Add one!](/C/resources.md) | 
 | [🌐 Arduino](/Arduino) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Arduino/courses.md) | [ℹ️ Add one!](/Arduino/resources.md) | 
 | [🌐 فردوسی](/فردوسی) |✅ Done! | [ℹ️ Add one!](/فردوسی/books.md) | [ℹ️ Add one!](/فردوسی/courses.md) | [ℹ️ Add one!](/فردوسی/resources.md) | 
 | [🌐 Zig-lang](/Zig-lang) |✅ Done! | [ℹ️ Add one!](/Zig-lang/books.md) | [ℹ️ Add one!](/Zig-lang/courses.md) | [ℹ️ Add one!](/Zig-lang/resources.md) | 
@@ -72,7 +73,6 @@
 | [🌐 CUDA](/CUDA) |✅ Done! | [ℹ️ Add one!](/CUDA/books.md) | [ℹ️ Add one!](/CUDA/courses.md) | [ℹ️ Add one!](/CUDA/resources.md) | 
 | [🌐 COBOL](/COBOL) |✅ Done! | [ℹ️ Add one!](/COBOL/books.md) | [ℹ️ Add one!](/COBOL/courses.md) | [ℹ️ Add one!](/COBOL/resources.md) | 
 | [🌐 CLISP](/CLISP) |✅ Done! | [ℹ️ Add one!](/CLISP/books.md) | [ℹ️ Add one!](/CLISP/courses.md) | [ℹ️ Add one!](/CLISP/resources.md) | 
-| [🌐 C](/C) |✅ Done! | [ℹ️ Add one!](/C/books.md) | [ℹ️ Add one!](/C/courses.md) | [ℹ️ Add one!](/C/resources.md) | 
 | [🌐 Brainfuck](/Brainfuck) |✅ Done! | [ℹ️ Add one!](/Brainfuck/books.md) | [ℹ️ Add one!](/Brainfuck/courses.md) | [ℹ️ Add one!](/Brainfuck/resources.md) | 
 | [🌐 Blender](/Blender) |✅ Done! | [ℹ️ Add one!](/Blender/books.md) | [ℹ️ Add one!](/Blender/courses.md) | [ℹ️ Add one!](/Blender/resources.md) | 
 | [🌐 Binary](/Binary) |✅ Done! | [ℹ️ Add one!](/Binary/books.md) | [ℹ️ Add one!](/Binary/courses.md) | [ℹ️ Add one!](/Binary/resources.md) | 
