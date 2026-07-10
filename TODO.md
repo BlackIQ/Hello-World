@@ -144,6 +144,7 @@
 | [🌐 Elm](/Elm) |[ℹ️ Edit it!](/Elm/README.md) | [ℹ️ Add one!](/Elm/books.md) | [ℹ️ Add one!](/Elm/courses.md) | [ℹ️ Add one!](/Elm/resources.md) | 
 | [🌐 Elixir](/Elixir) |[ℹ️ Edit it!](/Elixir/README.md) | [ℹ️ Add one!](/Elixir/books.md) | [ℹ️ Add one!](/Elixir/courses.md) | [ℹ️ Add one!](/Elixir/resources.md) | 
 | [🌐 Eiffel](/Eiffel) |[ℹ️ Edit it!](/Eiffel/README.md) | [ℹ️ Add one!](/Eiffel/books.md) | [ℹ️ Add one!](/Eiffel/courses.md) | [ℹ️ Add one!](/Eiffel/resources.md) | 
+| [🌐 EBuild](/EBuild) |[ℹ️ Edit it!](/EBuild/README.md) | [ℹ️ Add one!](/EBuild/books.md) | [ℹ️ Add one!](/EBuild/courses.md) | [ℹ️ Add one!](/EBuild/resources.md) | 
 | [🌐 Docker](/Docker) |[ℹ️ Edit it!](/Docker/README.md) | [ℹ️ Add one!](/Docker/books.md) | [ℹ️ Add one!](/Docker/courses.md) | [ℹ️ Add one!](/Docker/resources.md) | 
 | [🌐 D](/D) |[ℹ️ Edit it!](/D/README.md) | [ℹ️ Add one!](/D/books.md) | [ℹ️ Add one!](/D/courses.md) | [ℹ️ Add one!](/D/resources.md) | 
 | [🌐 Common-Lisp](/Common-Lisp) |[ℹ️ Edit it!](/Common-Lisp/README.md) | [ℹ️ Add one!](/Common-Lisp/books.md) | [ℹ️ Add one!](/Common-Lisp/courses.md) | [ℹ️ Add one!](/Common-Lisp/resources.md) | 

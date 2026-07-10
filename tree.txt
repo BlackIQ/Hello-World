@@ -402,6 +402,13 @@
 │   │   └── official.sh
 │   ├── info.json
 │   └── resources.md
+├── EBuild
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── hello_world.ebuild
+│   └── resources.md
 ├── Eiffel
 │   ├── README.md
 │   ├── books.md
@@ -992,13 +999,6 @@
 │   │   └── root.tsx
 │   ├── info.json
 │   └── resources.md
-├── R
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   │   └── R.R
-│   ├── info.json
 ... length_limit, 1000, reached, counted:
 
 232 directories, 768 files
