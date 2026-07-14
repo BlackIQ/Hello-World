@@ -44,6 +44,7 @@
 | [Milad Ahmadi](https://github.com/Mildroid)|1|
 | [Mehen](https://github.com/mehanalavimajd)|1|
 | [Sina](https://github.com/sina-devel)|1|
+| [Rishi Chitnis](https://github.com/rishichitnis007)|1|
 | [Kourosh Alinaghi](https://github.com/KouroshAlinaghi)|1|
 | [Sami Ghasemi](https://github.com/sami2020pro/)|1|
 | [Hasan](https://github.com/bistcuite)|1|

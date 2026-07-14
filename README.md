@@ -93,7 +93,7 @@ Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://
 
 ---
 
-- [EBuild](/EBuild)
+- [EBuild](/EBuild) - Added By <img src="https://github.com/rishichitnis007.png?size=25" width="25" height="25" /> [Rishi Chitnis](https://github.com/rishichitnis007)
 - [Eiffel](/Eiffel) - Added By <img src="https://github.com/Fahime-zv.png?size=25" width="25" height="25" /> [Fahime Zivdar](https://github.com/Fahime-zv)
 - [Elixir](/Elixir) - Added By <img src="https://github.com/KouroshAlinaghi.png?size=25" width="25" height="25" /> [Kourosh Alinaghi](https://github.com/KouroshAlinaghi)
 - [Elm](/Elm) - Added By <img src="https://github.com/01shadowalker01.png?size=25" width="25" height="25" /> [Saeed Bayat](https://github.com/01shadowalker01)
