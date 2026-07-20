@@ -729,6 +729,13 @@
 │   │   └── HelloWorld.m
 │   ├── info.json
 │   └── resources.md
+├── Mii
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── helloworld.moo
+│   └── resources.md
 ├── Mql4
 │   ├── README.md
 │   ├── books.md
@@ -992,13 +999,6 @@
 │   │   └── images
 │   │       ├── Introduction-to-Quantum-Computing-with QSharp-book.png
 │   │       ├── Learn to build your first quantum solution with the Quantum Development Kit and Q#.png
-│   │       ├── Listing 1.png
-│   │       ├── Listing 2.png
-│   │       ├── Listing 3.png
-│   │       ├── Listing 4.png
-│   │       ├── Listing5.png
-│   │       └── Qsharp language.jpg
-│   ├── books.md
 ... length_limit, 1000, reached, counted:
 
-233 directories, 767 files
+235 directories, 765 files
